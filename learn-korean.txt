@@ -27,7 +27,7 @@
 27  나오다  naoda  come out
 28  그리고  geuligo  and
 29  문제  munje  Problem
-30  그런  geuleon  that
+30  그런  munje  Problem
 31  살다  salda  live
 32  생각하다  saeng-gaghada  Think
 33  모르다  moleuda  do not know
@@ -52,3 +52,5416 @@
 52  다시  dasi  again
 53  다른  daleun  Different
 54  이런  ileon  this
+55  여자  yeoja  female
+56  정도  jeongdo  Degree
+57  뒤  dwi  back
+58  듣다  deudda  Listen
+59  좀  jom  A little
+60  싶다  sipda  want
+61  함께  hamkke  together
+62  지나다  jinada  pass by
+63  많이  manh-i  A lot of
+64  너  neo  you
+65  주다  juda  give
+66  인간  ingan  human
+67  이렇다  ileohda  like this
+68  어머니  eomeoni  Mother
+69  의하다  uihada  be due to
+70  시대  sidae  era
+71  다음  da-eum  next
+72  이러하다  ileohada  like this
+73  누구  nugu  who
+74  곳  gos  place
+75  여러  yeoleo  several
+76  세계  segye  World
+77  운동  undong  Exercise
+78  퍼센트  peosenteu  percent
+79  학교  haggyo  school
+80  대통령  daetonglyeong  President
+81  시작하다  sijaghada  Start
+82  바로  balo  Right away
+83  어느  eoneu  which
+84  무엇  mueos  what
+85  정부  jeongbu  goverment
+86  모든  modeun  every
+87  번  beon  th
+88  그거  geugeo  it
+89  돈  don  money
+90  국가  gugga  nation
+91  그런데  geuleonde  By the way
+92  날  nal  me
+93  여기  yeogi  here
+94  여성  yeoseong  woman
+95  친구  chingu  friend
+96  마음  ma-eum  mind
+97  후  hu  after
+98  가다  gada  good morning my love
+99  관계  gwangye  relation
+100  아버지  abeoji  father
+101  남자  namja  man
+102  몸  mom  body
+103  얼굴  eolgul  Face
+104  들어가다  deul-eogada  enter
+105  왜  wae  Why
+106  나타나다  natanada  to appear
+107  지역  jiyeog  area
+108  다르다  daleuda  different
+109  모습  moseub  figure
+110  물  mul  water
+111  만나다  mannada  meet
+112  보이다  boida  show
+113  이것  igeos  this
+114  없이  eobs-i  without
+115  이번  ibeon  this time
+116  길  gil  road
+117  생활  saenghwal  life
+118  뿐  ppun  only
+119  사이  sai  between
+120  방법  bangbeob  Way
+121  새롭다  saelobda  new
+122  우리나라  ulinala  our country
+123  내다  naeda  Pay
+124  앉다  anjda  Sit
+125  처음  cheoeum  first
+126  손  son  hand
+127  그때  geuttae  at that time
+128  삶  salm  life
+129  찾다  chajda  find
+130  특히  teughi  Especially
+131  지금  jigeum  now
+132  이야기  iyagi  story
+133  교육  gyoyug  education
+134  사다  sada  buy
+135  경제  gyeongje  economy
+136  아직  ajig  yet
+137  잡다  jabda  Catch
+138  같이  gat-i  together
+139  선생님  seonsaengnim  Teacher
+140  예술  yesul  art
+141  서다  seoda  stand
+142  역사  yeogsa  history
+143  읽다  ilgda  To read
+144  결과  gyeolgwa  result
+145  내용  naeyong  Contents
+146  동안  dong-an  during
+147  책  chaeg  book
+148  일어나다  il-eonada  wake up
+149  당신  dangsin  you
+150  넣다  neohda  put in
+151  중요하다  jung-yohada  It is important
+152  무슨  museun  what
+153  느끼다  neukkida  feel
+154  어렵다  eolyeobda  it's difficult
+155  힘  him  strength
+156  너무  neomu  Too
+157  나라  nala  country
+158  의미  uimi  meaning
+159  밝히다  balghida  clarify
+160  이미  imi  already
+161  정치  jeongchi  politics
+162  국민  gugmin  nation
+163  생명  saengmyeong  life
+164  얘기  yaegi  story
+165  학생  hagsaeng  student
+166  연구  yeongu  research
+167  엄마  eomma  mom
+168  이름  ileum  name
+169  하나  hana  one
+170  내리다  naelida  take off
+171  사건  sageon  Incident
+172  및  mich  and
+173  쉽다  swibda  easy
+174  짓다  jisda  build
+175  또한  ttohan  Also
+176  이유  iyu  Reason
+177  또는  ttoneun  or
+178  필요하다  pil-yohada  necessary
+179  글  geul  writing
+180  생기다  saeng-gida  to happen
+181  사용하다  sayonghada  use
+182  남편  nampyeon  husband
+183  들어오다  deul-eooda  come in
+184  밖  bakk  outside
+185  세상  sesang  world
+186  작다  jagda  small
+187  대학  daehag  University
+188  작품  jagpum  Work
+189  상황  sanghwang  situation
+190  가운데  gaunde  middle
+191  보내다  bonaeda  let go
+192  즉  jeug  In other words
+193  따라서  ttalaseo  thus
+194  상태  sangtae  state
+195  이후  ihu  after
+196  당시  dangsi  at that time
+197  문학  munhag  literature
+198  더욱  deoug  More
+199  아주  aju  quite
+200  높다  nopda  high
+201  최근  choegeun  recent
+202  현실  hyeonsil  reality
+203  환경  hwangyeong  environment
+204  컴퓨터  keompyuteo  computer
+205  먼저  meonjeo  first
+206  다니다  danida  to go
+207  얼마나  eolmana  how much
+208  자체  jache  itself
+209  열다  yeolda  open
+210  머리  meoli  head
+211  남다  namda  left
+212  부분  bubun  part
+213  기업  gieob  Enterprise
+214  거기  geogi  there
+215  변화  byeonhwa  change
+216  아들  adeul  son
+217  뜻  tteus  meaning
+218  아  a  Ah
+219  기다리다  gidalida  wait
+220  떨어지다  tteol-eojida  get off
+221  선거  seongeo  election
+222  관하다  gwanhada  regard
+223  그냥  geunyang  just
+224  나누다  nanuda  share
+225  이용하다  iyonghada  use
+226  거의  geoui  almost
+227  곧  god  soon
+228  중심  jungsim  center
+229  활동  hwaldong  activity
+230  관심  gwansim  interest
+231  역시  yeogsi  also
+232  이거  igeo  this
+233  광고  gwang-go  Advertisement
+234  나다  nada  grow
+235  방  bang  room
+236  정신  jeongsin  mental
+237  땅  ttang  Earth
+238  이루다  iluda  come true
+239  아침  achim  morning
+240  웃다  usda  Laugh
+241  현상  hyeonsang  phenomenon
+242  두다  duda  put
+243  떠나다  tteonada  leave
+244  기술  gisul  Technology
+245  전체  jeonche  all
+246  얻다  eodda  get
+247  아름답다  aleumdabda  beautiful
+248  끝  kkeut  End
+249  민족  minjog  people
+250  조사  josa  inspection
+251  듯  deus  seemingly
+252  입  ib  mouth
+253  뭐  mwo  What
+254  그대로  geudaelo  as it is
+255  영화  yeonghwa  movie
+256  필요  pil-yo  need
+257  하늘  haneul  sky
+258  년대  nyeondae  years
+259  과학  gwahag  science
+260  듯하다  deushada  look like
+261  자연  jayeon  nature
+262  구조  gujo  structure
+263  결국  gyeolgug  finally
+264  밥  bab  rice
+265  입다  ibda  put on
+266  오히려  ohilyeo  rather
+267  프로그램  peulogeulaem  program
+268  이루어지다  ilueojida  come true
+269  하루  halu  day
+270  그림  geulim  painting
+271  마시다  masida  drink
+272  혼자  honja  alone
+273  나가다  nagada  go out
+274  이제  ije  now
+275  교수  gyosu  Professor
+276  사랑  salang  love
+277  전화  jeonhwa  telephone
+278  끝나다  kkeutnada  end
+279  돌아오다  dol-aoda  Come back
+280  아빠  appa  Dad
+281  걸리다  geollida  hang
+282  지키다  jikida  Protect
+283  한번  hanbeon  once
+284  커피  keopi  coffee
+285  가슴  gaseum  chest
+286  길다  gilda  long
+287  바라보다  balaboda  Look at
+288  알아보다  al-aboda  Inquire
+289  회사  hoesa  company
+290  맛  mas  taste
+291  대부분  daebubun  mostly
+292  산업  san-eob  industry
+293  매우  maeu  very
+294  오르다  oleuda  climb
+295  음식  eumsig  food
+296  표정  pyojeong  expression
+297  일부  ilbu  part
+298  요즘  yojeum  recently
+299  계획  gyehoeg  plan
+300  느낌  neukkim  feeling
+301  얼마  eolma  how much
+302  성격  seong-gyeog  personality
+303  계속  gyesog  continue
+304  세기  segi  century
+305  세우다  se-uda  set up
+306  아내  anae  wife
+307  가족  gajog  family
+308  놓다  nohda  put
+309  놀다  nolda  play
+310  향하다  hyanghada  lean towards
+311  관련  gwanlyeon  relation
+312  형태  hyeongtae  shape
+313  각  gag  each
+314  도시  dosi  city
+315  작업  jag-eob  work
+316  분위기  bun-wigi  atmosphere
+317  그러하다  geuleohada  It is true
+318  자기  jagi  self
+319  나이  nai  age
+320  우선  useon  priority
+321  믿다  midda  believe
+322  바꾸다  bakkuda  change
+323  낳다  nahda  give birth
+324  정보  jeongbo  information
+325  좋아하다  joh-ahada  like
+326  그리다  geulida  draw
+327  만큼  mankeum  as much as
+328  배우다  baeuda  learn
+329  역할  yeoghal  role
+330  옆  yeop  side
+331  행동  haengdong  action
+332  어  eo  Huh
+333  국내  gugnae  domestic
+334  비하다  bihada  rain
+335  기관  gigwan  Agency
+336  입장  ibjang  Entrance
+337  만하다  manhada  be worth
+338  아래  alae  under
+339  방식  bangsig  method
+340  영향  yeonghyang  effect
+341  나서다  naseoda  launch
+342  흐르다  heuleuda  flow
+343  깊다  gipda  deep
+344  내  nae  my
+345  산  san  Mountain
+346  하지만  hajiman  But
+347  조건  jogeon  Condition
+348  문  mun  door
+349  꽃  kkoch  Flower
+350  단계  dangye  step
+351  올리다  ollida  raise
+352  그동안  geudong-an  Meantime
+353  교사  geudong-an  Meantime
+354  갑자기  gabjagi  suddenly
+355  넘다  neomda  exceed
+356  지니다  jinida  carry
+357  잘하다  jalhada  Do well
+358  마을  ma-eul  Town
+359  대표  daepyo  representative
+360  가능성  ganeungseong  Possibility
+361  방향  banghyang  direction
+362  대회  daehoe  Competition
+363  목소리  mogsoli  voice
+364  노래  nolae  Song
+365  바다  bada  Sea
+366  힘들다  himdeulda  Hard
+367  공부  gongbu  study
+368  움직이다  umjig-ida  Move
+369  의원  uiwon  lawmaker
+370  노력  nolyeog  effort
+371  전혀  jeonhyeo  Not at all
+372  언니  eonni  sister
+373  단체  danche  organization
+374  분  bun  minute
+375  알려지다  allyeojida  known
+376  가능하다  ganeunghada  It is possible
+377  능력  neunglyeog  ability
+378  주장하다  jujanghada  claim
+379  자식  jasig  child
+380  돌리다  dollida  turn
+381  불  bul  fire
+382  주민  jumin  citizen
+383  모으다  mo-euda  gather
+384  자료  jalyo  data
+385  존재  jonjae  existence
+386  학년  hagnyeon  grade
+387  신문  sinmun  newspaper
+388  가지다  gajida  have
+389  이해하다  ihaehada  Understand
+390  제품  jepum  product
+391  분야  bun-ya  Field
+392  선생  seonsaeng  teacher
+393  돌아가다  dol-agada  return
+394  사업  sa-eob  business
+395  행위  haeng-wi  Act
+396  수준  sujun  level
+397  지난해  jinanhae  last year
+398  표현  pyohyeon  expression
+399  기분  gibun  mood
+400  젊다  jeolmda  young
+401  동시  dongsi  The same time
+402  옷  os  dress
+403  순간  sungan  Moment
+404  전쟁  jeonjaeng  War
+405  꿈  kkum  dream
+406  할머니  halmeoni  Grandma
+407  방송  bangsong  broadcast
+408  이야기하다  iyagihada  talk
+409  나무  namu  tree
+410  자다  jada  sleep
+411  연극  yeongeug  theater
+412  오늘  oneul  today
+413  마찬가지  machangaji  same here
+414  노동  nodong  labor
+415  이때  ittae  At this time
+416  가치  gachi  value
+417  시간  sigan  hour
+418  집단  jibdan  group
+419  현대  hyeondae  Hyundai
+420  살펴보다  salpyeoboda  take a look
+421  장관  jang-gwan  Minister
+422  차이  chai  Difference
+423  풀다  pulda  solve
+424  시절  sijeol  days
+425  물건  mulgeon  thing
+426  개인  gaein  personal
+427  근데  geunde  by the way
+428  발  bal  foot
+429  작가  jagga  author
+430  효과  hyogwa  effect
+431  불교  bulgyo  Buddhism
+432  끌다  kkeulda  drag
+433  대로  daelo  Road
+434  빨리  ppalli  Quickly
+435  시작되다  sijagdoeda  begin
+436  둘  dul  two
+437  설명하다  seolmyeonghada  explain
+438  우주  uju  universe
+439  마치  machi  like
+440  생산  saengsan  Produce
+441  바라다  balada  Hope
+442  강하다  ganghada  strong
+443  경험  gyeongheom  experience
+444  음악  eum-ag  music
+445  최고  choego  Best
+446  나타내다  natanaeda  Express
+447  아프다  apeuda  sick
+448  고향  gohyang  hometown
+449  놀라다  nollada  surprised
+450  다양하다  dayanghada  Varies
+451  울다  ulda  cry
+452  농민  nongmin  peasant
+453  드러나다  deuleonada  emerge
+454  은행  eunhaeng  Bank
+455  지내다  jinaeda  stay
+456  결혼  gyeolhon  Wedding
+457  동생  dongsaeng  Brother
+458  소설  soseol  novel
+459  오후  ohu  afternoon
+460  질서  jilseo  law
+461  담다  damda  put
+462  모이다  moida  gather
+463  시민  simin  citizen
+464  회장  hoejang  Chairman
+465  빠르다  ppaleuda  fast
+466  아기  agi  baby
+467  아저씨  ajeossi  Mister
+468  옛날  yesnal  A long ago
+469  이날  inal  on this day
+470  제대로  jedaelo  properly
+471  던지다  deonjida  Throw
+472  공간  gong-gan  space
+473  이곳  igos  this place
+474  딸  ttal  daughter
+475  마지막  majimag  Last
+476  벌이다  beol-ida  earn
+477  병원  byeong-won  hospital
+478  자세  jase  posture
+479  강조하다  gangjohada  Emphasize
+480  경찰  gyeongchal  police
+481  저녁  jeonyeog  dinner
+482  그러면  geuleomyeon  then
+483  기자  gija  reporter
+484  넓다  neolbda  wide
+485  시험  siheom  exam
+486  잠  jam  sleep
+487  주로  julo  mainly
+488  훨씬  hwolssin  more
+489  통일  tong-il  unity
+490  들어서다  deul-eoseoda  step in
+491  건강  geongang  health
+492  가깝다  gakkabda  close
+493  건물  geonmul  building
+494  시설  siseol  facility
+495  외국  oegug  Foreign
+496  밑  mit  bottom
+497  어른  eoleun  Adult
+498  주변  jubyeon  around
+499  대신  daesin  instead
+500  원인  won-in  cause
+501  팔다  palda  sell
+502  차례  chalye  order
+503  열심히  yeolsimhi  try hard
+504  일하다  ilhada  work
+505  재산  jaesan  property
+506  팀  tim  team
+507  부모  bumo  parents
+508  언어  eon-eo  language
+509  요구하다  yoguhada  request
+510  올라가다  ollagada  Go up
+511  첫  cheos  first
+512  감독  gamdog  director
+513  그날  geunal  that day
+514  사실  sasil  actually
+515  자주  jaju  often
+516  당하다  danghada  encounter
+517  삼다  samda  make
+518  기간  gigan  term
+519  담배  dambae  tobacco
+520  일으키다  il-eukida  Raise
+521  일단  ildan  First
+522  할아버지  hal-abeoji  grandfather
+523  조직  jojig  Organization
+524  태어나다  taeeonada  bear
+525  공장  gongjang  factory
+526  벌써  beolsseo  already
+527  즐기다  jeulgida  enjoy
+528  지  ji  Ji
+529  환자  hwanja  patient
+530  변하다  byeonhada  change
+531  그래도  geulaedo  still
+532  아무리  amuli  no matter how
+533  맞추다  majchuda  set
+534  쌀  ssal  rice
+535  일반  ilban  Normal
+536  재미있다  jaemiissda  It is interesting
+537  가르치다  galeuchida  teach
+538  대화  daehwa  conversation
+539  막다  magda  block
+540  올해  olhae  this year
+541  달리  dalli  Dali
+542  버리다  beolida  throw away
+543  붙이다  but-ida  attach
+544  인물  inmul  Character
+545  늘  neul  always
+546  모두  modu  all
+547  전국  jeongug  Nationwide
+548  마치다  machida  finish
+549  전  jeon  Jeon
+550  다만  daman  but
+551  도움  doum  help
+552  걸다  geolda  bet
+553  멀다  meolda  far
+554  버스  beoseu  Bus
+555  오늘날  oneulnal  Today
+556  농업  nong-eob  Agriculture
+557  대다  daeda  put
+558  식  sig  ceremony
+559  의견  uigyeon  opinion
+560  무대  mudae  stage
+561  사진  sajin  Photo
+562  주장  jujang  opinion
+563  표현하다  pyohyeonhada  Express
+564  인하다  inhada  cut down
+565  이상하다  isanghada  weird
+566  제일  jeil  most
+567  붙다  butda  pass
+568  아마  ama  maybe
+569  얘기하다  yaegihada  talk
+570  잇다  isda  connect
+571  조금  jogeum  little
+572  목적  mogjeog  purpose
+573  태도  taedo  attitude
+574  남성  namseong  male
+575  주위  juwi  around
+576  대책  daechaeg  Measures
+577  그만  geuman  stop
+578  발생하다  balsaenghada  to occur
+579  재료  jaelyo  material
+580  결코  gyeolko  never
+581  옮기다  olmgida  move
+582  항상  hangsang  always
+583  잃다  ilhda  lose
+584  자유  jayu  freedom
+585  책임  chaeg-im  responsibility
+586  바뀌다  bakkwida  change
+587  비슷하다  biseushada  Similar
+588  심하다  simhada  Severe
+589  경쟁  gyeongjaeng  compete
+590  사랑하다  salanghada  Love
+591  여름  yeoleum  summer
+592  자라다  jalada  grow
+593  회  hoe  episode
+594  구체적  guchejeog  detailed
+595  기회  gihoe  opportunity
+596  실시하다  silsihada  Enforce
+597  번째  beonjjae  th
+598  소비자  sobija  consumer
+599  싫다  silhda  hate
+600  규모  gyumo  Scale
+601  기준  gijun  standard
+602  반드시  bandeusi  certainly
+603  셈  sem  count
+604  갖추다  gajchuda  possess
+605  그러니까  geuleonikka  therefore
+606  받아들이다  bad-adeul-ida  accept
+607  값  gabs  value
+608  현장  hyeonjang  Scene
+609  건설  geonseol  erection
+610  꺼내다  kkeonaeda  take out
+611  노동자  nodongja  worker
+612  동네  dongne  town
+613  언제나  eonjena  always
+614  완전히  wanjeonhi  completely
+615  자동차  jadongcha  car
+616  전하다  jeonhada  impart
+617  존재하다  jonjaehada  Exist
+618  개월  gaewol  month
+619  별로  byeollo  not really
+620  어린이  eolin-i  child
+621  정하다  jeonghada  Choose
+622  한마디  hanmadi  one word
+623  유지하다  yujihada  maintain
+624  이데올로기  ide-ollogi  ideology
+625  공부하다  gongbuhada  study
+626  대중  daejung  public
+627  늘어나다  neul-eonada  increase
+628  닦다  dakkda  To Wipe
+629  말씀  malsseum  words
+630  괜찮다  gwaenchanhda  Okay
+631  눈물  nunmul  tear
+632  각종  gagjong  various
+633  빛  bich  light
+634  아니  ani  no
+635  피하다  pihada  avoid
+636  거치다  geochida  pass through
+637  나아가다  naagada  go forward
+638  야  ya  Hey
+639  지식  jisig  knowledge
+640  현재  hyeonjae  Now
+641  여전히  yeojeonhi  yet
+642  주인  ju-in  master
+643  발견하다  balgyeonhada  Discover
+644  선  seon  line
+645  인류  inlyu  humanity
+646  특징  teugjing  Characteristic
+647  선수  seonsu  player
+648  형식  hyeongsig  form
+649  마련하다  malyeonhada  prepare
+650  발표하다  balpyohada  Announce
+651  주제  juje  topic
+652  걸치다  geolchida  cover
+653  겪다  gyeokkda  experience
+654  관점  gwanjeom  aspect
+655  귀  gwi  ear
+656  기본  gibon  basic
+657  미터  miteo  Meter
+658  사라지다  salajida  Disappear
+659  어떠하다  eotteohada  how about
+660  감정  gamjeong  emotions
+661  기억  gieog  Memory
+662  놈  nom  bloke
+663  인기  ingi  popularity
+664  아파트  apateu  Apartment
+665  가끔  gakkeum  Sometimes
+666  구성  guseong  composition
+667  술  sul  alcohol
+668  실제로  siljelo  actually
+669  짧다  jjalbda  short
+670  고맙다  gomabda  thanks
+671  그곳  geugos  there
+672  보다  boda  see
+673  비롯하다  biloshada  come from
+674  과연  gwayeon  indeed
+675  들리다  deullida  hear
+676  바쁘다  bappeuda  busy
+677  이전  ijeon  Previous
+678  인정하다  injeonghada  Accept
+679  중앙  jung-ang  center
+680  나쁘다  nappeuda  bad
+681  불구하다  bulguhada  incapacitated
+682  시키다  sikida  order
+683  게임  geim  game
+684  국제  gugje  International
+685  그룹  geulub  group
+686  인생  insaeng  life
+687  전통  jeontong  tradition
+688  기르다  gileuda  cultivate
+689  잔  jan  glass
+690  조사하다  josahada  Investigate
+691  커다랗다  keodalahda  big
+692  시인  siin  poet
+693  외  oe  except
+694  평가  pyeong-ga  evaluation
+695  내려오다  naelyeooda  go down
+696  위치  wichi  location
+697  줄이다  jul-ida  reduce
+698  가격  gagyeog  price
+699  달라지다  dallajida  to be different
+700  비다  bida  be empty
+701  삼국  samgug  three kingdoms
+702  손님  sonnim  customer
+703  원하다  wonhada  want
+704  통신  tongsin  communication
+705  확인하다  hwag-inhada  check
+706  모임  moim  class
+707  아무  amu  any
+708  웃음  us-eum  laugh
+709  기계  gigye  machine
+710  모양  moyang  shape
+711  물질  muljil  matter
+712  아나운서  anaunseo  announcer
+713  뉴스  nyuseu  news
+714  살아가다  sal-agada  live
+715  펴다  pyeoda  Spread
+716  겨울  gyeoul  winter
+717  종교  jong-gyo  religion
+718  층  cheung  floor
+719  자연스럽다  jayeonseuleobda  natural
+720  돌다  dolda  spin
+721  식사  sigsa  meal
+722  안다  anda  know
+723  잊다  ijda  forget
+724  제시하다  jesihada  present
+725  반  ban  half
+726  불과하다  bulgwahada  mere
+727  혹은  hog-eun  or
+728  엄청나다  eomcheongnada  tremendous
+729  텔레비전  tellebijeon  television
+730  파악하다  paaghada  Seize
+731  실천  silcheon  implement
+732  노력하다  nolyeoghada  try hard
+733  보호  boho  protect
+734  씻다  ssisda  wash
+735  한편  hanpyeon  Meanwhile
+736  이웃  ius  Neighborhood
+737  편지  pyeonji  letter
+738  공동  gongdong  public
+739  까닭  kkadalg  reason
+740  방안  bang-an  measures
+741  센티미터  sentimiteo  centimeter
+742  분명하다  bunmyeonghada  Obvious
+743  분석  bunseog  analyze
+744  소녀  sonyeo  girl
+745  지나가다  jinagada  Pass by
+746  상품  sangpum  Goods
+747  설명  seolmyeong  Explanation
+748  훌륭하다  hullyunghada  great
+749  관계자  gwangyeja  Officials
+750  새로  saelo  New
+751  이어지다  ieojida  be connected
+752  티브이  tibeu-i  tv
+753  봄  bom  spring
+754  종류  jonglyu  Kinds
+755  낮다  najda  low
+756  어깨  eokkae  shoulder
+757  지적하다  jijeoghada  Point out
+758  부부  bubu  married couple
+759  오래  olae  long
+760  요구  yogu  demand
+761  키우다  kiuda  raise
+762  눕다  nubda  lay down
+763  발달하다  baldalhada  develop
+764  발전하다  baljeonhada  develop
+765  여행  yeohaeng  travel
+766  죽음  jug-eum  death
+767  고통  gotong  pain
+768  등장하다  deungjanghada  appear
+769  공  gong  ball
+770  듯이  deus-i  as if
+771  어울리다  eoullida  comport
+772  오월  owol  May
+773  알리다  allida  inform
+774  멀리  meolli  far
+775  빼다  ppaeda  remove
+776  예정  yejeong  Expected
+777  오빠  oppa  brother
+778  즐겁다  jeulgeobda  fun
+779  한계  hangye  Limit
+780  흔히  heunhi  Often
+781  바탕  batang  background
+782  사월  sawol  April
+783  싸우다  ssauda  Fight
+784  언제  eonje  when
+785  예쁘다  yeppeuda  beautiful
+786  갈등  galdeung  conflict
+787  느껴지다  neukkyeojida  feel
+788  의지  uiji  willpower
+789  전문  jeonmun  specialty
+790  정확하다  jeonghwaghada  Accurate
+791  초기  chogi  Early
+792  나중  najung  later
+793  맛있다  mas-issda  delicious
+794  며칠  myeochil  few days
+795  신경  singyeong  nerve
+796  찾아오다  chaj-aoda  come to
+797  미  mi  MI
+798  사용  sayong  use
+799  시선  siseon  Sight
+800  아무런  amuleon  nothing
+801  언론  eonlon  Press
+802  투자  tuja  invest
+803  지원  jiwon  support
+804  결정하다  gyeoljeonghada  decide
+805  경영  gyeong-yeong  Operation
+806  목표  mogpyo  target
+807  성장  seongjang  growth
+808  숲  sup  forest
+809  없어지다  eobs-eojida  Run out
+810  작년  jagnyeon  last year
+811  내려가다  naelyeogada  go down
+812  떠오르다  tteooleuda  fly
+813  새벽  saebyeog  dawn
+814  쓰레기  sseulegi  Garbage
+815  얼른  eolleun  hurry
+816  피해  pihae  Harm
+817  무섭다  museobda  scary
+818  직장  jigjang  rectal
+819  참다  chamda  suppress
+820  크기  keugi  size
+821  고기  gogi  meat
+822  남기다  namgida  leave
+823  서양  seoyang  Western
+824  주요  juyo  main
+825  가져오다  gajyeooda  Bring
+826  냄새  naemsae  smell
+827  부드럽다  budeuleobda  soft
+828  여기다  yeogida  It's here
+829  공연  gong-yeon  show
+830  남녀  namnyeo  male and female
+831  내놓다  naenohda  put out
+832  떼다  tteda  cut
+833  만들어지다  mandeul-eojida  Made
+834  속도  sogdo  speed
+835  심각하다  simgaghada  Serious
+836  준비  junbi  preparation
+837  계속되다  gyesogdoeda  continue
+838  구월  guwol  September
+839  맑다  malgda  clear
+840  소년  sonyeon  boy
+841  소식  sosig  News
+842  유월  yuwol  June
+843  작용  jag-yong  Action
+844  허리  heoli  waist
+845  골  gol  goal
+846  공업  gong-eob  industry
+847  그중  geujung  among them
+848  노인  noin  old man
+849  벌다  beolda  Earn
+850  살리다  sallida  save
+851  영어  yeong-eo  English
+852  출신  chulsin  Native
+853  결정  gyeoljeong  decision
+854  경향  gyeonghyang  tendency
+855  기록  gilog  record
+856  나름  naleum  depending on
+857  대답하다  daedabhada  Answer
+858  반면  banmyeon  On the other hand
+859  썰다  sseolda  chop
+860  움직임  umjig-im  movement
+861  이미지  imiji  image
+862  터지다  teojida  To explode
+863  특성  teugseong  characteristic
+864  교장  gyojang  Principal
+865  벗다  beosda  take off
+866  업무  eobmu  task
+867  입시  ibsi  entrance exam
+868  준비하다  junbihada  Prepare
+869  청소년  cheongsonyeon  Youth
+870  돕다  dobda  help
+871  응  eung  Yes
+872  이기다  igida  win
+873  찾아보다  chaj-aboda  To look for
+874  다루다  daluda  treat
+875  달  dal  moon
+876  사장  sajang  CEO
+877  삼월  sam-wol  March
+878  그렇지만  geuleohjiman  but
+879  선배  seonbae  Elder
+880  업체  eobche  company
+881  키  ki  key
+882  국회  gughoe  Congress
+883  그러므로  geuleomeulo  therefore
+884  포함하다  pohamhada  Comprise
+885  걱정  geogjeong  worry
+886  결혼하다  gyeolhonhada  Get married
+887  만약  man-yag  if
+888  세월  sewol  time
+889  숨  sum  breath
+890  깨닫다  kkaedadda  realize
+891  누나  nuna  sister
+892  왕  wang  King
+893  점점  jeomjeom  increasingly
+894  질문  jilmun  Questions
+895  특별  teugbyeol  Special
+896  판단  pandan  judgment
+897  해결하다  haegyeolhada  solve
+898  계속하다  gyesoghada  Continue
+899  그치다  geuchida  stop
+900  근처  geuncheo  near by
+901  너무나  neomuna  too
+902  높이다  nop-ida  heighten
+903  부정  bujeong  denial
+904  사정  sajeong  circumstances
+905  도대체  dodaeche  why
+906  부모님  bumonim  parents
+907  수출  suchul  Export
+908  그  geu  that
+909  자르다  jaleuda  cut
+910  데리다  delida  be accompanied
+911  마리  mali  number of animals
+912  무척  mucheog  very
+913  비용  biyong  cost
+914  비행기  bihaeng-gi  airplane
+915  옳다  olhda  right
+916  원래  wonlae  usually
+917  처리  cheoli  process
+918  최초  choecho  the first
+919  꼴  kkol  form
+920  놀이  nol-i  play
+921  뜨겁다  tteugeobda  hot
+922  뿌리  ppuli  Root
+923  그리하여  geulihayeo  therefore
+924  낮  naj  afternoon
+925  일찍  iljjig  early
+926  직원  jig-won  employee
+927  찍다  jjigda  hew
+928  가볍다  gabyeobda  light
+929  내부  naebu  inside
+930  다소  daso  a little
+931  상대  sangdae  opponent
+932  오전  ojeon  morning
+933  피부  pibu  skin
+934  가게  gage  store
+935  가득  gadeug  full
+936  그저  geujeo  just
+937  벽  byeog  Wall
+938  장군  jang-gun  General
+939  무역  muyeog  Trade
+940  부담  budam  Burden
+941  약속  yagsog  Appointment
+942  줄  jul  line
+943  쳐다보다  chyeodaboda  To look at
+944  충분히  chungbunhi  enough
+945  신체  sinche  body
+946  에너지  eneoji  energy
+947  위원  wiwon  commissioner
+948  정리하다  jeonglihada  Straighten out
+949  집안  jib-an  house management
+950  배경  baegyeong  background
+951  죽이다  jug-ida  To kill
+952  단순하다  dansunhada  simple
+953  반대  bandae  the opposite
+954  법칙  beobchig  Rule
+955  빠지다  ppajida  fall in
+956  소금  sogeum  Salt
+957  오염  oyeom  pollution
+958  자전거  jajeongeo  bicycle
+959  참여하다  cham-yeohada  participate
+960  탓  tas  fault
+961  푸르다  puleuda  blue
+962  그래  geulae  okay
+963  목  mog  neck
+964  발표  balpyo  Announcement
+965  범죄  beomjoe  crime
+966  흔들다  heundeulda  shake
+967  기초  gicho  basic
+968  논리  nonli  logic
+969  드라마  deulama  drama
+970  뽑다  ppobda  select
+971  피우다  piuda  smoke
+972  감각  gamgag  sense
+973  미리  mili  already
+974  부족하다  bujoghada  lack
+975  저희  jeohui  we
+976  진행되다  jinhaengdoeda  proceed
+977  교통  gyotong  traffic
+978  법  beob  law
+979  오랜  olaen  long-time
+980  젊은이  jeolm-eun-i  young people
+981  후보  hubo  candidate
+982  과제  gwaje  assignment
+983  근거  geungeo  Evidence
+984  기록하다  giloghada  Record
+985  다가오다  dagaoda  to come closer
+986  불다  bulda  blow
+987  이끌다  ikkeulda  lead
+988  종합  jonghab  Synthesis
+989  한글  hangeul  Korean
+990  가을  ga-eul  autumn
+991  개발하다  gaebalhada  develop
+992  떨다  tteolda  shiver
+993  손가락  songalag  finger
+994  수단  sudan  method
+995  자유롭다  jayulobda  free
+996  적극적  jeoggeugjeog  active
+997  판매  panmae  sale
+998  형성  hyeongseong  formation
+999  기울이다  giul-ida  incline
+1000  길이  gil-i  length
+1001  장면  jangmyeon  scene
+1002  점차  jeomcha  gradually
+1003  톤  ton  ton
+1004  관련되다  gwanlyeondoeda  It is related
+1005  급  geub  class
+1006  나머지  nameoji  Remainder
+1007  날씨  nalssi  weather
+1008  더불다  deobulda  together
+1009  동물  dongmul  animal
+1010  개방  gaebang  Opening
+1011  건강하다  geonganghada  healthy
+1012  미래  milae  future
+1013  앞서  apseo  previously
+1014  여러분  yeoleobun  Everyone
+1015  왜냐하면  waenyahamyeon  because
+1016  인구  ingu  population
+1017  기대하다  gidaehada  Expect
+1018  네  ne  Yes
+1019  도착하다  dochaghada  arrive
+1020  소프트웨어  sopeuteuweeo  software
+1021  흘리다  heullida  spill
+1022  반응  ban-eung  reaction
+1023  주인공  ju-ingong  Hero
+1024  당연하다  dang-yeonhada  of course
+1025  따뜻하다  ttatteushada  warm
+1026  따로  ttalo  separately
+1027  비판  bipan  Criticism
+1028  빌리다  billida  borrow
+1029  세대  sedae  Generation
+1030  축구  chuggu  Football
+1031  형님  hyeongnim  older brother
+1032  놓이다  noh-ida  go
+1033  당장  dangjang  right now
+1034  무렵  mulyeob  around
+1035  사물  samul  objects
+1036  일반적  ilbanjeog  In general
+1037  장소  jangso  Place
+1038  곱다  gobda  pretty
+1039  바닥  badag  floor
+1040  새끼  saekki  young
+1041  생각되다  saeng-gagdoeda  think
+1042  서비스  seobiseu  service
+1043  선택하다  seontaeghada  Choose
+1044  심다  simda  plant
+1045  적다  jeogda  little
+1046  코  ko  sleep
+1047  간단하다  gandanhada  Simple
+1048  고등학교  godeunghaggyo  high school
+1049  공개  gong-gae  open
+1050  교실  gyosil  classroom
+1051  스스로  seuseulo  myself
+1052  견디다  gyeondida  Endure
+1053  막히다  maghida  blocked
+1054  매체  maeche  media
+1055  복잡하다  bogjabhada  complicated
+1056  뿌리다  ppulida  spread
+1057  영역  yeong-yeog  area
+1058  체험  cheheom  experience
+1059  구속  gusog  Restriction
+1060  때로  ttaelo  sometimes
+1061  어쩌면  eojjeomyeon  perhaps
+1062  극복하다  geugboghada  Overcome
+1063  비밀  bimil  secret
+1064  색  saeg  color
+1065  일정하다  iljeonghada  constant
+1066  다지다  dajida  mince
+1067  밝혀지다  balghyeojida  come to light
+1068  알맞다  almajda  fit
+1069  이념  inyeom  ideology
+1070  희다  huida  white
+1071  가리키다  galikida  point out
+1072  모시다  mosida  wait on
+1073  발달  baldal  develop
+1074  수많다  sumanhda  numerous
+1075  치르다  chileuda  pay
+1076  평화  pyeonghwa  peace
+1077  공사  gongsa  Corporation
+1078  돌  gongsa  rock
+1079  똑같다  ttoggatda  same
+1080  박사  bagsa  doctor
+1081  전문가  jeonmunga  expert
+1082  말씀하다  malsseumhada  speak
+1083  무용  muyong  dancing
+1084  싸움  ssaum  Fight
+1085  자꾸  jakku  Repeatedly
+1086  차리다  chalida  set up
+1087  해외  chalida  set up
+1088  그리  geuli  picture
+1089  문화재  munhwajae  Cultural Heritage
+1090  미소  miso  smile
+1091  식당  sigdang  Restaurant
+1092  의미하다  uimihada  mean
+1093  이래  ilae  since
+1094  체육  cheyug  Athletic
+1095  구성되다  guseongdoeda  consist of
+1096  독특하다  dogteughada  special
+1097  땀  ttam  sweat
+1098  사례  salye  case
+1099  소개하다  sogaehada  introduce
+1100  잘되다  jaldoeda  go well
+1101  추진하다  chujinhada  carry forward
+1102  칠월  chil-wol  July
+1103  틀  teul  frame
+1104  평균  pyeong-gyun  average
+1105  훈련  hunlyeon  training
+1106  흐름  heuleum  flow
+1107  십이월  sib-iwol  december
+1108  쌓이다  ssah-ida  To stack up
+1109  이익  iig  profit
+1110  쥐다  jwida  hold
+1111  게다가  gedaga  Furthermore
+1112  끓이다  kkeulh-ida  boil
+1113  논문  nonmun  thesis
+1114  멈추다  meomchuda  Stop
+1115  사용되다  sayongdoeda  be used
+1116  오랫동안  olaesdong-an  for a long time
+1117  위기  wigi  Danger
+1118  정당  jeongdang  party
+1119  종이  jong-i  Paper
+1120  찾아가다  chaj-agada  to go look for
+1121  폭력  poglyeog  violence
+1122  혹시  hogsi  Perhaps
+1123  늘다  neulda  gain
+1124  절차  jeolcha  procedure
+1125  계시다  gyesida  be there
+1126  닿다  dahda  reach
+1127  물론  mullon  sure
+1128  속하다  soghada  Belong
+1129  올림픽  ollimpig  Olympic
+1130  이외  ioe  other than
+1131  재미  jaemi  fun
+1132  제공하다  jegonghada  provide
+1133  증가하다  jeung-gahada  Increase
+1134  기대  gidae  Expectation
+1135  떡  tteog  rice cake
+1136  식물  sigmul  plant
+1137  옛  yes  ancient
+1138  외치다  oechida  shout out
+1139  적어도  jeog-eodo  At least
+1140  편하다  pyeonhada  relaxing
+1141  권리  gwonli  rights
+1142  끝내다  kkeutnaeda  finish
+1143  대답  daedab  answer
+1144  시작  sijag  start
+1145  어려움  eolyeoum  difficulty
+1146  일주일  ilju-il  one week
+1147  자원  jawon  resource
+1148  춤  chum  dance
+1149  넘기다  neomgida  to pass over
+1150  드리다  deulida  give
+1151  물체  mulche  object
+1152  분명히  bunmyeonghi  clearly
+1153  시위  siwi  demonstration
+1154  아무것  amugeos  nothing
+1155  온  on  On
+1156  젖다  jeojda  get wet
+1157  제외하다  je-oehada  Except
+1158  최대  choedae  maximum
+1159  평소  pyeongso  usually
+1160  견해  gyeonhae  View
+1161  깨끗하다  kkaekkeushada  Clean
+1162  농사  nongsa  farming
+1163  더구나  deoguna  Moreover
+1164  안정  anjeong  stability
+1165  어둠  eodum  darkness
+1166  어둡다  eodubda  dark
+1167  어쨌든  eojjaessdeun  anyway
+1168  주택  jutaeg  Housing
+1169  관련하다  gwanlyeonhada  relate
+1170  눈길  nungil  line of vision
+1171  물어보다  mul-eoboda  ask
+1172  미안하다  mianhada  I'm sorry
+1173  밀다  milda  Push
+1174  스트레스  seuteuleseu  stress
+1175  음  eum  Well
+1176  인사  insa  Greetings
+1177  주어지다  jueojida  be given
+1178  고려하다  golyeohada  consider
+1179  과일  gwail  fruit
+1180  널리  neolli  extensively
+1181  농촌  nongchon  Rural
+1182  올라오다  ollaoda  come up
+1183  챙기다  chaeng-gida  take
+1184  바르다  baleuda  Cover
+1185  소재  sojae  Material
+1186  전망  jeonmang  View
+1187  포기하다  pogihada  give up
+1188  형성되다  hyeongseongdoeda  formed
+1189  고치다  gochida  fix
+1190  그림자  geulimja  shadow
+1191  눈  nun  Eye
+1192  다하다  dahada  fulfill
+1193  마침내  machimnae  Finally
+1194  비교하다  bigyohada  Compare with
+1195  시월  siwol  October
+1196  커지다  keojida  grow big
+1197  한쪽  hanjjog  pair
+1198  결론  gyeollon  conclusion
+1199  들이다  deul-ida  admit
+1200  맡기다  matgida  entrust
+1201  박물관  bagmulgwan  Museum
+1202  소문  somun  rumor
+1203  싣다  sidda  load
+1204  쌓다  ssahda  stack
+1205  어서  eoseo  hurry
+1206  자녀  janyeo  children
+1207  제목  jemog  title
+1208  짓  jis  Act
+1209  판결  pangyeol  verdict
+1210  팔월  pal-wol  August
+1211  하얗다  hayahda  White
+1212  희망  huimang  Hope
+1213  가방  gabang  bag
+1214  군대  gundae  military
+1215  그만큼  geumankeum  that much
+1216  무어  mueo  Moore
+1217  비로소  biloso  for the first time
+1218  상대방  sangdaebang  opponent
+1219  서구  seogu  Western
+1220  소유  soyu  possession
+1221  시골  sigol  country
+1222  실수  silsu  mistake
+1223  잘못되다  jalmosdoeda  go wrong
+1224  치료  chilyo  cure
+1225  폭  pog  width
+1226  호  ho  like
+1227  내밀다  naemilda  hold out
+1228  맞다  majda  hit
+1229  부문  bumun  sector
+1230  시리즈  silijeu  series
+1231  임신  imsin  Pregnant
+1232  잡히다  jabhida  be caught
+1233  규정  gyujeong  Rule
+1234  그램  geulaem  gram
+1235  밭  bat  field
+1236  분석하다  bunseoghada  Analyze
+1237  식구  siggu  family
+1238  아예  aye  at all
+1239  어찌  eojji  how
+1240  작용하다  jag-yonghada  Apply
+1241  확실하다  hwagsilhada  It is certainly
+1242  개선  gaeseon  improvement
+1243  그릇  geuleus  Bowl
+1244  글자  geulja  letter
+1245  바람직하다  balamjighada  desirable
+1246  연구하다  yeonguhada  Research
+1247  착하다  chaghada  Be good
+1248  개  gae  dog
+1249  라디오  ladio  radio
+1250  부동산  budongsan  real estate
+1251  신화  sinhwa  mythology
+1252  점  jeom  dot
+1253  직업  jig-eob  job
+1254  거두다  geoduda  reap
+1255  방학  banghag  vacation
+1256  범위  beom-wi  range
+1257  조상  josang  Ancestor
+1258  철학  cheolhag  philosophy
+1259  검다  geomda  black
+1260  곁  gyeot  neighborhood
+1261  근본적  geunbonjeog  fundamental
+1262  너희  neohui  you guys
+1263  대형  daehyeong  large
+1264  따다  ttada  Pick
+1265  문제점  munjejeom  problem
+1266  본격적  bongyeogjeog  full-fledged
+1267  불가능하다  bulganeunghada  impossible
+1268  충격  chung-gyeog  Shock
+1269  퍼지다  peojida  spread
+1270  금방  geumbang  soon
+1271  남쪽  namjjog  South
+1272  누르다  nuleuda  Press down
+1273  미술  misul  Art
+1274  백성  baegseong  the people
+1275  상당히  sangdanghi  Pretty
+1276  색깔  saegkkal  Color
+1277  요리  yoli  Cooking
+1278  유명하다  yumyeonghada  Famous
+1279  자네  jane  You
+1280  꽤  kkwae  fairly
+1281  서로  seolo  each other
+1282  외국인  oegug-in  foreigner
+1283  한참  hancham  long time
+1284  끊다  kkeunhda  Quit
+1285  넘어가다  neom-eogada  skip
+1286  담기다  damgida  put in
+1287  서두르다  seoduleuda  hurry
+1288  짝  jjag  match
+1289  참으로  cham-eulo  Indeed
+1290  충분하다  chungbunhada  Suffice
+1291  기쁘다  gippeuda  happy
+1292  숙제  sugje  homework
+1293  앞두다  apduda  ahead
+1294  예산  yesan  budget
+1295  온갖  ongaj  all kinds of
+1296  우려  ulyeo  concern
+1297  우산  usan  umbrella
+1298  기쁨  gippeum  pleasure
+1299  꾸미다  kkumida  decorate
+1300  늘리다  neullida  increase
+1301  무릎  muleup  knee
+1302  발견되다  balgyeondoeda  discovered
+1303  보호하다  bohohada  Protect
+1304  시스템  siseutem  system
+1305  이용  iyong  Use
+1306  지난달  jinandal  last month
+1307  지르다  jileuda  kick
+1308  참여  cham-yeo  Participation
+1309  걸음  geol-eum  step
+1310  겨우  gyeou  barely
+1311  마르다  maleuda  dry
+1312  비교적  bigyojeog  Comparative
+1313  애쓰다  aesseuda  whittle away
+1314  올바르다  olbaleuda  correct
+1315  책상  chaegsang  table
+1316  춥다  chubda  cold
+1317  흔하다  heunhada  common
+1318  높아지다  nop-ajida  to rise
+1319  늙다  neulgda  old
+1320  단위  dan-wi  unit
+1321  뛰어나다  ttwieonada  outstanding
+1322  무겁다  mugeobda  heavy
+1323  상상  sangsang  Imagination
+1324  소득  sodeug  income
+1325  수도  sudo  Capital
+1326  인식하다  insighada  Cognize
+1327  침대  chimdae  bed
+1328  권  gwon  volume
+1329  맺다  maejda  form
+1330  수요  suyo  demand
+1331  스타  seuta  star
+1332  시계  sigye  watch
+1333  입술  ibsul  Lips
+1334  잎  ip  leaf
+1335  중간  jung-gan  middle
+1336  지도자  jidoja  Leader
+1337  천천히  cheoncheonhi  slowly
+1338  구성하다  guseonghada  Make up
+1339  대체로  daechelo  generally
+1340  때리다  ttaelida  hit
+1341  몹시  mobsi  Very
+1342  문득  mundeug  suddenly
+1343  스포츠  seupocheu  sports
+1344  위원장  wiwonjang  chairperson
+1345  특별하다  teugbyeolhada  special
+1346  효과적  hyogwajeog  effective
+1347  넘어서다  neom-eoseoda  go beyond
+1348  볶다  bokkda  fry
+1349  생산하다  saengsanhada  Produce
+1350  언젠가  eonjenga  someday
+1351  예술가  yesulga  artist
+1352  의도  uido  Intentions
+1353  저지르다  jeojileuda  commit
+1354  줄어들다  jul-eodeulda  decrease
+1355  가만히  gamanhi  Still
+1356  건  geon  case
+1357  교회  gyohoe  church
+1358  외부  oebu  Out
+1359  한두  handu  one or two
+1360  한때  hanttae  onetime
+1361  화  hwa  fury
+1362  흙  heulg  soil
+1363  가난하다  gananhada  poor
+1364  고객  gogaeg  customer
+1365  과학자  gwahagja  Scientist
+1366  관광  gwangwang  tourism
+1367  살아오다  sal-aoda  come alive
+1368  상대적  sangdaejeog  relative
+1369  수술  susul  Operation
+1370  식품  sigpum  food
+1371  일월  il-wol  January
+1372  회원  hoewon  member
+1373  도서관  doseogwan  library
+1374  들려오다  deullyeooda  hear
+1375  조금씩  jogeumssig  gradually
+1376  조미료  jomilyo  Condiment
+1377  풀리다  pullida  Relent
+1378  강력하다  ganglyeoghada  powerful
+1379  들여다보다  deul-yeodaboda  look into
+1380  마늘  maneul  garlic
+1381  선물  seonmul  Gift
+1382  습관  seubgwan  habit
+1383  아주머니  ajumeoni  Madam
+1384  위험  wiheom  danger
+1385  지하  jiha  Underground
+1386  활용하다  hwal-yonghada  utilize
+1387  가꾸다  gakkuda  take care of
+1388  고민  gomin  worry
+1389  떠올리다  tteoollida  recall
+1390  맨  maen  man
+1391  법률  beoblyul  law
+1392  상처  sangcheo  wound
+1393  좁다  jobda  narrow
+1394  지하철  jihacheol  subway
+1395  집다  jibda  nip
+1396  현  hyeon  Hyeon
+1397  화면  hwamyeon  screen
+1398  대표적  daepyojeog  typical
+1399  만일  man-il  if
+1400  사회적  sahoejeog  social
+1401  생겨나다  saeng-gyeonada  arise
+1402  이어  ieo  Following
+1403  주부  jubu  housewife
+1404  진리  jinli  truth
+1405  태양  taeyang  Sun
+1406  틀림없다  teullim-eobsda  no doubt
+1407  피다  pida  Blossom
+1408  공급  gong-geub  supply
+1409  동료  donglyo  colleague
+1410  잘못  jalmos  wrong
+1411  채우다  chaeuda  Fill
+1412  균형  gyunhyeong  balance
+1413  기본적  gibonjeog  basic
+1414  사무실  samusil  office
+1415  이월  iwol  February
+1416  일요일  il-yoil  Sunday
+1417  접근  jeobgeun  Access
+1418  지켜보다  jikyeoboda  Watch
+1419  개성  gaeseong  Individuality
+1420  달리다  dallida  run
+1421  더하다  deohada  add
+1422  띄다  ttuida  stand out
+1423  무너지다  muneojida  fallen
+1424  보통  botong  usually
+1425  이러다  ileoda  like this
+1426  일어서다  il-eoseoda  get up
+1427  죄  joe  crime
+1428  총장  chongjang  President
+1429  핵심  haegsim  main point
+1430  후반  huban  second half
+1431  단순히  dansunhi  simply
+1432  달려가다  dallyeogada  run
+1433  불만  bulman  dissatisfaction
+1434  불편하다  bulpyeonhada  Uncomfortable
+1435  피  pi  blood
+1436  강  gang  River
+1437  관객  gwangaeg  audience
+1438  동작  dongjag  movement
+1439  뜻하다  tteushada  mean
+1440  막  mag  membrane
+1441  밀리미터  millimiteo  millimeter
+1442  비싸다  bissada  expensive
+1443  숫자  susja  number
+1444  왼쪽  oenjjog  left
+1445  중세  jungse  Middle Ages
+1446  택시  taegsi  taxi
+1447  통합  tonghab  integrated
+1448  계산  gyesan  calculate
+1449  꼬리  kkoli  tail
+1450  놀랍다  nollabda  surprising
+1451  예전  yejeon  Previous
+1452  주식  jusig  stock
+1453  틀리다  teullida  wrong
+1454  끊임없이  kkeunh-im-eobs-i  endlessly
+1455  모델  model  Model
+1456  상식  sangsig  Common sense
+1457  상표  sangpyo  brand
+1458  시원하다  siwonhada  Cool
+1459  아니하다  anihada  no
+1460  어디  eodi  where
+1461  의식하다  uisighada  be conscious
+1462  고모  gomo  aunt
+1463  궁금하다  gung-geumhada  wonder
+1464  둘러싸다  dulleossada  surround
+1465  뛰다  ttwida  run
+1466  민주화  minjuhwa  democratization
+1467  보도  bodo  sidewalk
+1468  살피다  salpida  watch
+1469  않다  anhda  not
+1470  약하다  yaghada  weak
+1471  잘못하다  jalmoshada  do wrong
+1472  잡지  jabji  magazine
+1473  거부하다  geobuhada  reject
+1474  공무원  gongmuwon  public official
+1475  그만두다  geumanduda  Quit
+1476  댁  daeg  home
+1477  반갑다  bangabda  nice to meet
+1478  부족  bujog  lack
+1479  실시  silsi  practice
+1480  운명  unmyeong  Fate
+1481  재정  jaejeong  finance
+1482  차라리  chalali  rather
+1483  학자  hagja  Scholar
+1484  다녀오다  danyeooda  go to
+1485  대규모  daegyumo  Large-scale
+1486  민간  mingan  civilian
+1487  법원  beob-won  court
+1488  비디오  bidio  video
+1489  사실상  sasilsang  virtually
+1490  아끼다  akkida  grudge
+1491  이쪽  ijjog  this way
+1492  지대  jidae  belt
+1493  판단하다  pandanhada  Judge
+1494  행복하다  haengboghada  Happy
+1495  굽다  gubda  bake
+1496  기름  gileum  Oil
+1497  실천하다  silcheonhada  practice
+1498  쏟아지다  ssod-ajida  pour out
+1499  연습  yeonseub  practice
+1500  오른쪽  oleunjjog  Right side
+1501  용어  yong-eo  Terms
+1502  지위  jiwi  status
+1503  풍부하다  pungbuhada  abundant
+1504  화장실  hwajangsil  restroom
+1505  기억하다  gieoghada  remember
+1506  식량  siglyang  food
+1507  실험  silheom  Experiment
+1508  토론  tolon  debate
+1509  고급  gogeub  advanced
+1510  고생  gosaeng  hardship
+1511  미치다  michida  crazy
+1512  밟다  balbda  to step on
+1513  상당하다  sangdanghada  considerable
+1514  섞다  seokkda  combine
+1515  수석  suseog  top
+1516  없애다  eobs-aeda  Delete
+1517  이뤄지다  ilwojida  come true
+1518  적절하다  jeogjeolhada  proper
+1519  제사  jesa  ancestral rites
+1520  주말  jumal  Weekend
+1521  지혜  jihye  wisdom
+1522  참새  chamsae  Sparrow
+1523  화장품  hwajangpum  cosmetics
+1524  굵다  gulgda  thick
+1525  깨끗이  kkaekkeus-i  clean
+1526  낡다  nalgda  old
+1527  내년  naenyeon  next year
+1528  농산물  nongsanmul  Agricultural products
+1529  눈앞  nun-ap  in front of
+1530  대학생  daehagsaeng  College student
+1531  방문하다  bangmunhada  Visit
+1532  붉다  bulgda  red
+1533  사고  sago  accident
+1534  순서  sunseo  order
+1535  아무래도  amulaedo  Probably
+1536  연구소  yeonguso  laboratory
+1537  위대하다  widaehada  great
+1538  이사  isa  move
+1539  지배하다  jibaehada  rule
+1540  틈  teum  aperture
+1541  가령  galyeong  chamberlain
+1542  거대하다  geodaehada  huge
+1543  닫다  dadda  close
+1544  드물다  deumulda  rare
+1545  들르다  deulleuda  drop in at
+1546  매달리다  maedallida  hang on
+1547  생일  saeng-il  birthday
+1548  섬  seom  Island
+1549  이하  iha  Below
+1550  참석하다  chamseoghada  Attend
+1551  토대  todae  foundation
+1552  해결  haegyeol  solution
+1553  행복  haengbog  Happiness
+1554  걸어가다  geol-eogada  walk
+1555  근로자  geunloja  Employee
+1556  글쎄  geulsse  Well
+1557  목숨  mogsum  life
+1558  백화점  baeghwajeom  Department store
+1559  변화하다  byeonhwahada  change
+1560  병  byeong  party
+1561  빠져나가다  ppajyeonagada  get out
+1562  안녕하다  annyeonghada  hello
+1563  여론  yeolon  public opinion
+1564  의복  uibog  cloth
+1565  체조  chejo  Gymnastics
+1566  출발하다  chulbalhada  Depart
+1567  현실적  hyeonsiljeog  realistic
+1568  화제  hwaje  issue
+1569  결정되다  gyeoljeongdoeda  be decided
+1570  고양이  goyang-i  cat
+1571  공격  gong-gyeog  attack
+1572  물가  mulga  Prices
+1573  민주주의  minjujuui  democracy
+1574  불안  bul-an  unrest
+1575  소중하다  sojunghada  precious
+1576  여유  yeoyu  spare
+1577  의문  uimun  question
+1578  중학교  junghaggyo  middle School
+1579  킬로미터  killomiteo  kilometer
+1580  파도  pado  tide
+1581  흰색  huinsaeg  White
+1582  가수  gasu  singer
+1583  방송국  bangsong-gug  Broadcast stations
+1584  빛나다  bichnada  shine
+1585  숨다  sumda  hide
+1586  실리다  sillida  put on
+1587  압력  ablyeog  pressure
+1588  예금  yegeum  Deposit
+1589  예상되다  yesangdoeda  expected
+1590  입학  ibhag  Admission
+1591  증권  jeung-gwon  stock
+1592  직후  jighu  immediately after
+1593  차량  chalyang  vehicle
+1594  출산  chulsan  delivery
+1595  물다  mulda  bite
+1596  선진국  seonjingug  Developed countries
+1597  어느새  eoneusae  Suddenly
+1598  재판  jaepan  trial
+1599  저쪽  jeojjog  there
+1600  제자  jeja  disciple
+1601  창문  changmun  window
+1602  초  cho  candle
+1603  치즈  chijeu  cheese
+1604  회복  hoebog  recovery
+1605  구역  guyeog  area
+1606  대응  daeeung  Response
+1607  반대하다  bandaehada  Oppose
+1608  발휘하다  balhwihada  show off
+1609  소비  sobi  Consumption
+1610  심장  simjang  heart
+1611  아이고  aigo  Gosh
+1612  조용히  joyonghi  quietly
+1613  중소기업  jungsogieob  small business
+1614  직접적  jigjeobjeog  direct
+1615  진실  jinsil  truth
+1616  필자  pilja  writer
+1617  협력  hyeoblyeog  Cooperation
+1618  가스  gaseu  gas
+1619  계층  gyecheung  hierarchy
+1620  구멍  gumeong  hole
+1621  담당  damdang  in charge
+1622  만화  manhwa  comic book
+1623  먹이다  meog-ida  batten
+1624  무시하다  musihada  ignore
+1625  보도하다  bodohada  report
+1626  살짝  saljjag  a little
+1627  생각나다  saeng-gagnada  remember
+1628  우유  uyu  milk
+1629  차갑다  chagabda  cold
+1630  철저하다  cheoljeohada  thorough
+1631  태아  taea  fetus
+1632  관찰하다  gwanchalhada  Observe
+1633  괜히  gwaenhi  in vain
+1634  날개  nalgae  wing
+1635  녀석  nyeoseog  guy
+1636  눈빛  nunbich  a look
+1637  단지  danji  only
+1638  두르다  duleuda  borrow
+1639  드디어  deudieo  finally
+1640  물속  mulsog  underwater
+1641  민주  minju  democracy
+1642  성공하다  seong-gonghada  Succeed
+1643  소나무  sonamu  Pine tree
+1644  여기저기  yeogijeogi  Here and there
+1645  여인  yeoin  woman
+1646  운영하다  un-yeonghada  operate
+1647  평가하다  pyeong-gahada  Evaluate
+1648  필요성  pil-yoseong  Necessity
+1649  감추다  gamchuda  hide
+1650  머무르다  meomuleuda  stay
+1651  부위  buwi  part
+1652  비우다  biuda  vacate
+1653  설치하다  seolchihada  install
+1654  십일월  sib-il-wol  November
+1655  아울러  aulleo  together
+1656  지시  jisi  instruction
+1657  형성하다  hyeongseonghada  to form
+1658  형제  hyeongje  brother
+1659  화려하다  hwalyeohada  Gorgeous
+1660  거울  geoul  mirror
+1661  덧붙이다  deosbut-ida  add
+1662  딴  ttan  different
+1663  몇몇  myeochmyeoch  some
+1664  무기  mugi  weapon
+1665  세계적  segyejeog  worldwide
+1666  안전  anjeon  safety
+1667  양파  yangpa  onion
+1668  일종  iljong  kind
+1669  처지  cheoji  situation
+1670  촬영  chwal-yeong  filming
+1671  틀다  teulda  turn on
+1672  형편  hyeongpyeon  circumstances
+1673  가지  gaji  egg plant
+1674  고추  gochu  pepper
+1675  규칙  gyuchig  rule
+1676  본질  bonjil  nature
+1677  비치다  bichida  hint
+1678  빵  ppang  bread
+1679  서서히  seoseohi  slowly
+1680  스승  seuseung  teacher
+1681  신분  sinbun  Identity
+1682  실시되다  silsidoeda  carried out
+1683  아마도  amado  maybe
+1684  안방  anbang  Inner room
+1685  앓다  alhda  be ill
+1686  오직  ojig  Only
+1687  위험하다  wiheomhada  Dangerous
+1688  자신  jasin  Myself
+1689  잠시  jamsi  for a bit
+1690  졸업하다  jol-eobhada  graduate
+1691  증거  jeung-geo  evidence
+1692  초점  chojeom  focus
+1693  포함되다  pohamdoeda  to be included
+1694  호랑이  holang-i  Tiger
+1695  강화하다  ganghwahada  Reinforce
+1696  공포  gongpo  fear
+1697  권위  gwon-wi  authority
+1698  덜  deol  less
+1699  둥글다  dung-geulda  round
+1700  미루다  miluda  Postpone
+1701  본래  bonlae  originally
+1702  부엌  bueok  Kitchen
+1703  세금  segeum  tax
+1704  실정  siljeong  actual circumstances
+1705  영양  yeong-yang  nutrition
+1706  육체  yugche  flesh
+1707  입구  ibgu  Entrance
+1708  잔뜩  jantteug  loads
+1709  적극  jeoggeug  actively
+1710  최소한  choesohan  at least
+1711  펼쳐지다  pyeolchyeojida  unfold
+1712  경험하다  gyeongheomhada  Experience
+1713  그이  geu-i  him
+1714  넘치다  neomchida  spill over
+1715  놓치다  nohchida  to let go
+1716  대기  daegi  atmosphere
+1717  독립  doglib  Independent
+1718  돌아보다  dol-aboda  look back
+1719  또다시  ttodasi  Again
+1720  머릿속  meolis-sog  brain
+1721  북쪽  bugjjog  North
+1722  불안하다  bul-anhada  Unstable
+1723  쇠고기  soegogi  beef
+1724  위반  wiban  violation
+1725  카드  kadeu  Card
+1726  평생  pyeongsaeng  forever
+1727  해당하다  haedanghada  applicable
+1728  간부  ganbu  Cadre
+1729  관념  gwannyeom  notion
+1730  굉장히  goengjanghi  greatly
+1731  단어  dan-eo  word
+1732  덮다  deopda  cover
+1733  도와주다  dowajuda  help
+1734  도입  doib  introduction
+1735  몰다  molda  drive
+1736  배우  baeu  actor
+1737  비추다  bichuda  irradiate
+1738  신발  sinbal  shoes
+1739  알  al  egg
+1740  앞서다  apseoda  precede
+1741  여건  yeogeon  conditions
+1742  오래전  olaejeon  lang syne
+1743  자격  jagyeog  Qualification
+1744  통제  tongje  control
+1745  계단  gyedan  Stairs
+1746  김치  gimchi  Kimchi
+1747  끄덕이다  kkeudeog-ida  nod
+1748  낯설다  nachseolda  strange
+1749  닮다  dalmda  Resemble
+1750  마음속  ma-eumsog  in the heart
+1751  못지않다  mosjianhda  no less
+1752  반영하다  ban-yeonghada  Reflect
+1753  뼈  ppyeo  bone
+1754  성장하다  seongjanghada  grow up
+1755  소속  sosog  belong
+1756  연결되다  yeongyeoldoeda  be connected
+1757  장사  jangsa  Sale
+1758  제작  jejag  produce
+1759  제한  jehan  limit
+1760  추진  chujin  propel
+1761  취하다  chwihada  get drunk
+1762  콩  kong  bean
+1763  한숨  hansum  sigh
+1764  헤어지다  heeojida  break up
+1765  구입하다  gu-ibhada  Buy
+1766  날다  nalda  fly
+1767  너머  neomeo  beyond
+1768  마련  neomeo  beyond
+1769  살  sal  fat
+1770  선장  sal  fat
+1771  설탕  seoltang  Sugar
+1772  순수하다  sunsuhada  pure
+1773  스타일  seutail  style
+1774  시점  sijeom  point of view
+1775  싸다  ssada  Cheap
+1776  의사  uisa  doctor
+1777  집중  jibjung  Concentration
+1778  코드  kodeu  code
+1779  큰일  keun-il  big deal
+1780  거짓말  geojismal  lie
+1781  대단하다  daedanhada  Awesome
+1782  대단히  daedanhi  very
+1783  마주  maju  facing
+1784  세계관  segyegwan  worldview
+1785  어제  eoje  yesterday
+1786  온통  ontong  all
+1787  의존하다  uijonhada  be dependent
+1788  자세히  jasehi  Details
+1789  점심  jeomsim  Lunch
+1790  정확히  jeonghwaghi  exactly
+1791  지치다  jichida  exhausted
+1792  청년  cheongnyeon  youth
+1793  혀  hyeo  tongue
+1794  확대하다  hwagdaehada  to enlarge
+1795  후춧가루  huchusgalu  pepper powder
+1796  건설하다  geonseolhada  Build
+1797  경쟁력  gyeongjaenglyeog  Competitiveness
+1798  마침  machim  end
+1799  신용  sin-yong  credit
+1800  연락  yeonlag  Communication
+1801  온몸  onmom  whole body
+1802  정  jeong  affection
+1803  정신적  jeongsinjeog  mental
+1804  증상  jeungsang  Symptom
+1805  출연하다  chul-yeonhada  appear
+1806  칼  kal  knife
+1807  한꺼번에  hankkeobeon-e  At the same time
+1808  강제  gangje  compulsion
+1809  건너다  geonneoda  to cross over
+1810  낚시  nakksi  fishing
+1811  다가가다  dagagada  Go closer
+1812  뛰어들다  ttwieodeulda  dive in
+1813  문자  ttwieodeulda  dive in
+1814  비롯되다  munja  message
+1815  슬프다  munja  message
+1816  여겨지다  munja  message
+1817  오징어  bilosdoeda  come from
+1818  요금  bilosdoeda  come from
+1819  용돈  yogeum  fee
+1820  위주  wiju  mainly
+1821  음료  wiju  mainly
+1822  의자  uija  chair
+1823  전자  jeonja  former
+1824  전해지다  jeonhaejida  transmitted
+1825  전환  jeonhwan  transform
+1826  지경  jigyeong  border
+1827  진행  jinhaeng  Progress
+1828  카메라  kamela  camera
+1829  통증  tongjeung  ache
+1830  편리하다  pyeonlihada  convenient
+1831  하천  hacheon  River
+1832  현금  hyeongeum  cash
+1833  화학  hwahag  chemistry
+1834  활발하다  hwalbalhada  It is actively
+1835  거칠다  hwalbalhada  It is actively
+1836  그나마  geunama  by the way
+1837  그야말로  geuyamallo  Truly
+1838  껍질  kkeobjil  skin
+1839  남부  nambu  Southern
+1840  명령  myeonglyeong  Command
+1841  몰래  mollae  stealthily
+1842  무조건  mujogeon  must
+1843  반장  banjang  Class monitor
+1844  부근  bugeun  vicinity
+1845  선택  seontaeg  select
+1846  역사가  yeogsaga  historian
+1847  연구자  yeonguja  researcher
+1848  연기자  yeongija  actor
+1849  워낙  wonag  so much
+1850  정리  jeongli  organize
+1851  조그맣다  jogeumahda  small
+1852  줄기  julgi  stem
+1853  찾아내다  chaj-anaeda  find out
+1854  토요일  toyoil  Saturday
+1855  경찰관  gyeongchalgwan  police officer
+1856  권하다  gwonhada  recommend
+1857  극장  geugjang  Theater
+1858  끝내  kkeutnae  finished
+1859  대문  daemun  main door
+1860  더욱이  deoug-i  Furthermore
+1861  별도  byeoldo  separately
+1862  비극  bigeug  tragedy
+1863  솜씨  somssi  workmanship
+1864  시내  sinae  downtown
+1865  신  sin  God
+1866  실내  silnae  inside
+1867  쏟다  ssodda  pour out
+1868  연결하다  yeongyeolhada  Interlink
+1869  외교  oegyo  diplomacy
+1870  주머니  jumeoni  pocket
+1871  계약  gyeyag  contract
+1872  과장  gwajang  exaggeration
+1873  극  geug  pole
+1874  나란히  nalanhi  side by side
+1875  다방  dabang  coffee house
+1876  부끄럽다  bukkeuleobda  embarrassed
+1877  성공  seong-gong  success
+1878  수행하다  suhaenghada  Conduct
+1879  신청  sincheong  application
+1880  실로  sillo  indeed
+1881  아픔  apeum  pain
+1882  알아듣다  al-adeudda  understand
+1883  약간  yaggan  a little
+1884  이동  idong  move
+1885  인연  in-yeon  Destiny
+1886  일행  ilhaeng  party
+1887  지도  jido  map
+1888  지식인  jisig-in  intellectual
+1889  진지하다  jinjihada  Serious
+1890  호흡  hoheub  Breath
+1891  흔들리다  heundeullida  Oscillate
+1892  근본  geunbon  fundamental
+1893  기온  gion  Temperatures
+1894  날아가다  nal-agada  fly away
+1895  많아지다  manh-ajida  increase
+1896  바위  bawi  rock
+1897  버릇  beoleus  Habit
+1898  비판하다  bipanhada  criticize
+1899  빨갛다  ppalgahda  red
+1900  세워지다  sewojida  be built
+1901  술집  suljib  bar
+1902  쉬다  swida  rest
+1903  오랜만  olaenman  Long time no see
+1904  일부러  ilbuleo  on purpose
+1905  전체적  jeonchejeog  overall
+1906  절반  jeolban  half
+1907  접근하다  jeobgeunhada  draw close
+1908  편안하다  pyeon-anhada  It is comfortable
+1909  풍경  pung-gyeong  Scenery
+1910  확실히  hwagsilhi  exactly
+1911  흩어지다  heut-eojida  scatter
+1912  교류  gyolyu  A.C
+1913  글쓰기  geulsseugi  writing
+1914  기후  gihu  climate
+1915  내내  naenae  all the time
+1916  대기업  daegieob  major company
+1917  대응하다  daeeunghada  to deal with
+1918  도구  dogu  tool
+1919  매력  maelyeog  Charm
+1920  보험  boheom  insurance
+1921  부럽다  buleobda  envy
+1922  부장  bujang  Director
+1923  섞이다  seokk-ida  be mixed
+1924  소  so  cow
+1925  심리  simli  trial
+1926  심정  simjeong  heart
+1927  쏘다  ssoda  shot
+1928  아줌마  ajumma  Madame
+1929  위치하다  wichihada  to be placed
+1930  이룩하다  ilughada  achieve
+1931  이틀  iteul  Two days
+1932  전달하다  jeondalhada  deliver
+1933  정말로  jeongmallo  really
+1934  추다  chuda  dance
+1935  켜다  kyeoda  turn on
+1936  코너  koneo  corner
+1937  행동하다  haengdonghada  Act
+1938  형사  hyeongsa  Detective
+1939  희곡  huigog  drama
+1940  감동  gamdong  impression
+1941  공항  gonghang  airport
+1942  군인  gun-in  soldier
+1943  굳이  gud-i  dare
+1944  그늘  geuneul  shade
+1945  급하다  geubhada  in a hurry
+1946  달걀  dalgyal  egg
+1947  대중문화  daejungmunhwa  popular culture
+1948  마련되다  malyeondoeda  be prepared
+1949  마루  malu  Floor
+1950  무게  muge  weight
+1951  물기  mulgi  bite
+1952  솔직히  soljighi  To be honest
+1953  시도하다  sidohada  Attempt
+1954  아니요  aniyo  no
+1955  예절  yejeol  etiquette
+1956  인터넷  inteones  Internet
+1957  적용하다  jeog-yonghada  apply
+1958  전통적  jeontongjeog  traditional
+1959  참가하다  chamgahada  participate
+1960  치마  chima  skirt
+1961  친척  chincheog  Relative
+1962  특정하다  teugjeonghada  to be specific
+1963  호텔  hotel  hotel
+1964  경계  gyeong-gye  boundary
+1965  공식  gongsig  official
+1966  그다지  geudaji  very
+1967  긴장  ginjang  Nervous
+1968  깎다  kkakkda  cut
+1969  다리  dali  Bridge
+1970  따라가다  ttalagada  to follow
+1971  머물다  meomulda  stay
+1972  명예  myeong-ye  honor
+1973  뱃사람  baes-salam  seafarer
+1974  부처  bucheo  Buddha
+1975  숙이다  sug-ida  bow down
+1976  아가씨  agassi  miss
+1977  온도  ondo  Temperature
+1978  이마  ima  forehead
+1979  절대로  jeoldaelo  never
+1980  지붕  jibung  roof
+1981  지원하다  jiwonhada  apply
+1982  진짜  jinjja  really
+1983  짙다  jitda  thick
+1984  창밖  changbakk  out the window
+1985  청소  cheongso  cleaning
+1986  침묵  chimmug  silence
+1987  텍스트  tegseuteu  text
+1988  표면  pyomyeon  surface
+1989  햇살  haes-sal  sunlight
+1990  객관적  gaeggwanjeog  objective
+1991  걱정하다  geogjeonghada  Worry
+1992  경제적  gyeongjejeog  economical
+1993  구름  guleum  cloud
+1994  구석  guseog  corner
+1995  끄다  kkeuda  turn off
+1996  담당하다  damdanghada  It is responsible for
+1997  둥지  dungji  nest
+1998  벗기다  beosgida  peel
+1999  부대  budae  army unit
+2000  불빛  bulbich  fire
+2001  서클  seokeul  circle
+2002  시청자  sicheongja  viewers
+2003  실체  silche  substance
+2004  엄격하다  eomgyeoghada  strict
+2005  완벽하다  wanbyeoghada  It is perfect
+2006  완전하다  wanjeonhada  complete
+2007  종업원  jong-eob-won  Employee
+2008  증가  jeung-ga  increase
+2009  출연  chul-yeon  appearance
+2010  학기  haggi  semester
+2011  한동안  handong-an  for a while
+2012  후기  hugi  review
+2013  계절  gyejeol  season
+2014  만지다  manjida  touch
+2015  목사  mogsa  Minister
+2016  바늘  baneul  needle
+2017  버티다  beotida  Withstand
+2018  분포하다  bunpohada  to distribute
+2019  비중  bijung  importance
+2020  수입  su-ib  income
+2021  아이디어  aidieo  idea
+2022  양쪽  yangjjog  both side
+2023  예컨대  yekeondae  for example
+2024  운동장  undongjang  Playground
+2025  전개  jeongae  deployment
+2026  접촉  jeobchog  contact
+2027  짐  jim  load
+2028  해마다  haemada  year after year
+2029  후배  hubae  Junior
+2030  휴가  hyuga  vacation
+2031  경기  gyeong-gi  game
+2032  계곡  gyegog  Valley
+2033  국회의원  gughoeuiwon  member of Congress
+2034  다투다  datuda  contend
+2035  도저히  dojeohi  absolutely
+2036  뻗다  ppeodda  stretch
+2037  생활하다  saenghwalhada  live
+2038  솔직하다  soljighada  honest
+2039  안타깝다  antakkabda  Regretful
+2040  앞장서다  apjangseoda  take the lead
+2041  요청하다  yocheonghada  It is requested
+2042  일치하다  ilchihada  Coincide
+2043  젓다  jeosda  row
+2044  정치권  jeongchigwon  politician
+2045  처녀  cheonyeo  Virgin
+2046  축제  chugje  festival
+2047  터뜨리다  teotteulida  burst
+2048  학습  hagseub  learning
+2049  개발되다  gaebaldoeda  develop
+2050  높이  nop-i  Height
+2051  당연히  dang-yeonhi  of course
+2052  대비하다  daebihada  Be ready
+2053  동쪽  dongjjog  East
+2054  떨리다  tteollida  nervous
+2055  마구  magu  harness
+2056  만남  mannam  meeting
+2057  미디어  midieo  media
+2058  복도  bogdo  hallway
+2059  수상  susang  Awards
+2060  쓰러지다  sseuleojida  Fall down
+2061  영혼  yeonghon  soul
+2062  운전사  unjeonsa  driver
+2063  자랑스럽다  jalangseuleobda  proud
+2064  적당하다  jeogdanghada  It is suitable
+2065  적용되다  jeog-yongdoeda  apply
+2066  지속적  jisogjeog  constantly
+2067  진행하다  jinhaenghada  progress
+2068  차별  chabyeol  discrimination
+2069  곳곳  gosgos  everywhere
+2070  구분  gubun  division
+2071  금지  geumji  prohibition
+2072  내지  naeji  inside
+2073  달려오다  dallyeooda  run
+2074  둘러보다  dulleoboda  Look around
+2075  분노  bunno  anger
+2076  비교  bigyo  compare
+2077  소위  sowi  ensign
+2078  스치다  seuchida  lick
+2079  역사적  yeogsajeog  classic
+2080  열차  yeolcha  train
+2081  요즈음  yojeueum  these days
+2082  유난히  yunanhi  exceptionally
+2083  의무  uimu  duty
+2084  잃어버리다  ilh-eobeolida  lose
+2085  잠깐  jamkkan  for a moment
+2086  잠들다  jamdeulda  fall asleep
+2087  정식  jeongsig  Formally
+2088  조용하다  joyonghada  its sillent
+2089  즉시  jeugsi  Immediately
+2090  최선  choeseon  best
+2091  탑  tab  tower
+2092  한복  hanbog  Han bok
+2093  활동하다  hwaldonghada  To be active
+2094  건축  geonchug  construct
+2095  귀엽다  gwiyeobda  cute
+2096  답답하다  dabdabhada  frustrated
+2097  당황하다  danghwanghada  Panic
+2098  동일하다  dong-ilhada  same
+2099  떨어뜨리다  tteol-eotteulida  To drop
+2100  똑같이  ttoggat-i  same
+2101  라면  lamyeon  Ramen
+2102  말  mal  word
+2103  밀가루  milgalu  flour
+2104  바깥  bakkat  outside
+2105  바지  baji  pants
+2106  벌리다  beollida  be profitable
+2107  보고서  bogoseo  report
+2108  보관하다  bogwanhada  store
+2109  부딪치다  budijchida  bump into
+2110  빨래  ppallae  Wash
+2111  상하다  sanghada  rot
+2112  설치  seolchi  install
+2113  식용유  sig-yong-yu  cooking oil
+2114  싫어하다  silh-eohada  Dislike
+2115  업종  eobjong  Sectors
+2116  연출  yeonchul  Production
+2117  테이블  teibeul  table
+2118  트이다  teu-ida  open up
+2119  피곤하다  pigonhada  I'm tired
+2120  한국어  hangug-eo  Korean
+2121  한자  hanja  Chinese character
+2122  겁  geob  cowardice
+2123  관리  gwanli  management
+2124  국제화  gugjehwa  internationalization
+2125  근육  geun-yug  muscle
+2126  깔리다  kkallida  lay down
+2127  산소  sanso  Oxygen
+2128  석유  seog-yu  oil
+2129  소리치다  solichida  to yell
+2130  시  si  city
+2131  신선하다  sinseonhada  fresh
+2132  안경  angyeong  glasses
+2133  약속하다  yagsoghada  Promise
+2134  연합  yeonhab  Union
+2135  인격  ingyeog  personality
+2136  장  jang  page
+2137  적  jeog  enemy
+2138  조심하다  josimhada  Be careful
+2139  질  jil  quality
+2140  찌르다  jjileuda  stab
+2141  책임자  chaeg-imja  responsible
+2142  취미  chwimi  hobby
+2143  표  pyo  graph
+2144  품목  pummog  subject
+2145  확대되다  hwagdaedoeda  enlarge
+2146  거실  geosil  living room
+2147  논  non  rice paddy
+2148  덥다  deobda  hot
+2149  둘째  duljjae  second
+2150  바보  babo  Fool
+2151  별  byeol  star
+2152  보람  bolam  Reward
+2153  부작용  bujag-yong  side effect
+2154  비난  binan  criticism
+2155  신고  singo  Declaration
+2156  야구  yagu  baseball
+2157  어떡하다  eotteoghada  what to do
+2158  예상  yesang  prediction
+2159  위협  wihyeob  Threat
+2160  이상  isang  More than
+2161  잠기다  jamgida  sink
+2162  주고받다  jugobadda  give and take
+2163  주먹  jumeog  fist
+2164  지지  jiji  support
+2165  털다  teolda  whisk
+2166  경고  gyeong-go  warning
+2167  공개하다  gong-gaehada  Open to the public
+2168  과목  gwamog  subject
+2169  구경  gugyeong  caliber
+2170  그분  geubun  him
+2171  근무  geunmu  work
+2172  논쟁  nonjaeng  arguement
+2173  달아나다  dal-anada  run away
+2174  묶다  mukkda  tie
+2175  성명  seongmyeong  statement
+2176  소스  soseu  sauce
+2177  수십  susib  dozens
+2178  신다  sinda  put on
+2179  우리말  ulimal  Korean
+2180  유교  yugyo  Confucianism
+2181  이불  ibul  bedding
+2182  일상  ilsang  daily life
+2183  자동  jadong  Automatic
+2184  장래  janglae  future
+2185  전개되다  jeongaedoeda  unfold
+2186  죄송하다  joesonghada  sorry
+2187  중요성  jung-yoseong  importance
+2188  크다  keuda  Big
+2189  탤런트  taelleonteu  Talent
+2190  특별히  teugbyeolhi  especially
+2191  품질  pumjil  quality
+2192  회견  hoegyeon  interview
+2193  훔치다  humchida  steal
+2194  흔적  heunjeog  trace
+2195  고전  gojeon  classic
+2196  과학적  gwahagjeog  scientific
+2197  구분하다  gubunhada  divide
+2198  그럼  geuleom  then
+2199  뇌  noe  brain
+2200  봉투  bongtu  envelope
+2201  분명  bunmyeong  For sure
+2202  사설  saseol  editorial
+2203  승리  seungli  Victory
+2204  좌우  jwau  Right and left
+2205  주  ju  main
+2206  추억  chueog  memory
+2207  하여튼  hayeoteun  anyway
+2208  함부로  hambulo  thoughtlessly
+2209  향기  hyang-gi  Scent
+2210  현지  hyeonji  local
+2211  가늘다  ganeulda  thin
+2212  개인적  gaeinjeog  Personal
+2213  겉  geot  outside
+2214  굽히다  gubhida  bend
+2215  근무하다  geunmuhada  work
+2216  깜짝  kkamjjag  surprise
+2217  넓히다  neolbhida  widen
+2218  떠들다  tteodeulda  be noisy
+2219  매년  maenyeon  every year
+2220  발생  balsaeng  Occur
+2221  셋  ses  three
+2222  소주  soju  Soju
+2223  손바닥  sonbadag  Palm
+2224  승용차  seung-yongcha  car
+2225  어색하다  eosaeghada  It is awkward
+2226  얹다  eonjda  put on
+2227  의학  uihag  Medicine
+2228  장점  jangjeom  Advantages
+2229  적당히  jeogdanghi  Moderately
+2230  줍다  jubda  pick up
+2231  진출  jinchul  debouchment
+2232  창조  changjo  creation
+2233  킬로그램  killogeulaem  kilogram
+2234  평범하다  pyeongbeomhada  normal
+2235  프로  peulo  Pro
+2236  홍보  hongbo  promotion
+2237  확인  hwag-in  Confirm
+2238  가루  galu  Powder
+2239  건지다  geonjida  rescue
+2240  깨지다  kkaejida  be broken
+2241  내다보다  naedaboda  look out
+2242  대량  daelyang  block
+2243  동행  donghaeng  accompany
+2244  들  deul  field
+2245  떼  tte  group
+2246  마땅하다  mattanghada  deserve
+2247  바로잡다  balojabda  Straighten
+2248  박히다  baghida  enter
+2249  방금  bang-geum  just now
+2250  생선  saengseon  fish
+2251  슬픔  seulpeum  sadness
+2252  아무렇다  amuleohda  nothing
+2253  이용되다  iyongdoeda  be used
+2254  이튿날  iteudnal  the next day
+2255  임시  imsi  temporary
+2256  제거하다  jegeohada  Remove
+2257  줄다  julda  shrink
+2258  지구  jigu  Earth
+2259  참기름  chamgileum  Sesame oil
+2260  특수  teugsu  special
+2261  합치다  habchida  combine
+2262  호기심  hogisim  curiosity
+2263  골목  golmog  alley
+2264  기운  giun  Strength
+2265  기획  gihoeg  plan
+2266  대충  daechung  Roughly
+2267  돌아서다  dol-aseoda  turn around
+2268  동화  donghwa  Fairytale
+2269  두껍다  dukkeobda  thick
+2270  맞서다  majseoda  stand opposite each other
+2271  모자라다  mojalada  not enough
+2272  박다  bagda  drive
+2273  본성  bonseong  original nature
+2274  상상하다  sangsanghada  Imagine
+2275  생산력  saengsanlyeog  productivity
+2276  안전하다  anjeonhada  safe
+2277  이르다  ileuda  early
+2278  장비  jangbi  equipment
+2279  정치인  jeongchiin  politician
+2280  정치적  jeongchijeog  political
+2281  졸업  jol-eob  Graduated
+2282  처벌  cheobeol  punishment
+2283  카페  kape  Cafe
+2284  콤플렉스  kompeullegseu  complex
+2285  검토  geomto  examine
+2286  그다음  geuda-eum  next
+2287  기법  gibeob  technique
+2288  끓다  kkeulhda  boil
+2289  날아오다  nal-aoda  fly away
+2290  농담  nongdam  joke
+2291  닭  dalg  chicken
+2292  담임  dam-im  homeroom teacher
+2293  도중  dojung  en route
+2294  두드러지다  dudeuleojida  stand out
+2295  맥주  maegju  beer
+2296  모래  molae  sand
+2297  살아남다  sal-anamda  survive
+2298  살인  sal-in  Murder
+2299  성질  seongjil  Property
+2300  신호  sinho  signal
+2301  아버님  abeonim  father
+2302  의심하다  uisimhada  Doubt
+2303  인  in  sign
+2304  잇따르다  isttaleuda  successive
+2305  자랑하다  jalanghada  boast
+2306  자판  japan  keyboard
+2307  적용  jeog-yong  apply
+2308  중반  jungban  mid
+2309  지시하다  jisihada  instruct
+2310  출발  chulbal  depart
+2311  허용하다  heoyonghada  permit
+2312  가르침  galeuchim  teaching
+2313  각국  gaggug  country
+2314  교과서  gyogwaseo  textbook
+2315  그려지다  geulyeojida  painted
+2316  꾸준히  kkujunhi  Steadily
+2317  년도  nyeondo  year
+2318  다수  dasu  many
+2319  덕분  deogbun  thanks for
+2320  돼지  dwaeji  pig
+2321  두드리다  dudeulida  knock
+2322  물음  mul-eum  question
+2323  빌다  bilda  beg
+2324  수영  suyeong  Swimming
+2325  스님  seunim  monk
+2326  썩다  sseogda  rot
+2327  어머님  eomeonim  mother
+2328  엉뚱하다  eongttunghada  outrageous
+2329  여보  yeobo  honey
+2330  잊어버리다  ij-eobeolida  forget
+2331  정면  jeongmyeon  face
+2332  가리다  galida  blind
+2333  개국  gaegug  country
+2334  계산하다  gyesanhada  Calculate
+2335  근원  geun-won  Source
+2336  기차  gicha  train
+2337  담그다  damgeuda  Dip
+2338  마음대로  ma-eumdaelo  as you please
+2339  며느리  myeoneuli  daughter-in-law
+2340  믿음  mid-eum  trust
+2341  발견  balgyeon  discovery
+2342  보고  bogo  report
+2343  부탁하다  butaghada  Beg
+2344  사용자  sayongja  user
+2345  사회주의  sahoejuui  socialism
+2346  설치되다  seolchidoeda  be installed
+2347  수도권  sudogwon  Metropolitan area
+2348  식탁  sigtag  table
+2349  실패하다  silpaehada  fail
+2350  영원하다  yeong-wonhada  forever
+2351  우연히  uyeonhi  by chance
+2352  자극  jageug  Stimulation
+2353  정해지다  jeonghaejida  Destine
+2354  직접  jigjeob  directly
+2355  짚다  jipda  point out
+2356  총리  chongli  Prime Minister
+2357  칭찬  chingchan  compliment
+2358  튼튼하다  teunteunhada  strong
+2359  햇빛  haesbich  sunshine
+2360  공원  gong-won  Park
+2361  긍정적  geungjeongjeog  positive
+2362  논의하다  non-uihada  discuss
+2363  대출  daechul  loan
+2364  덕  deog  virtue
+2365  돌보다  dolboda  Take care
+2366  뒤집다  dwijibda  reverse
+2367  먼지  meonji  dust
+2368  바닷가  badasga  Beach
+2369  바치다  bachida  devote
+2370  반하다  banhada  fall in love
+2371  발표되다  balpyodoeda  announced
+2372  부정하다  bujeonghada  to deny
+2373  불러일으키다  bulleoil-eukida  arouse
+2374  사원  sawon  employee
+2375  소유자  soyuja  owner
+2376  씹다  ssibda  chew
+2377  아무튼  amuteun  Anyway
+2378  액수  aegsu  amount
+2379  왠지  waenji  Somehow
+2380  욕심  yogsim  greed
+2381  우승  useung  Championship
+2382  제출하다  jechulhada  submit
+2383  조심스럽다  josimseuleobda  be careful
+2384  직전  jigjeon  eve
+2385  짐작하다  jimjaghada  guess
+2386  택하다  taeghada  select
+2387  터  teo  place
+2388  피시  pisi  fish
+2389  흘러나오다  heulleonaoda  flow out
+2390  간단히  gandanhi  simply
+2391  강물  gangmul  river water
+2392  거꾸로  geokkulo  Backwards
+2393  궁극적  gung-geugjeog  ultimate
+2394  극히  geughi  like mad
+2395  기여하다  giyeohada  Contribute
+2396  꼭  kkog  please
+2397  날짜  naljja  date
+2398  대륙  daelyug  continent
+2399  되게  doege  very
+2400  뒤따르다  dwittaleuda  beset
+2401  리듬  lideum  rhythm
+2402  모니터  moniteo  monitor
+2403  범인  beom-in  criminal
+2404  변동  byeondong  Variance
+2405  불가피하다  bulgapihada  inevitable
+2406  삶다  salmda  Boil
+2407  샌드위치  saendeuwichi  sandwich
+2408  서류  seolyu  document
+2409  손해  sonhae  loss
+2410  숨지다  sumjida  hide
+2411  아유  ayu  Aww
+2412  요청  yocheong  request
+2413  운  un  luck
+2414  일상생활  ilsangsaenghwal  Everyday life
+2415  자존심  jajonsim  Pride
+2416  주저앉다  jujeoanjda  sit down
+2417  증권사  jeung-gwonsa  brokerage
+2418  진하다  jinhada  thick
+2419  초원  chowon  grassland
+2420  최종  choejong  final
+2421  회복하다  hoeboghada  to recover
+2422  흘러가다  heulleogada  flow
+2423  흥미  heungmi  interest
+2424  검사  geomsa  test
+2425  그쪽  geujjog  that
+2426  내려다보다  naelyeodaboda  look down
+2427  눈썹  nunsseob  Eyebrow
+2428  대신하다  daesinhada  It is instead
+2429  두렵다  daesinhada  afraid
+2430  등장  deungjang  appear
+2431  디자인  dijain  design
+2432  마디  madi  word
+2433  미처  micheo  not yet
+2434  비닐  binil  plastic
+2435  비율  biyul  ratio
+2436  생물  saengmul  Creature
+2437  소음  so-eum  noise
+2438  양국  yang-gug  both countries
+2439  얼핏  eolpis  at a glance
+2440  오래되다  olaedoeda  Long time no see
+2441  웬  wen  wen
+2442  조각  jogag  piece
+2443  중부  jungbu  central
+2444  채소  chaeso  vegetables
+2445  침  chim  saliva
+2446  털  teol  hair
+2447  판매하다  panmaehada  sell
+2448  항의  hang-ui  protest
+2449  해당  haedang  Applicable
+2450  확보  hwagbo  secure
+2451  환경오염  hwangyeong-oyeom  Pollution
+2452  가치관  gachigwan  Values
+2453  검은색  geom-eunsaeg  Black color
+2454  고생하다  gosaenghada  Is suffering
+2455  기원전  giwonjeon  B.C.
+2456  긴급  gingeub  Emergency
+2457  꺾다  kkeokkda  break
+2458  꿈꾸다  kkumkkuda  Dreaming
+2459  무려  mulyeo  whopping
+2460  수표  supyo  check
+2461  실태  siltae  the actual situation
+2462  아쉽다  aswibda  too bad
+2463  애정  aejeong  Affection
+2464  어머  eomeo  Oh
+2465  여보세요  yeoboseyo  Hello
+2466  일정  iljeong  schedule
+2467  장르  jangleu  genre
+2468  저렇다  jeoleohda  like that
+2469  접하다  jeobhada  contact with
+2470  정성  jeongseong  Qualitative
+2471  제약  jeyag  Restrictions
+2472  쫓다  jjochda  run
+2473  추가  chuga  addition
+2474  테이프  teipeu  tape
+2475  품  pum  width
+2476  해석  haeseog  Translate
+2477  확인되다  hwag-indoeda  confirmed
+2478  가하다  gahada  inflict
+2479  간장  ganjang  soy sauce
+2480  강의  gang-ui  lecture
+2481  거  geo  thing
+2482  고민하다  gominhada  Be in agony
+2483  과  gwa  class
+2484  교환  gyohwan  exchange
+2485  국어  gug-eo  Korean
+2486  노랗다  nolahda  yellow
+2487  다치다  dachida  get hurt
+2488  동양  dong-yang  Eastern
+2489  동포  dongpo  compatriots
+2490  뚫다  ttulhda  bore
+2491  새  sae  bird
+2492  악기  aggi  instrument
+2493  연말  yeonmal  Year-end
+2494  올려놓다  ollyeonohda  put on
+2495  외면하다  oemyeonhada  turn away
+2496  원고  wongo  Manuscript
+2497  줄곧  julgod  all the way
+2498  지출  jichul  expenditure
+2499  차  cha  car
+2500  피로  pilo  fatigue
+2501  향  hyang  incense
+2502  개선하다  gaeseonhada  improve
+2503  계좌  gaeseonhada  improve
+2504  당기다  dang-gida  pull
+2505  들다  deulda  Hold
+2506  따르다  ttaleuda  follow
+2507  말기  malgi  last period
+2508  말없이  mal-eobs-i  without words
+2509  망하다  manghada  failed
+2510  문서  munseo  document
+2511  박수  bagsu  applause
+2512  부자  buja  Wealthy
+2513  사흘  saheul  three days
+2514  서쪽  seojjog  West
+2515  성립되다  seonglibdoeda  be established
+2516  손자  sonja  grandson
+2517  신랑  sinlang  groom
+2518  실습  silseub  Training
+2519  일찍이  iljjig-i  early
+2520  자율  jayul  autonomy
+2521  제법  jebeob  quite
+2522  집중되다  jibjungdoeda  be focused
+2523  창조적  changjojeog  creative
+2524  천장  cheonjang  ceiling
+2525  파다  pada  dig
+2526  하긴  hagin  but
+2527  해결되다  haegyeoldoeda  solved
+2528  향상  hyangsang  Improving
+2529  화가  hwaga  artist
+2530  가라앉다  galaanjda  Sink
+2531  감싸다  gamssada  cover
+2532  고작  gojag  only
+2533  구경하다  gugyeonghada  watch
+2534  국물  gugmul  soup
+2535  기구  gigu  Instrument
+2536  깔다  kkalda  lay
+2537  다짐하다  dajimhada  pledge
+2538  대합실  daehabsil  waiting room
+2539  매장  maejang  store
+2540  멀어지다  meol-eojida  To get farther away
+2541  명칭  myeongching  designation
+2542  불쌍하다  bulssanghada  poor
+2543  상업  sang-eob  Commerce
+2544  생산되다  saengsandoeda  be produced
+2545  숨기다  sumgida  hide
+2546  실력  sillyeog  skill
+2547  야채  yachae  vegetable
+2548  엉덩이  eongdeong-i  hip
+2549  울음  ul-eum  weeping
+2550  이달  idal  this month
+2551  인체  inche  anatomy
+2552  저고리  jeogoli  jeogori
+2553  즐거움  jeulgeoum  joy
+2554  진단  jindan  Diagnosis
+2555  질병  jilbyeong  disease
+2556  체력  chelyeog  health
+2557  친하다  chinhada  close
+2558  헤아리다  healida  count
+2559  각기  gaggi  each
+2560  경찰서  gyeongchalseo  police Office
+2561  곧바로  godbalo  Right away
+2562  관찰  gwanchal  observe
+2563  구두  gudu  shoes
+2564  군사  gunsa  Military
+2565  귀신  gwisin  ghost
+2566  귀하다  gwihada  precious
+2567  그토록  geutolog  so
+2568  기초하다  gichohada  base
+2569  깊이  gip-i  depth
+2570  나뭇가지  namusgaji  branch
+2571  낫다  nasda  better
+2572  답하다  dabhada  answer
+2573  대가  daega  cost
+2574  더위  deowi  hot
+2575  되찾다  doechajda  get back
+2576  무덤  mudeom  tomb
+2577  물결  mulgyeol  wave
+2578  밥상  babsang  dining table
+2579  보장하다  bojanghada  Vouch
+2580  사귀다  sagwida  make friends with
+2581  서너  seoneo  three or four
+2582  솟다  sosda  tower
+2583  실패  silpae  failure
+2584  예상하다  yesanghada  predict
+2585  예외  ye-oe  exception
+2586  완전  wanjeon  very
+2587  웃기다  usgida  funny
+2588  유리  yuli  Glass
+2589  절대적  jeoldaejeog  Absolute
+2590  제작하다  jejaghada  It is produced
+2591  쥐  jwi  mouse
+2592  최대한  choedaehan  Most
+2593  팔리다  pallida  sell
+2594  품다  pumda  incubate
+2595  하하  haha  haha
+2596  형부  hyeongbu  Brother-in-law
+2597  휴식  hyusig  rest
+2598  굳다  gudda  harden
+2599  굳어지다  gud-eojida  harden
+2600  굶다  gulmda  starve
+2601  금년  geumnyeon  this year
+2602  기기  gigi  device
+2603  까맣다  kkamahda  black
+2604  나침반  nachimban  Compass
+2605  농부  nongbu  farmer
+2606  대학원  daehag-won  Graduate school
+2607  더럽다  deoleobda  dirty
+2608  도달하다  dodalhada  Reach
+2609  뒤늦다  dwineujda  be late
+2610  뒤지다  dwijida  fall behind
+2611  등록  deunglog  Enrollment
+2612  디스크  diseukeu  disk
+2613  맛보다  masboda  taste
+2614  무늬  munui  pattern
+2615  문장  munjang  sentence
+2616  묻다  mudda  ask
+2617  변호사  byeonhosa  lawyer
+2618  상상력  sangsanglyeog  imagination
+2619  여학생  yeohagsaeng  female student
+2620  영업  yeong-eob  sales
+2621  예  ye  Yes
+2622  예방  yebang  prevention
+2623  완성  wanseong  complete
+2624  유리하다  yulihada  It is advantageous
+2625  자연환경  jayeonhwangyeong  natural environment
+2626  증명하다  jeungmyeonghada  prove
+2627  지적되다  jijeogdoeda  pointed out
+2628  철저히  cheoljeohi  thoroughly
+2629  코스  koseu  course
+2630  학부모  hagbumo  parents
+2631  합리적  hablijeog  rational
+2632  해석하다  haeseoghada  interpret
+2633  힘쓰다  himsseuda  work hard
+2634  거듭  geodeub  repeatedly
+2635  귀국하다  gwigughada  return home
+2636  기뻐하다  gippeohada  I am happy
+2637  날리다  nallida  fly
+2638  내려놓다  naelyeonohda  put down
+2639  냉장고  naengjang-go  Refrigerator
+2640  당근  dang-geun  carrot
+2641  덜다  deolda  subtract
+2642  뛰어넘다  ttwieoneomda  jump over
+2643  마누라  manula  wife
+2644  맞이하다  maj-ihada  greet
+2645  불행하다  bulhaenghada  unhappy
+2646  신고하다  singohada  report
+2647  연속  yeonsog  continuity
+2648  외롭다  oelobda  lonely
+2649  욕  yog  swear word
+2650  원장  wonjang  ledger
+2651  유물  yumul  relics
+2652  저절로  jeojeollo  by itself
+2653  정비  jeongbi  maintenance
+2654  주의  juui  caution
+2655  지난번  jinanbeon  last time
+2656  집어넣다  jib-eoneohda  Put in
+2657  통계  tong-gye  statistics
+2658  파일  pail  file
+2659  피해자  pihaeja  victim
+2660  필수적  pilsujeog  essential
+2661  학용품  hag-yongpum  stationery
+2662  화분  hwabun  Flowerpot
+2663  환하다  hwanhada  clear
+2664  갈색  galsaeg  Brown
+2665  감기  gamgi  cold
+2666  강남  gangnam  Gangnam
+2667  구속되다  gusogdoeda  be bound
+2668  돌아다니다  dol-adanida  Roam
+2669  등등  deungdeung  etc
+2670  멋지다  meosjida  awesome
+2671  반발  banbal  repulsion
+2672  반찬  banchan  side dish
+2673  방지  bangji  Prevention
+2674  배다  baeda  conceive
+2675  보장  bojang  guarantee
+2676  빠져나오다  ppajyeonaoda  get out
+2677  새다  saeda  leak
+2678  소개되다  sogaedoeda  introduced
+2679  씨  ssi  Seed
+2680  안쪽  anjjog  inside
+2681  억울하다  eog-ulhada  It is unfair
+2682  오가다  ogada  come and go
+2683  요구되다  yogudoeda  requested
+2684  음성  eumseong  voice
+2685  이윽고  ieuggo  yet
+2686  장식  jangsig  decoration
+2687  전개하다  jeongaehada  unfold
+2688  전날  jeonnal  eve
+2689  전반적  jeonbanjeog  overall
+2690  척하다  cheoghada  pretend
+2691  풍습  pungseub  custom
+2692  한가운데  hangaunde  midst
+2693  한정되다  hanjeongdoeda  be limited
+2694  해내다  haenaeda  accomplish
+2695  흉내  hyungnae  mimicry
+2696  감옥  gam-og  prison
+2697  갚다  gapda  pay back
+2698  건전하다  geonjeonhada  sound
+2699  결혼식  gyeolhonsig  Wedding ceremony
+2700  계산기  gyesangi  A calculator
+2701  광장  gwangjang  Plaza
+2702  그렇지  geuleohji  Yes
+2703  깨다  kkaeda  wake up
+2704  꽉  kkwag  closely
+2705  끼우다  kkiuda  insert
+2706  노래하다  nolaehada  Sing
+2707  다듬다  dadeumda  trim
+2708  다름없다  daleum-eobsda  no different
+2709  당당하다  dangdanghada  confident
+2710  댐  daem  dam
+2711  덩어리  deong-eoli  Lump
+2712  두뇌  dunoe  brains
+2713  등  deung  etc
+2714  모처럼  mocheoleom  with great effort
+2715  물리학  mullihag  Physics
+2716  부정적  bujeongjeog  negative
+2717  북부  bugbu  northern
+2718  분리  bunli  separation
+2719  상당  sangdang  equivalent
+2720  소개  sogae  Introduction
+2721  수화기  suhwagi  receiver
+2722  애인  aein  lover
+2723  애초  aecho  in the first place
+2724  얇다  yalbda  thin
+2725  양념  yangnyeom  seasoning
+2726  에  e  to
+2727  오염되다  oyeomdoeda  be polluted
+2728  오해  ohae  misunderstanding
+2729  웬일  wen-il  for some reason
+2730  의식  uisig  Consciousness
+2731  의지하다  uijihada  Rely
+2732  제한하다  jehanhada  limit
+2733  존중하다  jonjunghada  respect
+2734  창고  chang-go  storage
+2735  책임지다  chaeg-imjida  Vouch
+2736  청춘  cheongchun  youth
+2737  초반  choban  early
+2738  트럭  teuleog  truck
+2739  파  pa  green onion
+2740  폭넓다  pogneolbda  wide
+2741  표현되다  pyohyeondoeda  be expressed
+2742  학번  hagbeon  Student ID
+2743  학원  hag-won  Academy
+2744  허가  heoga  permission
+2745  헤매다  hemaeda  wander about
+2746  가장  gajang  most
+2747  곡  gog  song
+2748  곡식  gogsig  grain
+2749  꽂다  kkojda  stick
+2750  두려움  dulyeoum  fear
+2751  망설이다  mangseol-ida  hesitate
+2752  무리  muli  swarm
+2753  버터  beoteo  butter
+2754  별다르다  byeoldaleuda  different
+2755  보편적  bopyeonjeog  universal
+2756  부품  bupum  part
+2757  뽑히다  ppobhida  be elected
+2758  상담  sangdam  consulting
+2759  서부  seobu  west
+2760  속담  sogdam  Proverb
+2761  시중  sijung  city
+2762  심사  simsa  judge
+2763  아이  ai  Child
+2764  앞세우다  apse-uda  put ahead
+2765  유사하다  yusahada  similar
+2766  유치원  yuchiwon  kindergarden
+2767  의욕  uiyog  Will
+2768  인근  ingeun  vicinity
+2769  일반인  ilban-in  public
+2770  작성하다  jagseonghada  write
+2771  전공  jeongong  Major
+2772  정기  jeong-gi  Routine
+2773  제의  je-ui  suggest
+2774  종일  jong-il  all day
+2775  좋아지다  joh-ajida  get better
+2776  차림  chalim  outfit
+2777  창조하다  changjohada  create
+2778  추위  chuwi  cold
+2779  토마토  tomato  tomato
+2780  파랗다  palahda  blue
+2781  펴내다  pyeonaeda  publish
+2782  하드웨어  hadeuweeo  hardware
+2783  화장  hwajang  Makeup
+2784  가져가다  gajyeogada  Take away
+2785  감자  gamja  potato
+2786  강렬하다  ganglyeolhada  intense
+2787  갖다  gajda  have
+2788  괴롭다  goelobda  pain
+2789  교통사고  gyotongsago  Traffic Accident
+2790  군데  gunde  place
+2791  내일  gunde  place
+2792  되풀이하다  doepul-ihada  repeat
+2793  딱  ttag  perfect
+2794  리  li  Lee
+2795  메시지  mesiji  message
+2796  면하다  myeonhada  get rid of
+2797  모색하다  mosaeghada  to seek
+2798  붙잡다  butjabda  seize
+2799  빛깔  bichkkal  color
+2800  뺨  ppyam  cheek
+2801  사방  sabang  everywhere
+2802  살림  sallim  livelihood
+2803  실현  silhyeon  present
+2804  아냐  anya  no
+2805  연예인  yeon-yein  celebrity
+2806  영원히  yeong-wonhi  forever
+2807  월급  wolgeub  Salary
+2808  유행  yuhaeng  trend
+2809  이리  ili  Wolf
+2810  제발  jebal  please
+2811  차츰  chacheum  gradually
+2812  투표  tupyo  vote
+2813  파괴하다  pagoehada  destroy
+2814  하느님  haneunim  God
+2815  해당되다  haedangdoeda  applicable
+2816  홀로  hollo  alone
+2817  가까이  gakkai  closely
+2818  가득하다  gadeughada  full in here
+2819  감히  gamhi  dare
+2820  강요하다  gang-yohada  Compel
+2821  개미  gaemi  ant
+2822  관습  gwanseub  custom
+2823  광경  gwang-gyeong  scene
+2824  금세  geumse  soon
+2825  낮추다  najchuda  lower
+2826  내주다  naejuda  let
+2827  명의  myeong-ui  Name
+2828  물고기  mulgogi  fish
+2829  물러나다  mulleonada  withdraw
+2830  밀접하다  miljeobhada  close
+2831  부탁  butag  Request
+2832  분량  bunlyang  amount
+2833  불과  bulgwa  fire
+2834  뻔하다  ppeonhada  obvious
+2835  상자  sangja  Box
+2836  새해  saehae  new Year
+2837  소박하다  sobaghada  simple
+2838  수없이  sueobs-i  countless
+2839  승진  seungjin  promotion
+2840  얼음  eol-eum  ice
+2841  열매  yeolmae  Fruit
+2842  적히다  jeoghida  write down
+2843  점수  jeomsu  score
+2844  제한되다  jehandoeda  be limited
+2845  지속되다  jisogdoeda  continue
+2846  쫓기다  jjochgida  chase
+2847  쭉  jjug  all the way
+2848  통장  tongjang  Bank book
+2849  평가되다  pyeong-gadoeda  be evaluated
+2850  하도  hado  Hado
+2851  한창  hanchang  in full swing
+2852  해안  haean  Coast
+2853  호박  hobag  pumpkin
+2854  흑인  heug-in  black
+2855  갇히다  gadhida  be confined
+2856  결심하다  gyeolsimhada  Decide
+2857  경기장  gyeong-gijang  Stadium
+2858  고장  gojang  breakdown
+2859  근로  geunlo  work
+2860  눈동자  nundongja  pupil
+2861  늦다  neujda  late
+2862  닥치다  dagchida  befall
+2863  도시락  dosilag  lunch box
+2864  뜯다  tteudda  tear off
+2865  몸짓  momjis  gesture
+2866  부담하다  budamhada  bear
+2867  부회장  buhoejang  vice-chairman
+2868  빼앗다  ppaeasda  Steal
+2869  삼키다  samkida  gulp down
+2870  성실하다  seongsilhada  be sincere
+2871  스튜디오  seutyudio  studio
+2872  실제  silje  real
+2873  요새  yosae  these days
+2874  이상적  isangjeog  ideal
+2875  일쑤  ilssu  Occasionally
+2876  일체  ilche  one body
+2877  자꾸만  jakkuman  keeps on
+2878  잦다  jajda  often
+2879  절망  jeolmang  despair
+2880  접다  jeobda  fold
+2881  제시되다  jesidoeda  presented
+2882  주방  jubang  kitchen
+2883  진출하다  jinchulhada  advance
+2884  짜증  jjajeung  petulance
+2885  첫날  cheosnal  First day
+2886  통과하다  tong-gwahada  Pass
+2887  투명하다  tumyeonghada  transparent
+2888  확산되다  hwagsandoeda  spread
+2889  경력  gyeonglyeog  career
+2890  고통스럽다  gotongseuleobda  painful
+2891  곤란하다  gonlanhada  It is difficult
+2892  공중  gongjung  Public
+2893  공해  gonghae  pollution
+2894  귀찮다  gwichanhda  Annoying
+2895  기대다  gidaeda  lean
+2896  깨어나다  kkaeeonada  wake up
+2897  꼽히다  kkobhida  be counted
+2898  대다수  daedasu  plurality
+2899  듯싶다  deus-sipda  it seems like
+2900  먹이  meog-i  food
+2901  무료  mulyo  free
+2902  밉다  mibda  hate
+2903  발레  balle  ballet
+2904  상징하다  sangjinghada  symbolizes
+2905  실현하다  silhyeonhada  realize
+2906  아깝다  akkabda  what a waste
+2907  안정되다  anjeongdoeda  be stable
+2908  어리석다  eoliseogda  stupid
+2909  엎드리다  eopdeulida  kneel down
+2910  여럿  yeoleos  many
+2911  연설  yeonseol  speech
+2912  연필  yeonpil  pencil
+2913  염려  yeomlyeo  worry
+2914  우습다  useubda  funny
+2915  운전  unjeon  drive
+2916  익숙하다  igsughada  be used to
+2917  일자  ilja  Date
+2918  잔치  janchi  party
+2919  전달되다  jeondaldoeda  delivered
+2920  전부  jeonbu  all
+2921  치료하다  chilyohada  Treat
+2922  칸  kan  Cannes
+2923  한  han  one
+2924  갈수록  galsulog  increasingly
+2925  갖가지  gajgaji  various
+2926  거절하다  geojeolhada  reject
+2927  관광객  gwangwang-gaeg  tourist
+2928  구별하다  gubyeolhada  Distinguish
+2929  국  gug  soup
+2930  다행  dahaeng  Relief
+2931  동의  dong-ui  agreement
+2932  마무리  mamuli  finish
+2933  마주치다  majuchida  Come across
+2934  막상  magsang  really
+2935  몇  myeoch  some
+2936  몸통  momtong  body
+2937  못  mos  pond
+2938  묘사하다  myosahada  Depict
+2939  미술관  misulgwan  Art gallery
+2940  베다  beda  mow
+2941  보장되다  bojangdoeda  guaranteed
+2942  볼  bol  cheek
+2943  부분적  bubunjeog  partial
+2944  불고기  bulgogi  Bulgogi
+2945  불리다  bullida  be called
+2946  불행  bulhaeng  Unhappiness
+2947  비명  bimyeong  scream
+2948  순수  sunsu  pure
+2949  시각  sigag  Time
+2950  실질적  siljiljeog  practical
+2951  안개  angae  Fog
+2952  여름철  yeoleumcheol  summertime
+2953  오로지  oloji  only
+2954  완성하다  wanseonghada  to complete
+2955  이런저런  ileonjeoleon  this or that
+2956  임무  immu  mission
+2957  자연히  immu  mission
+2958  장난  jayeonhi  joke
+2959  전용  jeon-yong  private
+2960  지극히  jigeughi  extremely
+2961  청하다  cheonghada  ask
+2962  확정  hwagjeong  confirmed
+2963  가상  gasang  email
+2964  각자  gagja  Each
+2965  간혹  ganhog  sometimes
+2966  개방하다  gaebanghada  open
+2967  관계되다  gwangyedoeda  be concerned
+2968  국산  gugsan  domestic
+2969  그해  geuhae  that year
+2970  꺼지다  kkeojida  go out
+2971  꼭대기  kkogdaegi  top
+2972  끊어지다  kkeunh-eojida  cut off
+2973  도  do  Degree
+2974  리그  ligeu  League
+2975  마이크  maikeu  MIC
+2976  메우다  me-uda  fill up
+2977  면적  myeonjeog  area
+2978  목욕  mog-yog  bath
+2979  반성  banseong  regret
+2980  벌떡  beoltteog  jump
+2981  보상  bosang  compensation
+2982  분리되다  bunlidoeda  separate
+2983  빚  bij  debt
+2984  새기다  saegida  carve
+2985  서민  seomin  people
+2986  선정하다  seonjeonghada  select
+2987  세다  seda  count
+2988  소수  sosu  decimal
+2989  쇼  syo  show
+2990  시어머니  sieomeoni  mother-in-law
+2991  연간  yeongan  yearly
+2992  영화제  yeonghwaje  film festival
+2993  예측하다  yecheughada  predict
+2994  용도  yongdo  Usage
+2995  의심  uisim  suspicion
+2996  이동하다  idonghada  move
+2997  자극하다  jageughada  stimulate
+2998  재빨리  jaeppalli  quickly
+2999  적합하다  jeoghabhada  Suitable
+3000  전화번호  jeonhwabeonho  phone number
+3001  조절하다  jojeolhada  regulate
+3002  조정  jojeong  adjustment
+3003  중얼거리다  jung-eolgeolida  murmur
+3004  지급하다  jigeubhada  pay
+3005  확장  hwagjang  expand
+3006  힘차다  himchada  be strong
+3007  건조  geonjo  dry
+3008  고요하다  goyohada  quiet
+3009  그대  geudae  you
+3010  그립다  geulibda  Miss you
+3011  긋다  geusda  draw
+3012  기둥  gidung  Pillar
+3013  긴장하다  ginjanghada  nervous
+3014  날카롭다  nalkalobda  Sharp
+3015  논하다  nonhada  reason
+3016  느리다  neulida  slow
+3017  도덕  dodeog  moral
+3018  동부  dongbu  Eastern
+3019  뒷모습  dwismoseub  back
+3020  똑똑하다  ttogttoghada  Smart
+3021  만만하다  manmanhada  it's okay
+3022  못되다  mosdoeda  bad
+3023  보고하다  bogohada  Make a report
+3024  사무소  samuso  office
+3025  사촌  sachon  cousin
+3026  상인  sang-in  merchant
+3027  선언하다  seon-eonhada  declare
+3028  소원  sowon  wish
+3029  수입하다  su-ibhada  import
+3030  식다  sigda  cool down
+3031  엿보다  yeosboda  watch for
+3032  완성되다  wanseongdoeda  be completed
+3033  유적  yujeog  ruins
+3034  일생  ilsaeng  lifetime
+3035  입히다  ibhida  plate
+3036  잡아먹다  jab-ameogda  eat
+3037  정보화  jab-ameogda  eat
+3038  종종  jongjong  often
+3039  지갑  jigab  wallet
+3040  차다  chada  kick
+3041  창작  changjag  Creation
+3042  축소  chugso  reduction
+3043  취향  chwihyang  taste
+3044  친절하다  chinjeolhada  nice
+3045  카운터  kaunteo  counter
+3046  탄생하다  tansaenghada  be born
+3047  하숙집  hasugjib  Boarding house
+3048  학급  haggeub  class
+3049  해군  haegun  Navy
+3050  효율적  hyoyuljeog  efficient
+3051  가슴속  gaseumsog  breast
+3052  간  gan  liver
+3053  간판  ganpan  Sign
+3054  건드리다  geondeulida  touch
+3055  관리하다  gwanlihada  manage
+3056  괴로움  goeloum  suffering
+3057  근거하다  geungeohada  based
+3058  금액  geum-aeg  Price
+3059  다행히  dahaenghi  Fortunately
+3060  달래다  dallaeda  lull
+3061  동아리  dong-ali  Circles
+3062  따라오다  ttalaoda  follow
+3063  말리다  mallida  dry
+3064  맘  mam  heart
+3065  명절  myeongjeol  holiday
+3066  못하다  moshada  Can not do it
+3067  바이올린  baiollin  violin
+3068  밝혀내다  balghyeonaeda  uncover
+3069  부서지다  buseojida  break
+3070  상관없다  sang-gwan-eobsda  Does not matter
+3071  성립하다  seonglibhada  come true
+3072  수명  sumyeong  life span
+3073  시즌  sijeun  season
+3074  업다  eobda  carry
+3075  예감  yegam  presentiment
+3076  음식물  eumsigmul  prog
+3077  자신감  jasingam  Confidence
+3078  죄인  joein  sinner
+3079  주의하다  juuihada  pay heed to
+3080  준비물  junbimul  materials
+3081  출입  chul-ib  coming and going
+3082  쾌감  kwaegam  pleasure
+3083  탄생  tansaeng  birth
+3084  튀다  twida  splatter
+3085  하필  hapil  at least
+3086  활용  hwal-yong  uses
+3087  회색  hoesaeg  grey
+3088  거액  geoaeg  mint
+3089  고교  gogyo  high school
+3090  고집하다  gojibhada  insist on
+3091  곧잘  godjal  often
+3092  골짜기  goljjagi  valley
+3093  교훈  gyohun  Lesson
+3094  구르다  guleuda  recoil
+3095  글씨  geulssi  writing
+3096  노래방  nolaebang  karaoke
+3097  단편  danpyeon  snippet
+3098  대처하다  daecheohada  cope
+3099  매다  maeda  Tie
+3100  머리카락  meolikalag  hair
+3101  명확하다  myeonghwaghada  clear
+3102  발걸음  balgeol-eum  footfall
+3103  발길  balgil  footsteps
+3104  벌레  beolle  bug
+3105  빼앗기다  ppaeasgida  to be taken away
+3106  생산자  saengsanja  producer
+3107  선진  seonjin  advanced
+3108  성인  seong-in  adult
+3109  소매  somae  Sleeve
+3110  시멘트  simenteu  cement
+3111  신규  singyu  new
+3112  신청하다  sincheonghada  Put in for
+3113  실은  sil-eun  actually
+3114  심판  simpan  Referee
+3115  양심  yangsim  Conscience
+3116  이사장  yangsim  Conscience
+3117  이자  ija  interest
+3118  익숙해지다  igsughaejida  be used to
+3119  자세하다  jasehada  detail
+3120  저거  jeogeo  that
+3121  저축  jeochug  saving
+3122  제비  jebi  swallow
+3123  제안  jean  proposal
+3124  제안하다  jeanhada  propose
+3125  증세  jeungse  proof
+3126  지난날  jinannal  Last Day
+3127  진급  jingeub  promotion
+3128  콩나물  kongnamul  Bean sprouts
+3129  튀어나오다  twieonaoda  pop up
+3130  표준  pyojun  Standard
+3131  항구  hang-gu  Harbor
+3132  허용  heoyong  permit
+3133  헬기  helgi  helicopter
+3134  간신히  gansinhi  barely
+3135  갈아입다  gal-aibda  change
+3136  감다  gamda  reel in
+3137  같이하다  gat-ihada  join together
+3138  거짓  geojis  lie
+3139  거품  geopum  bubble
+3140  걸어오다  geol-eooda  walk
+3141  공군  gong-gun  air Force
+3142  기술자  gisulja  technician
+3143  나물  namul  Herbs
+3144  달리기  dalligi  running
+3145  대도시  daedosi  big city
+3146  도둑  dodug  theif
+3147  도전  dojeon  challenge
+3148  모자  moja  hat
+3149  보조  bojo  assistant
+3150  불리하다  bullihada  disadvantage
+3151  불편  bulpyeon  Inconvenience
+3152  비비다  bibida  rub
+3153  사과  sagwa  apologize
+3154  살아나다  sal-anada  come alive
+3155  소파  sopa  Sofa
+3156  속이다  sog-ida  cheat
+3157  수면  sumyeon  Sleep
+3158  수천  sucheon  thousands
+3159  스무  seumu  twenty
+3160  승부  seungbu  match
+3161  시기  sigi  period
+3162  신념  sinnyeom  belief
+3163  신입생  sin-ibsaeng  freshman
+3164  어린아이  eolin-ai  Young kid
+3165  어쩐지  eojjeonji  no wonder
+3166  여간  yeogan  little by little
+3167  역  yeog  station
+3168  연락하다  yeonlaghada  contact
+3169  영향력  yeonghyanglyeog  Influence
+3170  예의  yeui  Courtesy
+3171  이내  inae  Within
+3172  이리저리  ilijeoli  back and forth
+3173  인간적  inganjeog  human
+3174  인사하다  insahada  Greet
+3175  임금  imgeum  wage
+3176  잘나다  jalnada  good job
+3177  재능  jaeneung  Talent
+3178  지불하다  jibulhada  Pay
+3179  파출소  pachulso  police box
+3180  한문  hanmun  Chinese
+3181  건네주다  geonnejuda  hand over
+3182  결승  gyeolseung  finals
+3183  공공  gong-gong  public
+3184  교양  gyoyang  Culture
+3185  국왕  gug-wang  king
+3186  규칙적  gyuchigjeog  regular
+3187  극복  geugbog  Overcome
+3188  글쎄요  geulsseyo  well
+3189  내려지다  naelyeojida  be taken down
+3190  냉동  naengdong  frozen
+3191  녹다  nogda  melt
+3192  대개  daegae  mostly
+3193  년생  nyeonsaeng  born
+3194  배추  baechu  cabbage
+3195  센터  senteo  center
+3196  수염  suyeom  mustache
+3197  수집하다  sujibhada  collect
+3198  승객  seung-gaeg  passenger
+3199  싱싱하다  singsinghada  fresh
+3200  아아  aa  iced coffee
+3201  어리다  eolida  young
+3202  여권  yeogwon  passport
+3203  열쇠  yeolsoe  key
+3204  오렌지  olenji  Orange
+3205  외모  oemo  appearance
+3206  인공  ingong  art
+3207  장남  jangnam  eldest son
+3208  저마다  jeomada  each
+3209  전국적  jeongugjeog  nationwide
+3210  전반  jeonban  first half
+3211  제자리  jejali  place
+3212  지루하다  jiluhada  Bored
+3213  포도주  podoju  wine
+3214  학술  hagsul  academic
+3215  혈액  hyeol-aeg  blood
+3216  화살  hwasal  arrow
+3217  화재  hwajae  fire
+3218  가르다  galeuda  divide
+3219  각각  gaggag  each
+3220  간격  gangyeog  interval
+3221  고함  goham  shout
+3222  공격하다  gong-gyeoghada  attack
+3223  그놈  geunom  gnome
+3224  기록되다  gilogdoeda  recorded
+3225  끝없다  kkeut-eobsda  endless
+3226  끼어들다  kkieodeulda  interrupt
+3227  노선  noseon  route
+3228  답  dab  answer
+3229  도망치다  domangchida  run away
+3230  독서  dogseo  reading
+3231  동  dong  Dong
+3232  동의하다  dong-uihada  Agree
+3233  딱딱하다  ttagttaghada  It is hard
+3234  땅속  ttangsog  bowels of the earth
+3235  벌금  beolgeum  Fine
+3236  복  bog  luck
+3237  봉사  bongsa  volunteer
+3238  부서  buseo  Department
+3239  소형  sohyeong  small type
+3240  신인  sin-in  new man
+3241  악몽  agmong  nightmare
+3242  안내  annae  Guidance
+3243  앞뒤  apdwi  Back and forth
+3244  언덕  eondeog  Hill
+3245  열정  yeoljeong  Passion
+3246  오페라  opela  opera
+3247  입맛  ibmas  taste
+3248  재즈  jaejeu  jazz
+3249  적응하다  jeog-eunghada  It is adapted
+3250  절대  jeoldae  never
+3251  접시  jeobsi  Dish
+3252  제공  jegong  offer
+3253  지나치다  jinachida  go too far
+3254  참가  chamga  attend
+3255  체중  chejung  weight
+3256  추석  chuseog  Thanksgiving
+3257  충돌  chungdol  crash
+3258  통로  tonglo  Passage
+3259  포장  pojang  packaging
+3260  해소  haeso  solution
+3261  행해지다  haenghaejida  done
+3262  현관  hyeongwan  entrance
+3263  현대인  hyeondaein  modern
+3264  혜택  hyetaeg  Benefits
+3265  호수  hosu  Lake
+3266  확  hwag  sudden
+3267  건너가다  geonneogada  cross over
+3268  골고루  golgolu  Evenly
+3269  구석구석  guseogguseog  every nook and cranny
+3270  그제서야  geujeseoya  only then
+3271  녹색  nogsaeg  green
+3272  다  da  all
+3273  등록증  deunglogjeung  registration
+3274  막내  magnae  youngest
+3275  반복되다  banbogdoeda  repeat
+3276  발전  baljeon  Development
+3277  방해  banghae  Hindrance
+3278  번호  beonho  number
+3279  벼  byeo  rice
+3280  본인  bon-in  me
+3281  상점  sangjeom  shop
+3282  수백  subaeg  hundreds
+3283  실장  siljang  head of a department
+3284  쓸쓸하다  sseulsseulhada  I am lonely
+3285  악수  agsu  handshake
+3286  애  ae  baby
+3287  어지럽다  eojileobda  dizzy
+3288  어찌하다  eojjihada  what to do
+3289  예정되다  yejeongdoeda  scheduled
+3290  이중  ijung  double
+3291  인원  in-won  personnel
+3292  인정받다  injeongbadda  Receive approval
+3293  인터뷰  inteobyu  interview
+3294  입학하다  ibhaghada  Enter a school
+3295  자랑  jalang  Boast
+3296  저것  jeogeos  that
+3297  정문  jeongmun  Front Door
+3298  착각  chaggag  mistaken
+3299  창  chang  window
+3300  친정  chinjeong  parent
+3301  켜지다  kyeojida  turn on
+3302  타입  taib  type
+3303  팩  paeg  pack
+3304  행하다  haenghada  hold
+3305  활짝  hwaljjag  wide open
+3306  감상하다  gamsanghada  Appreciate
+3307  개별  gaebyeol  Individual
+3308  공식적  gongsigjeog  officially
+3309  그런대로  geuleondaelo  enough
+3310  기독교  gidoggyo  Christian
+3311  깨달음  kkaedal-eum  enlightenment
+3312  끼다  kkida  Put on
+3313  넘어지다  neom-eojida  fall down
+3314  눈부시다  nunbusida  dazzle
+3315  단점  danjeom  disadvantage
+3316  들려주다  deullyeojuda  tell
+3317  뚜껑  ttukkeong  Lid
+3318  마음먹다  ma-eummeogda  make up your mind
+3319  목록  moglog  List
+3320  반복하다  banboghada  repeat
+3321  반성하다  banseonghada  reflect
+3322  별명  byeolmyeong  Nickname
+3323  보전  bojeon  integrity
+3324  불어오다  bul-eooda  blow
+3325  소유하다  soyuhada  own
+3326  수박  subag  watermelon
+3327  스위치  seuwichi  switch
+3328  신세  sinse  indebtedness
+3329  아까  akka  earlier
+3330  알아내다  al-anaeda  to find out
+3331  암  am  cancer
+3332  야단  yadan  scold
+3333  얘  yae  boy
+3334  엔  en  N
+3335  연결  yeongyeol  connect
+3336  연관  yeongwan  Relation
+3337  용서하다  yongseohada  Forgive
+3338  우정  ujeong  friendship
+3339  육군  yuggun  army
+3340  음식점  eumsigjeom  restaurant
+3341  의논하다  uinonhada  to discuss
+3342  인분  inbun  Servings
+3343  주요하다  juyohada  major
+3344  차마  chama  car
+3345  참조  chamjo  Reference
+3346  첫째  cheosjjae  first
+3347  타고나다  tagonada  innate
+3348  태우다  taeuda  Burn
+3349  행사  haengsa  event
+3350  향수  hyangsu  perfume
+3351  허용되다  heoyongdoeda  allowed
+3352  가입  gaib  join
+3353  가정  gajeong  home
+3354  과자  gwaja  snack
+3355  교체  gyoche  substitute
+3356  꼬마  kkoma  Little
+3357  끝없이  kkeut-eobs-i  eternally
+3358  나르다  naleuda  tote
+3359  놀리다  nollida  Badinage
+3360  늘어놓다  neul-eonohda  arrange
+3361  닫히다  dadhida  shut
+3362  대표하다  daepyohada  to represent
+3363  대학교  daehaggyo  University
+3364  도로  dolo  road name
+3365  돼지고기  dwaejigogi  Pork
+3366  두려워하다  dulyeowohada  to be afraid of
+3367  뜻밖  tteusbakk  unexpected
+3368  막걸리  maggeolli  Makgeolli
+3369  맡다  matda  take on
+3370  미스  miseu  miss
+3371  밀리다  millida  be shaved
+3372  밥그릇  babgeuleus  rice bowl
+3373  방문  bangmun  visit
+3374  병들다  byeongdeulda  get sick
+3375  부러지다  buleojida  break
+3376  불꽃  bulkkoch  flame
+3377  상대성  sangdaeseong  relativity
+3378  설문  seolmun  survey
+3379  소설가  soseolga  novelist
+3380  쓸다  sseulda  sweep
+3381  안녕히  annyeonghi  Bye
+3382  안팎  anpakk  inside and outside
+3383  예방하다  yebanghada  prevent
+3384  올  ol  all
+3385  유의하다  yuuihada  take note
+3386  유학  yuhag  Study Abroad
+3387  이해되다  ihaedoeda  understand
+3388  인하  inha  cut
+3389  작성  jagseong  write
+3390  잘리다  jallida  cut
+3391  전달  jeondal  relay
+3392  전시회  jeonsihoe  Exhibition
+3393  전화하다  jeonhwahada  Make a phone call
+3394  전환하다  jeonhwanhada  switch
+3395  정치학  jeongchihag  politics
+3396  좌석  jwaseog  seat
+3397  집안일  jib-an-il  housework
+3398  체계적  chegyejeog  systematic
+3399  출근  chulgeun  Go to work
+3400  크림  keulim  cream
+3401  탁월하다  tag-wolhada  excellent
+3402  텅  teong  tongue
+3403  토하다  tohada  vomit
+3404  푹  pug  snuggle
+3405  한순간  hansungan  for a moment
+3406  가사  gasa  lyrics
+3407  가입자  gaibja  subscriber
+3408  감소하다  gamsohada  Diminish
+3409  개구리  gaeguli  frog
+3410  결과적  gyeolgwajeog  consequential
+3411  괴롭히다  goelobhida  bully
+3412  구별  gubyeol  Distinction
+3413  깨우다  kkaeuda  wake up
+3414  끈  kkeun  string
+3415  끊기다  kkeunhgida  cut off
+3416  끊임없다  kkeunh-im-eobsda  incessant
+3417  넉넉하다  neogneoghada  plentiful
+3418  동전  dongjeon  coin
+3419  두어  dueo  put
+3420  마약  mayag  drug
+3421  밑바닥  mitbadag  bottom
+3422  보도되다  bododoeda  reported
+3423  보리  boli  barley
+3424  본부  bonbu  headquarters
+3425  성숙하다  seongsughada  mature
+3426  소극적  sogeugjeog  passive
+3427  소용  soyong  use
+3428  손질하다  sonjilhada  groom
+3429  수건  sugeon  Towel
+3430  순식간  sunsiggan  wink
+3431  시도  sido  trial
+3432  시집  sijib  divan
+3433  아무개  amugae  anything
+3434  약점  yagjeom  Weakness
+3435  양복  yangbog  suit
+3436  어째서  eojjaeseo  why
+3437  어쩌다  eojjeoda  Occasionally
+3438  얼다  eolda  freeze
+3439  여  yeo  female
+3440  연령  yeonlyeong  age
+3441  예비  yebi  Spare
+3442  울음소리  ul-eumsoli  crying sound
+3443  이놈  inom  this guy
+3444  이력서  inom  resume
+3445  인정되다  injeongdoeda  be recognized
+3446  잠자다  jamjada  sleep
+3447  젓가락  jeosgalag  chopsticks
+3448  주년  junyeon  anniversary
+3449  중단하다  jungdanhada  stop
+3450  중대하다  jungdaehada  great
+3451  중심지  jungsimji  center
+3452  집중적  jibjungjeog  intensive
+3453  참되다  chamdoeda  be true
+3454  초청  chocheong  invitation
+3455  출판사  chocheong  invitation
+3456  탁자  chulpansa  publisher
+3457  토끼  tokki  rabbit
+3458  퍽  peog  puck
+3459  풍속  pungsog  wind speed
+3460  피아노  piano  piano
+3461  핑계  piano  piano
+3462  한층  hancheung  even
+3463  행운  haeng-un  luck
+3464  가로막다  galomagda  obstruct
+3465  간섭  ganseob  Interference
+3466  갈증  galjeung  thirst
+3467  갑작스럽다  gabjagseuleobda  sudden
+3468  교환하다  gyohwanhada  exchange
+3469  그래야  geulaeya  So that
+3470  기원  giwon  origin
+3471  길가  gilga  roadside
+3472  난리  nanli  riot
+3473  남매  nammae  siblings
+3474  내버리다  naebeolida  throw away
+3475  달리하다  dallihada  change
+3476  뛰어가다  ttwieogada  run
+3477  미사일  misail  missile
+3478  발가락  balgalag  toes
+3479  보존  bojon  preservation
+3480  보호되다  bohodoeda  be protected
+3481  뵙다  boebda  meet
+3482  부치다  buchida  send
+3483  상관  sang-gwan  relation
+3484  설명되다  seolmyeongdoeda  explained
+3485  섭섭하다  seobseobhada  feel dissapointed
+3486  세  se  count
+3487  세련되다  selyeondoeda  stylish
+3488  손쉽다  sonswibda  easy
+3489  안주  anju  snack
+3490  어린애  eolin-ae  child
+3491  열기  yeolgi  Heat
+3492  옷차림  oschalim  getup
+3493  위로하다  wilohada  console
+3494  이같이  igat-i  like this
+3495  인형  inhyeong  doll
+3496  일치  ilchi  Same
+3497  재생  jaesaeng  play
+3498  전철  jeoncheol  subway
+3499  찢어지다  jjij-eojida  torn
+3500  철학자  cheolhagja  philosopher
+3501  축하하다  chughahada  Celebrate
+3502  컬러  keolleo  color
+3503  특이하다  teug-ihada  Unusual
+3504  필연적  pil-yeonjeog  inevitable
+3505  하룻밤  halusbam  overnight
+3506  흘러내리다  heulleonaelida  run down
+3507  가짜  gajja  fake
+3508  곰  gom  bear
+3509  급히  geubhi  in haste
+3510  기념  ginyeom  Commemoration
+3511  나아지다  naajida  get better
+3512  넘어오다  neom-eooda  fall over
+3513  되돌리다  doedollida  get back
+3514  띄우다  ttuiuda  ferment
+3515  매너  maeneo  manner
+3516  민속  minsog  folklore
+3517  버려지다  beolyeojida  abandoned
+3518  빗물  bismul  rainwater
+3519  사위  sawi  son-in-law
+3520  설날  seolnal  new Year
+3521  설득하다  seoldeughada  persuade
+3522  손질  sonjil  trim
+3523  손톱  sontob  Fingernail
+3524  식빵  sigppang  bread
+3525  아르바이트  aleubaiteu  part time job
+3526  외로움  oeloum  loneliness
+3527  외우다  oeuda  memorize
+3528  운전자  unjeonja  operator
+3529  유리창  yulichang  sash
+3530  입대  ibdae  enlistment
+3531  적성  jeogseong  aptitude
+3532  전망하다  jeonmanghada  view
+3533  집단적  jibdanjeog  collective
+3534  차이점  chaijeom  difference
+3535  찬물  chanmul  cold water
+3536  철도  cheoldo  railroad
+3537  총각  chong-gag  bachelor
+3538  캠페인  kaempein  campaign
+3539  태풍  taepung  Typhoon
+3540  한눈  hannun  glance
+3541  햇볕  haesbyeot  sunshine
+3542  홍수  hongsu  flood
+3543  가뭄  gamum  drought
+3544  간접  ganjeob  indirect
+3545  강력히  ganglyeoghi  strongly
+3546  개선되다  gaeseondoeda  be improved
+3547  건네다  geonneda  carry across
+3548  게  ge  crab
+3549  결심  gyeolsim  Determination
+3550  곧장  godjang  right away
+3551  교직  gyojig  union
+3552  구속하다  gusoghada  bind
+3553  귀중하다  gwijunghada  precious
+3554  긁다  geulgda  scratch
+3555  금지하다  geumjihada  to prohibit
+3556  기사  gisa  Article
+3557  기숙사  gisugsa  dormitory
+3558  나뭇잎  namus-ip  leaf
+3559  내쉬다  naeswida  exhale
+3560  넓어지다  neolb-eojida  widen
+3561  늘어지다  neul-eojida  sag
+3562  단독  dandog  Exclusive
+3563  마당  madang  yard
+3564  마음껏  ma-eumkkeos  to your heart's content
+3565  몰려들다  mollyeodeulda  flock
+3566  미팅  miting  Meeting
+3567  바  ba  bar
+3568  발자국  baljagug  footprint
+3569  뱉다  baetda  disgorge
+3570  벌어지다  beol-eojida  break up
+3571  보너스  boneoseu  bonus
+3572  산책  sanchaeg  walk
+3573  생기  saeng-gi  vitality
+3574  서적  seojeog  books
+3575  소화  sohwa  digestion
+3576  수험생  suheomsaeng  student
+3577  시끄럽다  sikkeuleobda  noisy
+3578  신세대  sinsedae  new generation
+3579  안기다  angida  embrace
+3580  어기다  eogida  violate
+3581  어때  eottae  how
+3582  엘리베이터  ellibeiteo  elevator
+3583  연구원  yeonguwon  researcher
+3584  연애  yeon-ae  romantic relationship
+3585  연휴  yeonhyu  Holidays
+3586  요약하다  yoyaghada  summarize
+3587  운동하다  undonghada  work out
+3588  월요일  wol-yoil  Monday
+3589  위성  wiseong  satellite
+3590  의외로  uioelo  surprisingly
+3591  이모  imo  aunt
+3592  자살  jasal  Suicide
+3593  제시  jesi  suggest
+3594  제외되다  je-oedoeda  excluded
+3595  조카  joka  nephew
+3596  주소  juso  address
+3597  찍히다  jjighida  take a picture
+3598  취직  chwijig  find a job
+3599  타락  talag  Corruption
+3600  통화  tonghwa  call
+3601  틀림없이  teullim-eobs-i  no doubt
+3602  파티  pati  party
+3603  회관  hoegwan  hall
+3604  계획하다  gyehoeghada  Plan
+3605  공연장  gong-yeonjang  concert hall
+3606  국적  gugjeog  Nationality
+3607  근래  geunlae  lately
+3608  나뉘다  nanwida  split
+3609  낱말  natmal  word
+3610  냄비  naembi  pot
+3611  늑대  neugdae  A wolf
+3612  늘어서다  neul-eoseoda  line up
+3613  다정하다  dajeonghada  considerate
+3614  달려들다  dallyeodeulda  rush
+3615  망원경  mang-wongyeong  telescope
+3616  모범  mobeom  Example
+3617  무리하다  mulihada  overwork
+3618  묶이다  mukk-ida  knot
+3619  방해하다  banghaehada  Hinder
+3620  뱀  baem  snake
+3621  상류  sanglyu  upstream
+3622  석  seog  three
+3623  선명하다  seonmyeonghada  clear
+3624  선호하다  seonhohada  prefer
+3625  성공적  seong-gongjeog  successful
+3626  소규모  sogyumo  small
+3627  수시로  susilo  frequently
+3628  시야  siya  eyesight
+3629  실현되다  silhyeondoeda  come true
+3630  아니야  aniya  no
+3631  어느덧  eoneudeos  sooner or later
+3632  오르내리다  oleunaelida  go up and down
+3633  왕자  wangja  Prince
+3634  우수하다  usuhada  great
+3635  유명  yumyeong  famous
+3636  유형  yuhyeong  type
+3637  으레  eule  usually
+3638  일상적  ilsangjeog  routine
+3639  일일이  il-il-i  one by one
+3640  전공하다  jeongonghada  Specialize
+3641  전후  jeonhu  order
+3642  정상  jeongsang  normal
+3643  정상적  jeongsangjeog  normal
+3644  질적  jiljeog  qualitative
+3645  척  cheog  chuck
+3646  청소하다  cheongsohada  Sweep
+3647  충격적  chung-gyeogjeog  shocking
+3648  치아  chia  teeth
+3649  편의  pyeon-ui  Convenience
+3650  폐지  pyeji  abolition
+3651  해설  haeseol  Commentary
+3652  헌  heon  old
+3653  흑백  heugbaeg  Gray-scale
+3654  희생  huisaeng  sacrifice
+3655  가까워지다  gakkawojida  closer
+3656  감사하다  gamsahada  Thank
+3657  강도  gangdo  robbery
+3658  경비  gyeongbi  guard
+3659  경제력  gyeongjelyeog  economic power
+3660  금하다  geumhada  forbid
+3661  기대되다  gidaedoeda  look forward to
+3662  깊숙이  gipsug-i  deeply
+3663  꿀  kkul  honey
+3664  넘어뜨리다  neom-eotteulida  knock down
+3665  농사짓다  nongsajisda  farm
+3666  단단하다  dandanhada  hard
+3667  담당자  damdangja  manager
+3668  답변  dabbyeon  answer
+3669  대비  daebi  prepare
+3670  대체  daeche  how
+3671  더욱더  deougdeo  more and more
+3672  도심  dosim  downtown
+3673  된장  doenjang  Miso
+3674  둘러싸이다  dulleossaida  be surrounded
+3675  등산  deungsan  Mountain climbing
+3676  마찰  machal  friction
+3677  마크  makeu  Mark
+3678  만족  manjog  satisfied
+3679  망치다  mangchida  ruin
+3680  메뉴  menyu  menu
+3681  모금  mogeum  fundraising
+3682  묘사  myosa  describe
+3683  문화적  munhwajeog  classic
+3684  묻히다  mudhida  smear
+3685  미혼  mihon  single
+3686  발전되다  baljeondoeda  develop
+3687  방송사  bangsongsa  broadcaster
+3688  방지하다  bangjihada  prevent
+3689  사표  sapyo  resignation
+3690  삼가다  samgada  forbear
+3691  생방송  saengbangsong  live broadcast
+3692  셋째  sesjjae  third
+3693  소홀히  soholhi  neglect
+3694  손발  sonbal  limbs
+3695  쌍둥이  ssangdung-i  Twins
+3696  안내하다  annaehada  guide
+3697  앉히다  anjhida  sit
+3698  영하  yeongha  sub-zero
+3699  옆구리  yeopguli  side
+3700  외교관  oegyogwan  diplomat
+3701  외국어  oegug-eo  Foreign language
+3702  웬만하다  wenmanhada  tolerable
+3703  유행하다  yuhaenghada  popular
+3704  으응  eueung  Yes
+3705  이어서  ieoseo  next
+3706  자장면  jajangmyeon  Noodles
+3707  자정  jajeong  midnight
+3708  종합하다  jonghabhada  put together
+3709  중학생  junghagsaeng  Middle schooler
+3710  참  cham  Oh yeah
+3711  채  chae  stick
+3712  최후  choehu  last
+3713  취재  chwijae  take
+3714  테러  teleo  terror
+3715  토론회  tolonhoe  debating society
+3716  한잔  hanjan  a drink
+3717  호주머니  hojumeoni  pocket
+3718  휴일  hyuil  holiday
+3719  가난  ganan  poor
+3720  가죽  gajug  leather
+3721  관계없이  gwangyeeobs-i  Regardless
+3722  군  gun  army
+3723  기다  gida  crawl
+3724  다툼  datum  conflict
+3725  달력  dallyeog  calendar
+3726  대낮  daenaj  midday
+3727  데려가다  delyeogada  take
+3728  도자기  dojagi  ceramic
+3729  돌멩이  dolmeng-i  stone
+3730  되돌아오다  doedol-aoda  come back
+3731  두께  doedol-aoda  come back
+3732  뒤쪽  dwijjog  behind
+3733  모조리  mojoli  all
+3734  변경  byeongyeong  change
+3735  부지런히  bujileonhi  industriously
+3736  사슴  saseum  deer
+3737  삼촌  samchon  uncle
+3738  상당수  sangdangsu  Quite a lot
+3739  소풍  sopung  picnic
+3740  속옷  sog-os  underwear
+3741  손목  sonmog  wrist
+3742  손실  sonsil  Loss
+3743  슬쩍  seuljjeog  swipe
+3744  시나리오  sinalio  scenario
+3745  신문지  sinmunji  newspaper
+3746  실컷  silkeos  heartily
+3747  양보하다  yangbohada  yield
+3748  엔진  enjin  engine
+3749  용  yong  Dragon
+3750  운행  unhaeng  race
+3751  이대로  idaelo  like this
+3752  인간성  inganseong  humanity
+3753  인상적  insangjeog  impressive
+3754  자라나다  jalanada  grow up
+3755  전시  jeonsi  exhibition
+3756  조그마하다  jogeumahada  small
+3757  주차장  juchajang  parking lot
+3758  주한  juhan  Korea
+3759  중년  jungnyeon  middle-age
+3760  지다  jida  lose
+3761  찌꺼기  jjikkeogi  leftover
+3762  춤추다  chumchuda  to dance
+3763  테니스  teniseu  tennis
+3764  파리  pali  fly
+3765  포스터  poseuteo  poster
+3766  포함  poham  including
+3767  형식적  hyeongsigjeog  formal
+3768  호남  honam  Honam
+3769  후회하다  huhoehada  Regret
+3770  가이드  gaideu  guide
+3771  가입하다  gaibhada  join
+3772  감소  gamso  decrease
+3773  고르다  goleuda  choose
+3774  고속도로  gosogdolo  highway
+3775  공책  gongchaeg  Notebook
+3776  구분되다  gubundoeda  separate
+3777  구입  gu-ib  purchase
+3778  기여  giyeo  contribute
+3779  기호  giho  sign
+3780  꾸리다  kkulida  manage
+3781  낭비  nangbi  waste
+3782  내외  naeoe  inside and outside
+3783  대략  daelyag  approximately
+3784  덮이다  deop-ida  cope
+3785  도리어  dolieo  on the contrary
+3786  똑바로  ttogbalo  upright
+3787  라인  lain  line
+3788  렌즈  lenjeu  lens
+3789  멋있다  meos-issda  stylish
+3790  멸치  myeolchi  anchovy
+3791  바람  balam  wind
+3792  발목  balmog  Ankle
+3793  밤늦다  bamneujda  late at night
+3794  배  bae  ship
+3795  벌  beol  punishment
+3796  보관  bogwan  keep
+3797  보살피다  bosalpida  take care of
+3798  보완하다  bowanhada  Redeem
+3799  보존하다  bojonhada  Preserve
+3800  빼놓다  ppaenohda  leave out
+3801  사상  sasang  thought
+3802  사춘기  sachungi  puberty
+3803  상반기  sangbangi  the first half
+3804  서점  seojeom  bookstore
+3805  선전  seonjeon  propaganda
+3806  설립하다  seollibhada  establish
+3807  수집  sujib  collection
+3808  수필  supil  essay
+3809  신기하다  singihada  Miraculous
+3810  신비  sinbi  Mystery
+3811  신설  sinseol  newly open
+3812  실감  silgam  realism
+3813  실망  silmang  Disappointment
+3814  쓰다듬다  sseudadeumda  stroke
+3815  알루미늄  alluminyum  aluminum
+3816  알아주다  al-ajuda  get to know
+3817  양말  yangmal  Amount - say
+3818  여우  yeou  Fox
+3819  와  wa  Wow
+3820  외출  oechul  outing
+3821  용기  yong-gi  courage
+3822  웨이터  weiteo  waiter
+3823  유발하다  yubalhada  cause
+3824  유지되다  yujidoeda  be maintained
+3825  자가용  jagayong  own car
+3826  잡아당기다  jab-adang-gida  pull
+3827  점검  jeomgeom  inspection
+3828  정말  jeongmal  really
+3829  정원  jeong-won  garden
+3830  조기  jogi  croaker
+3831  존경하다  jongyeonghada  Respect
+3832  종  jong  Bell
+3833  종소리  jongsoli  knell
+3834  중순  jungsun  mid
+3835  지각  jigag  tardy
+3836  직선  jigseon  Straight
+3837  참외  cham-oe  melon
+3838  체하다  chehada  pretend
+3839  체험하다  cheheomhada  experience
+3840  초대하다  chodaehada  invite
+3841  총  chong  gun
+3842  칭찬하다  chingchanhada  Praise
+3843  코치  kochi  coach
+3844  통일하다  tong-ilhada  unify
+3845  패션  paesyeon  fashion
+3846  프린터  peulinteo  printer
+3847  피디  pidi  PD
+3848  학위  hag-wi  degree
+3849  회의  hoeui  meeting
+3850  가로등  galodeung  Street lamp
+3851  개개인  gaegaein  individual
+3852  고집  gojib  stubborn
+3853  급격히  geubgyeoghi  rapidly
+3854  기능  gineung  function
+3855  기막히다  gimaghida  amazing
+3856  나누어지다  nanueojida  divided
+3857  낙엽  nag-yeob  fallen leaves
+3858  넘겨주다  neomgyeojuda  hand over
+3859  논리적  nonlijeog  logical
+3860  다가서다  dagaseoda  approach
+3861  대기하다  daegihada  wait
+3862  대접  daejeob  Hospitality
+3863  동창  dongchang  alumni
+3864  두리번거리다  dulibeongeolida  look around
+3865  말다  malda  roll
+3866  맞은편  maj-eunpyeon  Across
+3867  멋  meos  taste
+3868  면  myeon  noodle
+3869  박  bag  Gourd
+3870  밤하늘  bamhaneul  night sky
+3871  변명  byeonmyeong  excuse
+3872  보자기  bojagi  furoshiki
+3873  부상  busang  injury
+3874  분리하다  bunlihada  Disunite
+3875  붙들다  butdeulda  seize
+3876  사들이다  sadeul-ida  buy
+3877  상관없이  sang-gwan-eobs-i  Regardless of
+3878  새우  saeu  shrimp
+3879  선원  seon-won  sailor
+3880  설사  seolsa  diarrhea
+3881  실망하다  silmanghada  It is disappointing
+3882  심해지다  simhaejida  get worse
+3883  씨름  ssileum  Wrestling
+3884  아쉬움  aswium  regret
+3885  앞길  apgil  road ahead
+3886  약해지다  yaghaejida  weaken
+3887  어젯밤  eojesbam  yesternight
+3888  엉망  eongmang  mess
+3889  여관  yeogwan  motel
+3890  여쭈다  yeojjuda  ask
+3891  연습하다  yeonseubhada  Practice
+3892  연출하다  yeonchulhada  direct
+3893  열중하다  yeoljunghada  be engrossed
+3894  영웅  yeong-ung  hero
+3895  유산  yusan  Legacy
+3896  의도적  uidojeog  intentionally
+3897  이따금  ittageum  sometimes
+3898  임신부  imsinbu  pregnant woman
+3899  장기적  jang-gijeog  long term
+3900  재주  jaeju  skill
+3901  전설  jeonseol  Legend
+3902  절  jeol  I
+3903  젖  jeoj  milk
+3904  조르다  joleuda  tease
+3905  주문하다  jumunhada  Bespeak
+3906  주사  jusa  injection
+3907  지겹다  jigyeobda  boring
+3908  짐작  jimjag  guesswork
+3909  쫓겨나다  jjochgyeonada  Kicked out
+3910  찢다  jjijda  tear
+3911  채널  chaeneol  channel
+3912  출근하다  chulgeunhada  go to work
+3913  취소하다  chwisohada  to cancel
+3914  취업  chwieob  employment
+3915  칠하다  chilhada  paint
+3916  타오르다  taoleuda  burn
+3917  탁  tag  widely
+3918  판  pan  board
+3919  평  pyeong  flat
+3920  평화롭다  pyeonghwalobda  peaceful
+3921  표시  pyosi  Mark
+3922  하반기  habangi  Second half
+3923  한구석  hanguseog  one corner
+3924  한하다  hanhada  limit
+3925  해답  haedab  solution
+3926  해소하다  haesohada  Release
+3927  허락하다  heolaghada  Permit
+3928  확립하다  hwaglibhada  establish
+3929  확신하다  hwagsinhada  Is convinced
+3930  흥분  heungbun  excitement
+3931  흥분하다  heungbunhada  excited
+3932  힘겹다  himgyeobda  it's hard
+3933  감수성  gamsuseong  sensibility
+3934  거들다  geodeulda  assist
+3935  건너편  geonneopyeon  other side
+3936  경치  gyeongchi  view
+3937  급속히  geubsoghi  rapidly
+3938  급증하다  geubjeunghada  soar
+3939  깔끔하다  kkalkkeumhada  It is clean
+3940  꼼꼼하다  kkomkkomhada  meticulous
+3941  낮아지다  naj-ajida  lower
+3942  단순  dansun  simple
+3943  대사  daesa  line
+3944  두세  duse  two or three
+3945  때  ttae  at the time
+3946  매  mae  Hawk
+3947  먹고살다  meoggosalda  make a living
+3948  멎다  meojda  stop
+3949  면담  myeondam  interview
+3950  모집  mojib  recruitment
+3951  모퉁이  motung-i  corner
+3952  바구니  baguni  Basket
+3953  바싹  bassag  close
+3954  발달되다  baldaldoeda  develop
+3955  발음  bal-eum  Pronunciation
+3956  방울  bang-ul  Bell
+3957  보름  boleum  full moon
+3958  봉지  bongji  bag
+3959  부딪히다  budijhida  To get hit
+3960  비상  bisang  emergency
+3961  비서  biseo  Secretary
+3962  뿌리치다  ppulichida  reject
+3963  사업자  sa-eobja  buisnessman
+3964  상대편  sangdaepyeon  the other side
+3965  세트  seteu  set
+3966  소망  somang  hope
+3967  수동적  sudongjeog  passive
+3968  술잔  suljan  glass
+3969  슬그머니  seulgeumeoni  sneakily
+3970  시장  sijang  market
+3971  시청률  sicheonglyul  rating
+3972  신문사  sinmunsa  newspaper
+3973  여군  yeogun  female
+3974  연인  yeon-in  lover
+3975  연장  yeonjang  extension
+3976  열흘  yeolheul  ten days
+3977  예선  yeseon  tryout
+3978  옥수수  ogsusu  corn
+3979  은행나무  eunhaengnamu  Ginkgo
+3980  이웃집  iusjib  next door
+3981  자부심  jabusim  pride
+3982  장차  jangcha  future
+3983  재미없다  jaemieobsda  Not funny
+3984  저편  jeopyeon  the other side
+3985  정신과  jeongsingwa  psychiatry
+3986  제도적  jedojeog  institutional
+3987  조절  jojeol  control
+3988  주거  jugeo  dwelling
+3989  주스  juseu  juice
+3990  준비되다  junbidoeda  be ready
+3991  중단되다  jungdandoeda  stop
+3992  중요시하다  jung-yosihada  give importance
+3993  지점  jijeom  Point
+3994  진단하다  jindanhada  diagnose
+3995  콜라  kolla  Cola
+3996  편견  pyeongyeon  prejudice
+3997  플라스틱  peullaseutig  plastic
+3998  환율  peullaseutig  plastic
+3999  활기  peullaseutig  plastic
+4000  강사  hwalgi  vigor
+4001  강수량  hwalgi  vigor
+4002  교대  gangsulyang  precipitation
+4003  구청  gyodae  rotation
+4004  국내외  gucheong  ward office
+4005  금지되다  gugnaeoe  Domestic and foreign
+4006  기도하다  gidohada  Pray
+4007  기성  gidohada  Pray
+4008  깨뜨리다  kkaetteulida  break
+4009  꼼짝  kkomjjag  freeze
+4010  남학생  namhagsaeng  boy
+4011  농사일  nongsail  farm work
+4012  농장  nongjang  Farm
+4013  데이트  deiteu  Date
+4014  되돌아가다  doedol-agada  go back
+4015  두부  dubu  tofu
+4016  들이켜다  deul-ikyeoda  inhale
+4017  따라다니다  ttaladanida  follow
+4018  라운드  laundeu  round
+4019  마음가짐  ma-eumgajim  mental attitude
+4020  머리칼  meolikal  hair
+4021  모  mo  what
+4022  바퀴  bakwi  wheel
+4023  번개  beongae  Lightning
+4024  변화되다  byeonhwadoeda  change
+4025  부러워하다  buleowohada  envy
+4026  부재  bujae  absence
+4027  사망  samang  Dead
+4028  생  saeng  raw
+4029  서늘하다  seoneulhada  cool
+4030  성경  seong-gyeong  Bible
+4031  소요되다  soyodoeda  take up
+4032  소화하다  sohwahada  digest
+4033  순간적  sunganjeog  momentary
+4034  시집가다  sijibgada  get married
+4035  시청  sicheong  City Hall
+4036  싶어지다  sip-eojida  want to
+4037  씌우다  ssuiuda  sheathe
+4038  야간  yagan  Nighttime
+4039  엇갈리다  eosgallida  stagger
+4040  엷다  yeolbda  thin
+4041  오락  olag  game
+4042  오른손  oleunson  right hand
+4043  우아하다  uahada  elegant
+4044  이것저것  igeosjeogeos  this and that
+4045  이슬  iseul  Dew
+4046  인간관계  ingangwangye  Relationships
+4047  장기간  jang-gigan  long term
+4048  저자  jeoja  author
+4049  전선  jeonseon  wire
+4050  정지  jeongji  stop
+4051  제의하다  je-uihada  offer
+4052  조명  jomyeong  light
+4053  조화되다  johwadoeda  harmonize
+4054  줄거리  julgeoli  summary
+4055  중단  jungdan  stop
+4056  차선  chaseon  lane
+4057  착각하다  chaggaghada  be mistaken
+4058  초상화  chosanghwa  portrait
+4059  출장  chuljang  Business trip
+4060  쿠데타  kudeta  Coup d'etat
+4061  퇴근  toegeun  Off work
+4062  특수성  teugsuseong  distinctiveness
+4063  항공기  hang-gong-gi  aircraft
+4064  활발히  hwalbalhi  actively
+4065  회화  hoehwa  conversation
+4066  흥미롭다  heungmilobda  Interesting
+4067  가져다주다  gajyeodajuda  bring
+4068  각오  gag-o  Resolution
+4069  개방되다  gaebangdoeda  open up
+4070  겨자  gyeoja  mustard
+4071  경고하다  gyeong-gohada  warn
+4072  경제학  gyeongjehag  economics
+4073  골프  golpeu  golf
+4074  관심사  gwansimsa  Interest
+4075  구별되다  gubyeoldoeda  set apart
+4076  국사  gugsa  national history
+4077  굳히다  gudhida  bind
+4078  귀국  gwigug  Return
+4079  그간  geugan  so far
+4080  그럴듯하다  geuleoldeushada  plausible
+4081  극작가  geugjagga  playwright
+4082  기  gi  energy
+4083  기울다  giulda  slant
+4084  기적  gijeog  miracle
+4085  끌리다  kkeullida  traipse
+4086  내보내다  naebonaeda  send out
+4087  담  dam  wall
+4088  동서  dongseo  cohabitation
+4089  들여놓다  deul-yeonohda  bring in
+4090  따스하다  ttaseuhada  warm
+4091  말투  maltu  speech
+4092  명령어  myeonglyeong-eo  command
+4093  목욕탕  mog-yogtang  baths
+4094  미끄러지다  mikkeuleojida  slip
+4095  바닷물  badasmul  sea water
+4096  변신  byeonsin  transform
+4097  부친  buchin  father
+4098  붙잡히다  butjabhida  caught
+4099  브랜드  beulaendeu  brand
+4100  빨다  ppalda  suck
+4101  사무  samu  Affairs
+4102  사소하다  sasohada  trivial
+4103  상  sang  Prize
+4104  상쾌하다  sangkwaehada  refreshing
+4105  성  seong  Castle
+4106  손길  songil  hand
+4107  순위  sun-wi  ranking
+4108  식사하다  sigsahada  have a meal
+4109  쌍  ssang  pair
+4110  썰렁하다  sseolleonghada  sluggish
+4111  암시  amsi  suggestion
+4112  앞날  apnal  future
+4113  역사상  yeogsasang  in history
+4114  연주  yeonju  play
+4115  우울하다  uulhada  Depressed
+4116  우체국  uchegug  post office
+4117  울리다  ullida  make cry
+4118  육상  yugsang  Athletics
+4119  음주  eumju  Drinking
+4120  이별  ibyeol  farewell
+4121  인재  injae  Human Resources
+4122  인종  injong  race
+4123  일시적  ilsijeog  temporary
+4124  재밌다  jaemissda  fun
+4125  전문적  jeonmunjeog  professional
+4126  젊음  jeolm-eum  youth
+4127  점잖다  jeomjanhda  be gentle
+4128  조개  jogae  clam
+4129  주무시다  jumusida  sleep
+4130  중계방송  jung-gyebangsong  broadcast
+4131  중독  jungdog  Addiction
+4132  지급  jigeub  Payments
+4133  진실하다  jinsilhada  true
+4134  차창  chachang  car window
+4135  초청하다  chocheonghada  invite
+4136  출발점  chulbaljeom  starting point
+4137  출판  chulpan  Publishing
+4138  출현하다  chulhyeonhada  emerge
+4139  클럽  keulleob  club
+4140  키스  kiseu  kiss
+4141  탈출하다  talchulhada  to escape
+4142  판사  pansa  judge
+4143  허락  heolag  permission
+4144  확신  hwagsin  assurance
+4145  걱정스럽다  geogjeongseuleobda  I'm worried
+4146  건설되다  geonseoldoeda  be built
+4147  고개  gogae  head
+4148  고프다  gopeuda  I'm sick
+4149  그제야  geujeya  just then
+4150  금연  geum-yeon  no smoking
+4151  기성세대  giseongsedae  older generation
+4152  기술하다  gisulhada  describe
+4153  까치  kkachi  Magpie
+4154  꿈속  kkumsog  in a dream
+4155  나비  nabi  butterfly
+4156  남북  nambug  North and South
+4157  납득하다  nabdeughada  convince
+4158  단  dan  only
+4159  대사관  daesagwan  Embassy
+4160  독창적  dogchangjeog  original
+4161  되풀이되다  doepul-idoeda  repeat
+4162  떠나가다  tteonagada  leave
+4163  떠들썩하다  tteodeulsseoghada  bustle
+4164  뜻대로  tteusdaelo  at will
+4165  레스토랑  leseutolang  restaurant
+4166  로봇  lobos  robot
+4167  만점  manjeom  perfect score
+4168  매달  maedal  medal
+4169  모여들다  moyeodeulda  gather
+4170  바깥쪽  bakkatjjog  outside
+4171  배고프다  baegopeuda  Hungry
+4172  버섯  beoseos  mushroom
+4173  보안  boan  security
+4174  뵈다  boeda  see you
+4175  부  bu  wealth
+4176  비웃다  biusda  Making fun of
+4177  비키다  bikida  get away
+4178  사나이  sanai  man
+4179  사모님  samonim  Wife
+4180  삼  sam  three
+4181  상징적  sangjingjeog  symbolic
+4182  색다르다  saegdaleuda  different
+4183  세미나  semina  seminar
+4184  세제  seje  Detergent
+4185  속삭이다  sogsag-ida  whisper
+4186  시일  siil  seal
+4187  시합  sihab  match
+4188  신속하다  sinsoghada  quick
+4189  신제품  sinjepum  new product
+4190  신중하다  sinjunghada  Be careful
+4191  썩  sseog  rot
+4192  암컷  amkeos  female
+4193  여행하다  yeohaenghada  travel
+4194  예고하다  yegohada  foretell
+4195  위반하다  wibanhada  violate
+4196  윗몸  wismom  upper body
+4197  은은하다  eun-eunhada  soft
+4198  이해관계  ihaegwangye  interest
+4199  익히다  ighida  to cook
+4200  일대  ildae  cohort
+4201  입력  iblyeog  input
+4202  자연현상  jayeonhyeonsang  natural phenomenon
+4203  정류장  jeonglyujang  station
+4204  정신없이  jeongsin-eobs-i  crazy
+4205  정직하다  jeongjighada  be honest
+4206  조정하다  jojeonghada  Mediate
+4207  주름  juleum  wrinkle
+4208  중요  jung-yo  important
+4209  챔피언  chaempieon  champion
+4210  최신  choesin  recent
+4211  축하  chugha  Congrats
+4212  취소  chwiso  cancellation
+4213  캐릭터  kaeligteo  character
+4214  커튼  keoteun  curtain
+4215  팬  paen  Pan
+4216  해롭다  haelobda  harmful
+4217  현관문  hyeongwanmun  Main door
+4218  활발해지다  hwalbalhaejida  become active
+4219  회복되다  hoebogdoeda  recover
+4220  희생하다  huisaenghada  sacrifice
+4221  가능해지다  ganeunghaejida  become possible
+4222  겨울철  gyeoulcheol  winter
+4223  고추장  gochujang  Kochujang
+4224  골프장  golpeujang  golf course
+4225  공연히  gong-yeonhi  vainly
+4226  과정  gwajeong  process
+4227  국수  gugsu  Noodle
+4228  국제적  gugjejeog  international
+4229  그루  geulu  tree
+4230  그전  geujeon  before that
+4231  금고  geumgo  safe
+4232  꾸중  kkujung  rebuke
+4233  끌어당기다  kkeul-eodang-gida  pull
+4234  끼  kki  talent
+4235  능동적  neungdongjeog  active
+4236  달빛  dalbich  Moonlight
+4237  당분간  dangbungan  for now
+4238  도움말  doummal  Help
+4239  되살리다  doesallida  revive
+4240  뒷산  dwis-san  back mountain
+4241  땜  ttaem  tinker
+4242  만족하다  manjoghada  Is satisfied
+4243  맵다  maebda  spicy
+4244  메다  meda  carry
+4245  몰려오다  mollyeooda  flock
+4246  물질적  muljiljeog  material
+4247  미인  miin  Beauty
+4248  믿어지다  mid-eojida  be believed
+4249  반죽  banjug  dough
+4250  반지  banji  ring
+4251  밤  bam  night
+4252  배치  baechi  arrangement
+4253  백인  baeg-in  White
+4254  본  bon  copy
+4255  본사  bonsa  head office
+4256  부르다  buleuda  calling
+4257  불평등하다  bulpyeongdeunghada  unequal
+4258  비타민  bitamin  vitamin
+4259  빌딩  bilding  building
+4260  빠뜨리다  ppatteulida  miss out
+4261  산속  sansog  in the mountains
+4262  새로이  saeloi  freshly
+4263  서양인  seoyang-in  Occidental
+4264  소지품  sojipum  belongings
+4265  송이  song-i  cluster
+4266  쇠  soe  iron
+4267  수컷  sukeos  cock
+4268  승리하다  seunglihada  win
+4269  식초  sigcho  vinegar
+4270  심부름  simbuleum  errand
+4271  씨앗  ssias  seed
+4272  야외  yaoe  outdoor
+4273  얻어먹다  eod-eomeogda  get eaten
+4274  엄숙하다  eomsughada  solemn
+4275  여가  yeoga  Leisure
+4276  여동생  yeodongsaeng  younger sister
+4277  연상하다  yeonsanghada  recall
+4278  옆집  yeopjib  next door
+4279  오래간만  olaeganman  long time no see
+4280  오래도록  olaedolog  for a long time
+4281  올려다보다  ollyeodaboda  look up
+4282  외다  oeda  out
+4283  외침  oechim  shout
+4284  이빨  ippal  teeth
+4285  이해  ihae  understand
+4286  일손  ilson  work in hand
+4287  잠바  jamba  jacket
+4288  잠수함  jamsuham  submarine
+4289  장수  jangsu  Long live
+4290  장학금  janghaggeum  scholarship
+4291  재다  jaeda  take
+4292  점심시간  jeomsimsigan  Lunch hour
+4293  지도하다  jidohada  lead
+4294  지적  jijeog  Point out
+4295  진로  jinlo  Course
+4296  진행자  jinhaengja  MC
+4297  찾아다니다  chaj-adanida  look for
+4298  책임감  chaeg-imgam  responsibility
+4299  체온  che-on  temperature
+4300  초밥  chobab  sushi
+4301  출구  chulgu  exit
+4302  출입문  chul-ibmun  entrance door
+4303  통과  tong-gwa  Pass
+4304  포장마차  pojangmacha  snack cart
+4305  푸다  puda  scoop out
+4306  풀  pul  grass
+4307  피망  pimang  pimento
+4308  필름  pilleum  film
+4309  한결  hangyeol  Hankyul
+4310  한여름  han-yeoleum  midsummer
+4311  항공  hang-gong  Airline
+4312  호선  hoseon  line
+4313  회전  hoejeon  rotation
+4314  휴지  hyuji  tissue
+4315  가려지다  galyeojida  be obscured
+4316  가위  gawi  scissors
+4317  고속  gosog  high speed
+4318  곧다  godda  straight
+4319  골치  golchi  trouble
+4320  구하다  guhada  get
+4321  그때그때  geuttaegeuttae  from time to time
+4322  내달  naedal  next month
+4323  놔두다  nwaduda  let go
+4324  늦어지다  neuj-eojida  be late
+4325  도망가다  domang-gada  run away
+4326  독하다  doghada  poisonous
+4327  땅콩  ttangkong  peanut
+4328  뜰  tteul  garden
+4329  뜻밖에  tteusbakk-e  unexpectedly
+4330  명단  myeongdan  list
+4331  무의미하다  muuimihada  meaningless
+4332  문구  mungu  Phrases
+4333  뭣  mwos  what
+4334  미만  miman  under
+4335  백색  baegsaeg  White
+4336  비바람  bibalam  rainstorm
+4337  사기  sagi  fraud
+4338  사망하다  samanghada  die
+4339  사무직  samujig  office worker
+4340  소질  sojil  diathesis
+4341  솜  som  cotton
+4342  시디롬  sidilom  CD-ROM
+4343  식생활  sigsaenghwal  eating habits
+4344  신호등  sinhodeung  Traffic Light
+4345  신혼여행  sinhon-yeohaeng  Honeymoon
+4346  실  sil  line
+4347  씩씩하다  ssigssighada  brave
+4348  연구실  yeongusil  Lab
+4349  월드컵  woldeukeob  World Cup
+4350  유머  yumeo  humor
+4351  의류  uilyu  clothes
+4352  입원  ib-won  Admission
+4353  잊혀지다  ijhyeojida  be forgotten
+4354  잘살다  jalsalda  live well
+4355  장가  jang-ga  marry
+4356  적응  jeog-eung  adaptation
+4357  정리되다  jeonglidoeda  tidy up
+4358  졸업생  jol-eobsaeng  graduate
+4359  죽다  jugda  die
+4360  창피하다  changpihada  It is embarrassing
+4361  친절  chinjeol  kindness
+4362  침실  chimsil  bedroom
+4363  태권도  taegwondo  Taekwondo
+4364  토론하다  tolonhada  have a discussion
+4365  하나하나  hanahana  One by one
+4366  합하다  habhada  fit
+4367  핸드백  haendeubaeg  handbag
+4368  햄버거  haembeogeo  hamburger
+4369  가정교사  gajeong-gyosa  tutor
+4370  감사  gamsa  thank
+4371  공통적  gongtongjeog  common
+4372  교육자  gyoyugja  educator
+4373  교재  gyojae  textbook
+4374  기타  gita  Etc
+4375  길어지다  gil-eojida  lengthen
+4376  깨소금  kkaesogeum  sesame salt
+4377  나빠지다  nappajida  get worse
+4378  놓아두다  noh-aduda  let go
+4379  대접하다  daejeobhada  entertain
+4380  두통  dutong  headache
+4381  뛰어내리다  ttwieonaelida  jump off
+4382  무궁화  mugunghwa  Rose of Sharon
+4383  바이러스  baileoseu  virus
+4384  방바닥  bangbadag  floor
+4385  번거롭다  beongeolobda  Cumbersome
+4386  사냥  sanyang  hunt
+4387  사회생활  sahoesaenghwal  Social Life
+4388  설거지  seolgeoji  washing dishes
+4389  수년  sunyeon  many years
+4390  수출하다  suchulhada  export
+4391  숙소  sugso  lodging
+4392  슈퍼마켓  syupeomakes  supermarket
+4393  심리적  simlijeog  psychological
+4394  연기  yeongi  performance
+4395  위로  wilo  up
+4396  이용자  iyongja  user
+4397  입력하다  iblyeoghada  enter
+4398  자격증  jagyeogjeung  certificate
+4399  진료  jinlyo  diagnosis
+4400  창가  chang-ga  window
+4401  초조하다  chojohada  be nervous
+4402  타다  tada  Ride
+4403  한잔하다  hanjanhada  have a drink
+4404  함께하다  hamkkehada  together
+4405  합격하다  habgyeoghada  Pass an examination
+4406  화장지  hwajangji  paper towel
+4407  힘껏  himkkeos  amain
+4408  가요  gayo  song
+4409  감상  gamsang  enjoy
+4410  공짜  gongjja  free
+4411  공통되다  gongtongdoeda  common
+4412  그만하다  geumanhada  stop
+4413  나들이  nadeul-i  picnic
+4414  녹이다  nog-ida  melt
+4415  눈가  nunga  eye area
+4416  도망  domang  escape
+4417  동기  dong-gi  motivation
+4418  모기  mogi  mosquito
+4419  미니  mini  mini
+4420  방면  bangmyeon  direction
+4421  법적  beobjeog  legal
+4422  벤치  benchi  Bench
+4423  보수  bosu  repair
+4424  볼일  bol-il  chores
+4425  부끄러움  bukkeuleoum  shame
+4426  비누  binu  soap
+4427  비행  bihaeng  flight
+4428  빗줄기  bisjulgi  raindrops
+4429  사회학  sahoehag  sociology
+4430  성적  seongjeog  sexual
+4431  세수  sesu  wash face
+4432  순진하다  sunjinhada  naive
+4433  스웨터  seuweteo  sweater
+4434  심심하다  simsimhada  I'm bored
+4435  어려워지다  eolyeowojida  become difficult
+4436  여행사  yeohaengsa  Travel agency
+4437  올라서다  ollaseoda  stand up
+4438  왼손  oenson  left hand
+4439  유학생  yuhagsaeng  foreign student
+4440  은  eun  silver
+4441  자리  jali  Seat
+4442  잘생기다  jalsaeng-gida  handsome
+4443  장애인  jang-aein  Disabled
+4444  재활용품  jaehwal-yongpum  Recyclables
+4445  저러다  jeoleoda  like that
+4446  저리  jeoli  there
+4447  절약하다  jeol-yaghada  Retrench
+4448  정반대  jeongbandae  contrary
+4449  조  jo  article
+4450  진동  jindong  vibration
+4451  찌개  jjigae  soup
+4452  추천  chucheon  suggestion
+4453  학점  hagjeom  Grades
+4454  한가하다  hangahada  It is idle
+4455  합격  habgyeog  pass
+4456  환영하다  hwan-yeonghada  Welcome
+4457  간접적  ganjeobjeog  indirect
+4458  갈다  galda  Sharpen
+4459  경영하다  gyeong-yeonghada  run
+4460  그리움  geulium  longing
+4461  그사이  geusai  in between
+4462  기념하다  ginyeomhada  celebrate
+4463  기도  gido  Prayer
+4464  길거리  gilgeoli  Street
+4465  꽃잎  kkoch-ip  petal
+4466  넥타이  negtai  necktie
+4467  대강  daegang  outline
+4468  독립하다  doglibhada  independent
+4469  돌려주다  dollyeojuda  Give back
+4470  들이마시다  deul-imasida  inhale
+4471  뛰어오르다  ttwieooleuda  jump
+4472  라이터  laiteo  lighter
+4473  매일  maeil  everyday
+4474  문밖  munbakk  out the door
+4475  방송하다  bangsonghada  broadcast
+4476  보충하다  bochunghada  to make up
+4477  불완전하다  bul-wanjeonhada  incomplete
+4478  불평  bulpyeong  complain
+4479  붐비다  bumbida  bustle
+4480  생활환경  saenghwalhwangyeong  living environment
+4481  서명  seomyeong  signature
+4482  손등  sondeung  back of the hand
+4483  역사학  yeogsahag  history
+4484  영  yeong  zero
+4485  오리  oli  duck
+4486  요리사  yolisa  chef
+4487  원  won  won
+4488  원서  wonseo  application
+4489  월  wol  month
+4490  이론적  ilonjeog  theoretical
+4491  이제야  ijeya  now
+4492  임신하다  imsinhada  get pregnant
+4493  입원하다  ib-wonhada  Hospitalize
+4494  자취  jachwi  trace
+4495  잠그다  jamgeuda  lock
+4496  잡수시다  jabsusida  let's eat
+4497  장난감  jangnangam  toy
+4498  장례  janglye  funeral
+4499  전기밥솥  jeongibabsot  electric rice cooker
+4500  지금껏  jigeumkkeos  so far
+4501  지름길  jileumgil  shortcut
+4502  지진  jijin  earthquake
+4503  참석자  chamseogja  attendants
+4504  창구  chang-gu  window
+4505  최저  choejeo  lowest
+4506  코미디  komidi  comedy
+4507  튀기다  twigida  fry
+4508  필수  pilsu  necessary
+4509  하품  hapum  yawn
+4510  한국말  hangugmal  Korean
+4511  횟수  hoes-su  number
+4512  흐리다  heulida  cloudy
+4513  가능  ganeung  possible
+4514  값싸다  gabs-ssada  cheap
+4515  계란  gyelan  egg
+4516  교문  gyomun  school gate
+4517  권투  gwontu  boxing
+4518  긴장감  ginjang-gam  tension
+4519  김  gim  seaweed
+4520  넷  nes  four
+4521  뒤편  dwipyeon  backside
+4522  매달다  maedalda  suspend
+4523  매주  maeju  every week
+4524  문제되다  munjedoeda  become a problem
+4525  받침  badchim  support
+4526  북  bug  north
+4527  불이익  bul-iig  disadvantage
+4528  불필요하다  bulpil-yohada  unnecessary
+4529  산부인과  sanbu-ingwa  Obstetrics and gynecology
+4530  새우다  saeuda  shrimp
+4531  서명하다  seomyeonghada  sign
+4532  수  su  Number
+4533  수고하다  sugohada  Keep the good work
+4534  수학  suhag  Mathematics
+4535  신부  sinbu  priest
+4536  쓸데없다  sseuldeeobsda  useless
+4537  아뇨  anyo  Nope
+4538  아래쪽  alaejjog  down
+4539  아스팔트  aseupalteu  asphalt
+4540  아하  aha  Aha
+4541  알코올  alkool  Alcohol
+4542  액세서리  aegseseoli  accessory
+4543  에어컨  eeokeon  air conditioner
+4544  염려하다  yeomlyeohada  concerned
+4545  오이  oi  cucumber
+4546  외삼촌  oesamchon  uncle
+4547  요  yo  yo. This
+4548  웃음소리  us-eumsoli  laughter
+4549  위쪽  wijjog  topside
+4550  음료수  eumlyosu  drink
+4551  인쇄  inswae  print
+4552  잔디  jandi  grass
+4553  전세  jeonse  charter
+4554  조깅  joging  jogging
+4555  치다  joging  hit
+4556  캠퍼스  kaempeoseu  campus
+4557  터널  teoneol  tunnel
+4558  통  tong  container
+4559  퇴직금  toejiggeum  severance pay
+4560  환갑  hwangab  60th birthday
+4561  가만있다  gaman-issda  stand still
+4562  간편하다  ganpyeonhada  easy
+4563  감동적  gamdongjeog  touching
+4564  건너오다  geonneooda  cross over
+4565  관광지  gwangwangji  Tourist destination
+4566  교복  gyobog  uniform
+4567  교포  gyopo  Korean
+4568  귀가하다  gwigahada  go home
+4569  날아다니다  nal-adanida  fly
+4570  더더욱  deodeoug  even more
+4571  등록금  deungloggeum  Tuition
+4572  뛰어다니다  ttwieodanida  run around
+4573  마음씨  ma-eumssi  nature
+4574  메모  memo  memo
+4575  몸매  mommae  body
+4576  몸무게  mommuge  weight
+4577  무관심  mugwansim  indifference
+4578  반짝이다  banjjag-ida  twinkle
+4579  배달  baedal  delivery
+4580  번역  beon-yeog  Translation
+4581  부인  bu-in  wife
+4582  분주하다  bunjuhada  busy
+4583  비닐봉지  binilbongji  plastic bag
+4584  비판적  bipanjeog  critical
+4585  뺏다  ppaesda  take away
+4586  사전  sajeon  dictionary
+4587  서랍  seolab  a drawer
+4588  소나기  sonagi  shower
+4589  소중히  sojunghi  cherish
+4590  손잡이  sonjab-i  handle
+4591  수도꼭지  sudokkogji  water tap
+4592  실례  sillye  excuse
+4593  싸구려  sillye  excuse
+4594  안녕  annyeong  Hi
+4595  안되다  andoeda  no
+4596  약국  yaggug  pharmacy
+4597  어찌나  eojjina  how much
+4598  엉터리  eongteoli  nonsense
+4599  연하다  yeonhada  soft
+4600  원숭이  wonsung-i  monkey
+4601  위법  wonsung-i  monkey
+4602  육체적  yugchejeog  physical
+4603  음력  eumlyeog  Lunar
+4604  이혼  ihon  divorce
+4605  일회용  ilhoeyong  disposable
+4606  잔디밭  jandibat  lawn
+4607  저기  jeogi  there
+4608  전문직  jeonmunjig  profession
+4609  전화기  jeonhwagi  cellphone
+4610  제출  jechul  submission
+4611  지난주  jinanju  last week
+4612  진달래  jindallae  Azalea
+4613  쪽  jjog  side
+4614  차남  chanam  second son
+4615  채점  chaejeom  grading
+4616  침착하다  chimchaghada  keep calm
+4617  캄캄하다  kamkamhada  it's dark
+4618  타자기  tajagi  keyboard
+4619  팬티  paenti  panties
+4620  편히  pyeonhi  at ease
+4621  포인트  pyeonhi  at ease
+4622  포크  pokeu  fork
+4623  한밤중  hanbamjung  midnight
+4624  효도  hyodo  filial piety
+4625  가구  gagu  furniture
+4626  간호사  ganhosa  nurse
+4627  개나리  gaenali  forsythia
+4628  고등학생  godeunghagsaeng  high school student
+4629  골목길  golmoggil  close
+4630  관람객  gwanlamgaeg  Audience
+4631  귀가  gwiga  homecoming
+4632  그리워하다  geuliwohada  miss
+4633  기억나다  gieognada  remember
+4634  기침  gichim  sneeze
+4635  노랫소리  nolaes-soli  singing
+4636  다섯  daseos  five
+4637  닭고기  dalg-gogi  chicken
+4638  대학교수  daehaggyosu  university professor
+4639  뒷문  dwismun  back door
+4640  딸아이  ttal-ai  daughter
+4641  레몬  lemon  lemon
+4642  만족스럽다  manjogseuleobda  I am satisfied
+4643  미움  mium  hate
+4644  바가지  bagaji  overpriced
+4645  발끝  balkkeut  tiptoe
+4646  배꼽  baekkob  navel
+4647  병실  byeongsil  ward
+4648  봉사하다  bongsahada  serve
+4649  비행장  bihaengjang  airfield
+4650  사랑스럽다  salangseuleobda  lovely
+4651  숟가락  sudgalag  Spoon
+4652  술병  sulbyeong  wine bottle
+4653  습기  seubgi  humidity
+4654  쓰이다  sseu-ida  write
+4655  엽서  yeobseo  Postcard
+4656  예보  yebo  forecast
+4657  요일  yoil  Day of the week
+4658  욕실  yogsil  bathroom
+4659  용감하다  yong-gamhada  brave
+4660  운전기사  unjeongisa  driver
+4661  위험성  wiheomseong  Risks
+4662  익다  igda  ripe
+4663  일  il  Work
+4664  장마  jangma  The rainy season
+4665  재학  jaehag  Attending
+4666  저  jeo  I
+4667  전기  jeongi  Electricity
+4668  전시하다  jeonsihada  display
+4669  정기적  jeong-gijeog  regularly
+4670  종교적  jong-gyojeog  religious
+4671  주관적  jugwanjeog  subjective
+4672  직장인  jigjang-in  Office workers
+4673  진심  jinsim  Sincerity
+4674  질문하다  jilmunhada  Ask a question
+4675  짧아지다  jjalb-ajida  shorten
+4676  찌다  jjida  steam
+4677  책가방  chaeggabang  school bag
+4678  천국  cheongug  heaven
+4679  치약  chiyag  toothpaste
+4680  큰절  keunjeol  big bow
+4681  학과  haggwa  Department
+4682  후회  huhoe  regret
+4683  강조  gangjo  emphasis
+4684  게시판  gesipan  notice board
+4685  공통점  gongtongjeom  commonality
+4686  과외  gwaoe  tutoring
+4687  교내  gyonae  on campus
+4688  금요일  geum-yoil  Friday
+4689  김밥  gimbab  kimbap
+4690  내적  naejeog  dot product
+4691  놀이터  nol-iteo  playground
+4692  다녀가다  danyeogada  go to
+4693  답장  dabjang  reply
+4694  때때로  ttaettaelo  sometimes
+4695  뜨다  tteuda  to rise
+4696  마라톤  malaton  marathon
+4697  매스컴  maeseukeom  media
+4698  무  mu  radish
+4699  묵다  mugda  lodge
+4700  바나나  banana  banana
+4701  발등  baldeung  instep of a foot
+4702  밤새  bamsae  Overnight
+4703  별일  byeol-il  special day
+4704  보내오다  bonaeoda  send
+4705  부채  bonaeoda  fan
+4706  불법  bulbeob  illegal
+4707  블라우스  beullauseu  blouse
+4708  사업가  sa-eobga  Entrepreneur
+4709  사이좋다  saijohda  get along
+4710  세상에  sesang-e  Oh my gosh
+4711  수고  sugo  effort
+4712  수요일  suyoil  Wednesday
+4713  슬퍼하다  seulpeohada  be sad
+4714  시금치  sigeumchi  spinach
+4715  신청서  sincheongseo  application
+4716  쓰레기통  sseulegitong  trash can
+4717  아랫사람  alaes-salam  subordinate
+4718  앞쪽  alaes-salam  front
+4719  앨범  aelbeom  album
+4720  양  aelbeom  album
+4721  여전하다  yeojeonhada  still
+4722  영남  yeongnam  Yeongnam
+4723  옥상  ogsang  rooftop
+4724  왼발  oenbal  left foot
+4725  운전하다  unjeonhada  drive
+4726  위  wi  stomach
+4727  일기  ilgi  diary
+4728  일자리  iljali  Job
+4729  자매  jamae  sisters
+4730  저번  jeobeon  last time
+4731  전시장  jeonsijang  showroom
+4732  절약  jeol-yag  Saving
+4733  정답  jeongdab  answer
+4734  정오  jeong-o  At noon
+4735  제대하다  jedaehada  be discharged
+4736  졸다  jolda  snooze
+4737  즉석  jeugseog  instant
+4738  지방  jibang  province
+4739  차차  chacha  cha cha
+4740  추측  chucheug  guess
+4741  충고  chung-go  advice
+4742  코피  kopi  Nosebleed
+4743  턱  teog  chin
+4744  팩시밀리  paegsimilli  fax
+4745  한낮  hannaj  midday
+4746  할인  hal-in  Sale
+4747  가득히  gadeughi  chock
+4748  간호  gadeughi  chock
+4749  갑  gab  the former
+4750  건너  geonneo  cross over
+4751  걷다  geodda  To Walk
+4752  겁나다  geobnada  scared
+4753  고구마  goguma  sweet potato
+4754  국기  guggi  flag
+4755  금메달  geummedal  gold medal
+4756  노트  noteu  note
+4757  눈감다  nungamda  close your eyes
+4758  눈뜨다  nuntteuda  wake up
+4759  대입  daeib  college
+4760  대화하다  daehwahada  Converse with
+4761  도마  daehwahada  Converse with
+4762  동화책  donghwachaeg  fairy tale book
+4763  딸기  donghwachaeg  Strawberry
+4764  땅바닥  ttalgi  Strawberry
+4765  모집하다  ttalgi  Strawberry
+4766  미워하다  miwohada  Hate
+4767  밤색  bamsaeg  brown
+4768  밥맛  babmas  Appetite
+4769  배우자  baeuja  Spouse
+4770  복사  bogsa  Copy
+4771  볶음밥  bokk-eumbab  fried rice
+4772  성별  seongbyeol  gender
+4773  세탁  setag  laundry
+4774  소문나다  somunnada  rumored
+4775  소용없다  soyong-eobsda  no use
+4776  속상하다  sogsanghada  upset
+4777  손수건  sonsugeon  handkerchief
+4778  송아지  song-aji  calf
+4779  수돗물  sudosmul  tap water
+4780  수만  suman  tens of thousands
+4781  수입되다  su-ibdoeda  imported
+4782  수입품  su-ibpum  imports
+4783  술자리  suljali  drinking party
+4784  식기  siggi  tableware
+4785  싼값  ssangabs  cheap
+4786  안  an  not
+4787  안부  anbu  safety
+4788  양주  yangju  liquor
+4789  어린이날  eolin-inal  Children's Day
+4790  영화배우  eolin-inal  Actor
+4791  오른발  oleunbal  right foot
+4792  용서  yongseo  Forgiveness
+4793  우편  upyeon  post
+4794  이사하다  isahada  Move house
+4795  일등  ildeung  first class
+4796  작아지다  jag-ajida  get smaller
+4797  정장  jeongjang  suit
+4798  좁히다  jobhida  make narrow
+4799  좋아  joh-a  great
+4800  죽  jug  porridge
+4801  줄무늬  julmunui  stripe
+4802  지워지다  jiwojida  be erased
+4803  지저분하다  jijeobunhada  dirty
+4804  진통  jintong  throes
+4805  찬성하다  chanseonghada  agree
+4806  참석  chamseog  attend
+4807  초콜릿  chokollis  chocolate
+4808  최고급  choegogeub  top quality
+4809  최상  choesang  the best
+4810  최악  choeag  worst
+4811  출국  chulgug  Departure
+4812  친해지다  chinhaejida  become friendly
+4813  코끝  kokkeut  tip of nose
+4814  터미널  teomineol  terminal
+4815  피자  pija  Pizza
+4816  한국적  pija  Pizza
+4817  햄  haem  ham
+4818  환영  haem  ham
+4819  가로수  galosu  colonnade
+4820  간식  gansig  snack
+4821  감  gam  Persimmon
+4822  개다  gaeda  fold
+4823  고급스럽다  gogeubseuleobda  luxurious
+4824  고소하다  gosohada  Sue
+4825  공주  gongju  Princess
+4826  깨어지다  gongju  break up
+4827  남  nam  male
+4828  네거리  negeoli  crossroads
+4829  노란색  nolansaeg  yellow
+4830  녹음하다  nog-eumhada  record
+4831  달러  dalleo  dollar
+4832  대여섯  daeyeoseos  five or six
+4833  되돌아보다  doedol-aboda  look back
+4834  등산로  deungsanlo  hiking trail
+4835  마사지  masaji  massage
+4836  만  man  just
+4837  먹히다  meoghida  get eaten
+4838  몸살  meoghida  get eaten
+4839  무더위  mudeowi  swelter
+4840  무용가  mudeowi  swelter
+4841  박스  muyong-ga  dancer
+4842  반기다  bangida  welcome
+4843  밥솥  babsot  rice cooker
+4844  베개  begae  pillow
+4845  벨트  belteu  belt
+4846  복사하다  bogsahada  To copy
+4847  붓다  busda  pour
+4848  비  bi  rain
+4849  사계절  sagyejeol  four Seasons
+4850  사과하다  sagwahada  apologize
+4851  사투리  satuli  Dialect
+4852  상금  sang-geum  reward
+4853  수저  sujeo  spoon and chopsticks
+4854  식욕  sig-yog  appetite
+4855  앞바다  apbada  offshore
+4856  얄밉다  yalmibda  stupid
+4857  양상추  yangsangchu  lettuce
+4858  여대생  yeodaesaeng  college girl
+4859  연기하다  yeongihada  Adjourn
+4860  온라인  onlain  online
+4861  외갓집  oegasjib  mother's house
+4862  외할머니  oehalmeoni  maternal grandmother
+4863  유능하다  yuneunghada  competent
+4864  유적지  yujeogji  Historic sites
+4865  음악가  eum-agga  Musician
+4866  응답하다  eum-agga  to respond
+4867  이롭다  ilobda  beneficial
+4868  이분  ibun  two minutes
+4869  인삼  insam  Ginseng
+4870  인상  insang  impression
+4871  입사  ibsa  join
+4872  자  ibsa  join
+4873  재활용  jaehwal-yong  recycle
+4874  점원  jeom-won  clerk
+4875  제삿날  jesasnal  memorial day
+4876  주름살  juleumsal  wrinkles
+4877  참고하다  chamgohada  refer to
+4878  찻잔  chasjan  teacup
+4879  철학적  cheolhagjeog  philosophical
+4880  초대  chodae  invite
+4881  추천하다  chucheonhada  recommend
+4882  칫솔  chis-sol  toothbrush
+4883  큰길  keungil  main street
+4884  판매되다  panmaedoeda  be sold
+4885  편  pyeon  side
+4886  포근하다  pogeunhada  comfy
+4887  포도  podo  grape
+4888  하나님  hananim  God
+4889  학력  haglyeog  Education
+4890  한정하다  hanjeonghada  limit
+4891  향상되다  hyangsangdoeda  improve
+4892  홈페이지  hompeiji  home page
+4893  횡단보도  hoengdanbodo  crosswalk
+4894  가톨릭  gatollig  Catholic
+4895  강당  gangdang  auditorium
+4896  건조하다  geonjohada  dry
+4897  걷기  geodgi  walking
+4898  고모부  gomobu  Uncle
+4899  공중전화  gongjungjeonhwa  Payphone
+4900  공통  gongtong  common
+4901  과거  gwageo  past
+4902  국가적  guggajeog  national
+4903  귓속  gwis-sog  in the ear
+4904  그래픽  geulaepig  graphic
+4905  근교  geungyo  suburb
+4906  기초적  gichojeog  basic
+4907  녹음  nog-eum  record
+4908  다양성  dayangseong  Diversity
+4909  대상자  daesangja  subject
+4910  동그라미  dong-geulami  circle
+4911  떠나오다  tteonaoda  leave
+4912  레이저  leijeo  laser
+4913  마중  majung  pick up
+4914  밝다  balgda  bright
+4915  밤중  bamjung  midnight
+4916  배드민턴  baedeuminteon  Badminton
+4917  배부르다  baebuleuda  full
+4918  버튼  beoteun  button
+4919  보수적  bosujeog  Conservative
+4920  불확실하다  bulhwagsilhada  uncertain
+4921  비만  biman  obesity
+4922  빗방울  bisbang-ul  raindrop
+4923  사회자  sahoeja  moderator
+4924  샤워  syawo  shower
+4925  서투르다  syawo  shower
+4926  세탁기  setaggi  washer
+4927  손뼉  sonppyeog  claps
+4928  손수  sonsu  handmade
+4929  송편  songpyeon  songpyeon
+4930  시들다  sideulda  wither
+4931  시디  sideulda  wither
+4932  신사  sinsa  Gentleman
+4933  신혼부부  sinhonbubu  newly married couple
+4934  싱겁다  sing-geobda  bland
+4935  쓸데없이  sseuldeeobs-i  needlessly
+4936  야하다  yahada  naughty
+4937  어쩌다가  eojjeodaga  how come
+4938  옛날이야기  yesnal-iyagi  old story
+4939  오븐  obeun  Oven
+4940  온종일  onjong-il  all day
+4941  와인  wain  wine
+4942  왕비  wangbi  Queen
+4943  우승하다  useunghada  win
+4944  운반  unban  carrying
+4945  웃어른  us-eoleun  grown-up
+4946  인사말  insamal  greetings
+4947  자판기  japangi  vending machine
+4948  장모님  jangmonim  mother in law
+4949  저녁때  jeonyeogttae  evening
+4950  저울  jeoul  Scale
+4951  적어지다  jeog-eojida  become less
+4952  지폐  jipye  money
+4953  진실로  jinsillo  truly
+4954  촛불  chosbul  Candlelight
+4955  출퇴근  chultoegeun  commute
+4956  치과  chigwa  Dentist
+4957  테스트  teseuteu  Test
+4958  통역  tong-yeog  translate
+4959  퇴근하다  toegeunhada  leave work
+4960  표시하다  pyosihada  Denote
+4961  피로하다  pilohada  tired
+4962  하  ha  under
+4963  한데  hande  together
+4964  혼잣말  honjasmal  soliloquy
+4965  화나다  hwanada  angry
+4966  효도하다  hyodohada  filial piety
+4967  힘없이  him-eobs-i  helplessly
+4968  가로  galo  width
+4969  갈아타다  gal-atada  transfer
+4970  건넌방  geonneonbang  cross room
+4971  곧이어  god-ieo  soon after
+4972  공기  gong-gi  air
+4973  굉장하다  goengjanghada  amazing
+4974  그래서  geulaeseo  therefore
+4975  기업인  gieob-in  businessmen
+4976  긴장되다  ginjangdoeda  to be nervous
+4977  깨끗해지다  kkaekkeushaejida  become clean
+4978  낚싯대  kkaekkeushaejida  become clean
+4979  남동생  namdongsaeng  younger brother
+4980  냇물  naesmul  stream
+4981  단골  dangol  custom
+4982  단맛  danmas  sweetness
+4983  담요  dam-yo  blanket
+4984  대  dam-yo  big
+4985  더러워지다  deoleowojida  get dirty
+4986  데우다  de-uda  warm up
+4987  도착  dochag  arrival
+4988  동그랗다  dong-geulahda  round
+4989  뛰어나오다  ttwieonaoda  jump out
+4990  레저  lejeo  leisure
+4991  로터리  loteoli  roundabout
+4992  무덥다  mudeobda  it's hot
+4993  뭘  mwol  What
+4994  반대편  bandaepyeon  opposite
+4995  발바닥  balbadag  sole
+4996  발톱  baltob  toenail
+4997  밝아지다  balg-ajida  brighten
+4998  밤새다  bamsaeda  all night
+4999  부잣집  bujasjib  rich house
+5000  분명해지다  bunmyeonghaejida  become clear
+5001  사진기  sajingi  camera
+5002  산길  sangil  mountain path
+5003  상추  sangchu  Lettuce
+5004  섭씨  seobssi  Celsius
+5005  소시지  sosiji  sausage
+5006  쇼핑  syoping  shopping
+5007  수업  sueob  class
+5008  스케줄  seukejul  schedule
+5009  스키  seuki  ski
+5010  시외  sioe  out of town
+5011  심각해지다  simgaghaejida  get serious
+5012  싹  ssag  bud
+5013  안심하다  ansimhada  rest assured
+5014  약  yag  approximately
+5015  약수  yagsu  measure
+5016  약품  yagpum  medicine
+5017  양배추  yangbaechu  cabbage
+5018  양보  yangbo  concession
+5019  양옆  yang-yeop  both sides
+5020  얕다  yatda  shallow
+5021  어두워지다  eoduwojida  darken
+5022  어쩜  eojjeom  How
+5023  엊그제  eojgeuje  yesterday
+5024  여고생  yeogosaeng  High school girls
+5025  여왕  yeowang  Queen
+5026  연기되다  yeowang  Queen
+5027  열  yeol  Heat
+5028  예약  yeyag  reservation
+5029  올라타다  ollatada  get on
+5030  운동화  undonghwa  sports shoes
+5031  이곳저곳  igosjeogos  all over the place
+5032  이다음  ida-eum  next
+5033  일회용품  ilhoeyongpum  disposable
+5034  읽히다  ilghida  get to read
+5035  잡수다  jabsuda  eat
+5036  장사꾼  jangsakkun  merchant
+5037  저런  jeoleon  like that
+5038  점심때  jeomsimttae  at lunch
+5039  주일  ju-il  weekend
+5040  즐거워하다  jeulgeowohada  have fun
+5041  집중하다  jibjunghada  Concentrate upon
+5042  짜다  jjada  salty
+5043  짜증스럽다  jjada  salty
+5044  천재  cheonjae  genius
+5045  초등학교  chodeunghaggyo  elementary School
+5046  초보  chobo  beginner
+5047  초여름  choyeoleum  early summer
+5048  초저녁  chojeonyeog  early evening
+5049  충돌하다  chungdolhada  collide
+5050  코트  chungdolhada  collide
+5051  피곤  pigon  tired
+5052  학비  hagbi  School expenses
+5053  해  hae  Sun
+5054  해외여행  haeoeyeohaeng  Overseas Travel
+5055  효자  hyoja  filial piety
+5056  감소되다  gamsodoeda  be reduced
+5057  강변  gangbyeon  riverside
+5058  공연되다  gong-yeondoeda  performed
+5059  공휴일  gonghyuil  holiday
+5060  괴로워하다  goelowohada  suffer
+5061  교시  gyosi  period
+5062  그리로  geulilo  to that
+5063  까먹다  kkameogda  forget
+5064  깜빡  kkamppag  Flash
+5065  깡패  kkangpae  bully
+5066  꾸다  kkuda  dream
+5067  낚시꾼  nakksikkun  angler
+5068  다양해지다  dayanghaejida  diversify
+5069  대중교통  daejung-gyotong  public transport
+5070  데려오다  delyeooda  bring
+5071  등록하다  deungloghada  It is registered
+5072  뛰놀다  ttwinolda  run around
+5073  뛰어오다  ttwieooda  jump
+5074  라켓  lakes  racket
+5075  리터  liteo  liter
+5076  마요네즈  mayonejeu  mayonnaise
+5077  마흔  maheun  forty
+5078  만세  manse  hurray
+5079  만화가  manhwaga  cartoonist
+5080  맘대로  mamdaelo  at will
+5081  머리말  meolimal  preface
+5082  면접  myeonjeob  interview
+5083  명함  myeongham  Business card
+5084  몸속  momsog  in the body
+5085  무책임하다  muchaeg-imhada  irresponsible
+5086  반짝거리다  banjjaggeolida  twinkle
+5087  밤새우다  bamsaeuda  stay up all night
+5088  번지  beonji  address
+5089  볼펜  bolpen  pen
+5090  빨간색  ppalgansaeg  Red
+5091  사립  salib  private
+5092  사생활  sasaenghwal  privacy
+5093  사이사이  saisai  Sai Sai
+5094  사자  saja  Lion
+5095  새소리  saesoli  birdsong
+5096  생활수준  saenghwalsujun  standard of living
+5097  서툴다  seotulda  clumsy
+5098  석사  seogsa  master
+5099  성당  seongdang  Cathedral
+5100  속마음  sogma-eum  heart
+5101  손잡다  sonjabda  hand in hand
+5102  숙녀  sugnyeo  Lady
+5103  순하다  sunhada  gentle
+5104  시댁  sidaeg  in-law's house
+5105  시부모  sibumo  mother-in-law
+5106  신체적  sinchejeog  physical
+5107  실수하다  silsuhada  Make a mistake
+5108  쓴맛  sseunmas  bitter
+5109  야옹  sseunmas  bitter
+5110  얼마간  eolmagan  somewhat
+5111  올여름  ol-yeoleum  this summer
+5112  외제  oeje  foreign
+5113  외출하다  oechulhada  go out
+5114  욕하다  yoghada  swear
+5115  위아래  wialae  up and down
+5116  음반  eumban  record
+5117  의논  uinon  discuss
+5118  이  i  this
+5119  이래서  ilaeseo  for this reason
+5120  이발소  ibalso  barbershop
+5121  자살하다  jasalhada  commit suicide
+5122  자연적  jayeonjeog  natural
+5123  장례식  janglyesig  funeral
+5124  재수  jaesu  luck
+5125  재작년  jaejagnyeon  last year
+5126  재채기  jaechaegi  sneeze
+5127  전구  jeongu  bulb
+5128  전문점  jeonmunjeom  specialty store
+5129  전통문화  jeontongmunhwa  traditional culture
+5130  정거장  jeong-geojang  station
+5131  존댓말  jondaesmal  Polite word
+5132  주전자  jujeonja  kettle
+5133  지우다  jiuda  erase
+5134  찬성  chanseong  agree
+5135  초보자  choboja  Beginner
+5136  초청장  chocheongjang  invitation
+5137  촌스럽다  chonseuleobda  rustic
+5138  카레  kale  Curry
+5139  컨디션  keondisyeon  Condition
+5140  코스모스  koseumoseu  Cosmos
+5141  킬로  killo  kilo
+5142  토론자  tolonja  panelist
+5143  튼튼히  teunteunhi  firmly
+5144  티셔츠  tisyeocheu  T-shirt
+5145  페인트  peinteu  Paint
+5146  평상시  pyeongsangsi  normally
+5147  학교생활  haggyosaenghwal  school life
+5148  한둘  handul  one or two
+5149  해물  haemul  seafood
+5150  형  hyeong  brother
+5151  혼나다  honnada  get scolded
+5152  가만  gaman  wait
+5153  감정적  gamjeongjeog  emotional
+5154  강북  gangbug  Gangbuk
+5155  거리  geoli  Street
+5156  고무신  gomusin  rubber shoes
+5157  고춧가루  gochusgalu  chili powder
+5158  관람  gwanlam  Preview
+5159  교외  gyooe  suburbs
+5160  교육비  gyoyugbi  education expenses
+5161  국립  guglib  establishment
+5162  금  geum  gold
+5163  기억되다  gieogdoeda  be remembered
+5164  까다  kkada  hatch
+5165  꽃씨  kkochssi  flower seed
+5166  꾸준하다  kkujunhada  steady
+5167  난방  nanbang  heating
+5168  내용물  naeyongmul  contents
+5169  녹화  noghwa  recording
+5170  농구  nong-gu  basketball
+5171  달다  dalda  Sweet
+5172  뒷골목  dwisgolmog  back street
+5173  들어주다  deul-eojuda  listen
+5174  디자이너  dijaineo  designer
+5175  따로따로  ttalottalo  Separately
+5176  뛰어나가다  ttwieonagada  run out
+5177  뛰어놀다  ttwieonolda  run around
+5178  라이벌  laibeol  rival
+5179  매번  maebeon  every time
+5180  먹다  meogda  To eat
+5181  무관심하다  mugwansimhada  indifferent
+5182  무사하다  musahada  safe
+5183  밤낮  bamnaj  night and day
+5184  배구  baegu  volleyball
+5185  번역하다  beon-yeoghada  Translate into
+5186  병아리  beon-yeoghada  Translate into
+5187  부지런하다  byeong-ali  Chick
+5188  부피  bupi  volume
+5189  비기다  bigida  draw
+5190  생활용품  bigida  draw
+5191  선풍기  seonpung-gi  fan
+5192  세로  selo  Vertical
+5193  섹시하다  segsihada  Sexy
+5194  소비하다  sobihada  spend
+5195  수리하다  sulihada  Repair
+5196  스물  seumul  twenty
+5197  식료품  siglyopum  grocery
+5198  식히다  sighida  cool down
+5199  싫어지다  silh-eojida  hate
+5200  씻기다  ssisgida  wash
+5201  얼리다  eollida  freeze
+5202  여직원  yeojig-won  female employee
+5203  열리다  yeollida  open
+5204  옆방  yeopbang  next door
+5205  오피스텔  opiseutel  Officetels
+5206  올가을  olga-eul  this fall
+5207  와이셔츠  waisyeocheu  shirt
+5208  원피스  wonpiseu  one piece
+5209  윗사람  wis-salam  superior
+5210  이민  imin  immigrant
+5211  이성  iseong  Sane
+5212  이혼하다  ihonhada  divorce
+5213  인제  inje  Inje
+5214  입사하다  ibsahada  join
+5215  재우다  jaeuda  load with
+5216  전시되다  jeonsidoeda  be exhibited
+5217  졸리다  jollida  Sleepy
+5218  졸음  jol-eum  drowsiness
+5219  종이컵  jong-ikeob  paper cup
+5220  주문  jumun  order
+5221  지능  jineung  Intellect
+5222  쩔쩔매다  jjeoljjeolmaeda  be embarrassed
+5223  철  cheol  steel
+5224  청바지  cheongbaji  Blue jeans
+5225  추가되다  chugadoeda  added
+5226  치료법  chilyobeob  cure
+5227  치우다  chiuda  clean up
+5228  코끼리  kokkili  elephant
+5229  콘서트  konseoteu  concert
+5230  큰소리  keunsoli  loud
+5231  큰아들  keun-adeul  eldest son
+5232  특급  teuggeub  Express
+5233  평일  pyeong-il  weekday
+5234  풀어지다  pyeong-il  weekday
+5235  한겨울  hangyeoul  midwinter
+5236  한평생  hanpyeongsaeng  a lifetime
+5237  해수욕장  haesuyogjang  Beach
+5238  핸드폰  haendeupon  Hand phone
+5239  허허  heoheo  haha
+5240  호실  hosil  room
+5241  휴지통  hyujitong  trash can
+5242  흐려지다  heulyeojida  become cloudy
+5243  희망하다  huimanghada  I hope
+5244  힘들어하다  himdeul-eohada  have a hard time
+5245  강의하다  gang-uihada  lecture
+5246  걱정되다  geogjeongdoeda  worried about
+5247  공연하다  gong-yeonhada  perform
+5248  내과  naegwa  medicine
+5249  넷째  nesjjae  fourth
+5250  된장찌개  doenjangjjigae  soy bean paste soup
+5251  목걸이  doenjangjjigae  soy bean paste soup
+5252  무지개  mujigae  Rainbow
+5253  문법  munbeob  grammar
+5254  볶음  bokk-eum  stir-fry
+5255  볼링  bolling  Bowling
+5256  비둘기  bidulgi  pigeon
+5257  생활비  saenghwalbi  living expenses
+5258  스키장  seukijang  ski resort
+5259  시대적  sidaejeog  historical
+5260  쓰다  sseuda  write
+5261  앞문  apmun  front door
+5262  인도  indo  India
+5263  책방  chaegbang  bookstore
+5264  추가하다  chugahada  add
+5265  칠판  chilpan  blackboard
+5266  크리스마스  keuliseumaseu  Christmas
+5267  탁구  taggu  Ping-pong
+5268  현대적  hyeondaejeog  modern
+5269  구  gu  nine
+5270  나흘  naheul  four days
+5271  늦가을  neujga-eul  late autumn
+5272  다이어트  daieoteu  Diet
+5273  목요일  mog-yoil  Thursday
+5274  못생기다  mos-saeng-gida  ugly
+5275  영화관  yeonghwagwan  Cinema
+5276  예술적  yesuljeog  artistic
+5277  장모  jangmo  Mother-in-law
+5278  중국집  jung-gugjib  Chinese restaurant
+5279  지우개  jiugae  eraser
+5280  지하도  jihado  underpass
+5281  튀김  twigim  fried food
+5282  고궁  gogung  Forbidden City
+5283  고속버스  gosogbeoseu  Express Bus
+5284  단추  danchu  button
+5285  대중적  daejungjeog  popular
+5286  뚱뚱하다  ttungttunghada  Fat
+5287  미역  miyeog  Seaweed
+5288  반말  banmal  half horse
+5289  분홍색  bunhongsaeg  pink
+5290  사  bunhongsaeg  pink
+5291  소포  sopo  parcel
+5292  손녀  sonnyeo  Granddaughter
+5293  수영장  suyeongjang  swimming pool
+5294  아래층  alaecheung  Downstairs
+5295  일본어  ilbon-eo  Japanese
+5296  작은아버지  jag-eun-abeoji  uncle
+5297  잠옷  jam-os  Pajamas
+5298  장갑  jang-gab  Gloves
+5299  초순  chosun  early spring
+5300  퇴원하다  toewonhada  discharge
+5301  하순  hasun  late
+5302  갈비  galbi  rib
+5303  기혼  gihon  married
+5304  도장  dojang  stamp
+5305  동물원  dongmul-won  Zoo
+5306  모레  mole  day after tomorrow
+5307  삼계탕  samgyetang  Samgyetang
+5308  생신  saengsin  birthday
+5309  서른  seoleun  thirty
+5310  시내버스  sinaebeoseu  city bus
+5311  아홉  ahob  nine
+5312  예약하다  yeyaghada  Reserve
+5313  우표  upyo  stamp
+5314  장미  jangmi  rose
+5315  천둥  cheondung  Thunder
+5316  퇴원  toewon  Discharge
+5317  파란색  palansaeg  blue
+5318  게으르다  geeuleuda  lazy
+5319  기념품  ginyeompum  souvenir
+5320  냉면  naengmyeon  Cold noodles
+5321  단풍  danpung  Maple
+5322  독일어  dog-il-eo  German
+5323  떡볶이  tteogbokk-i  Tteokbokki
+5324  문학적  munhagjeog  literary
+5325  미끄럽다  mikkeuleobda  slippery
+5326  복숭아  bogsung-a  peach
+5327  비빔밥  bibimbab  bibimbap
+5328  여든  yeodeun  eighty
+5329  외아들  oeadeul  only son
+5330  이따가  ittaga  later
+5331  일흔  ilheun  seventy
+5332  장인  jang-in  master
+5333  화요일  hwayoil  Tuesday
+5334  강아지  gang-aji  puppy
+5335  닷새  das-sae  five days
+5336  동서남북  dongseonambug  east west north
+5337  선물하다  seonmulhada  present
+5338  아이스크림  aiseukeulim  ice cream
+5339  외할아버지  oehal-abeoji  My mother's father
+5340  요리하다  yolihada  Cook
+5341  입국  ibgug  Entrance
+5342  주차  jucha  parking
+5343  체육관  cheyuggwan  gym
+5344  최소  choeso  Ieast
+5345  칠  chil  seven
+5346  칼국수  kalgugsu  Kalguksu
+5347  큰아버지  keun-abeoji  uncle
+5348  홍차  hongcha  black tea
+5349  국민적  gugminjeog  national
+5350  국제선  gugjeseon  international
+5351  동양인  dong-yang-in  an Asian
+5352  맛없다  mas-eobsda  not delicious
+5353  백  baeg  hundred
+5354  사십  sasib  Fourty
+5355  안과  angwa  Ophthalmology
+5356  연락처  angwa  Ophthalmology
+5357  연세  yeonse  age
+5358  예식장  yesigjang  wedding hall
+5359  월세  wolse  monthly
+5360  위층  wicheung  upstairs
+5361  인삼차  insamcha  ginseng tea
+5362  진찰  jinchal  examination
+5363  초록색  chologsaeg  green
+5364  축구공  chuggugong  soccer ball
+5365  큰딸  keunttal  eldest daughter
+5366  팔  pal  eight
+5367  결석  gyeolseog  absent
+5368  김치찌개  gimchijjigae  Kimchi stew
+5369  녹차  nogcha  green tea
+5370  독감  doggam  flu
+5371  만두  mandu  dumpling
+5372  발음하다  bal-eumhada  pronounce
+5373  보라색  bolasaeg  purple
+5374  복습하다  bogseubhada  review
+5375  스케이트  seukeiteu  skate
+5376  실례하다  sillyehada  excuse me
+5377  여섯  yeoseos  six
+5378  연두색  yeondusaeg  light green
+5379  온돌  ondol  On-dol
+5380  육  yug  six
+5381  일곱  ilgob  seven
+5382  출입국  chul-ibgug  Immigration
+5383  클래식  keullaesig  classic
+5384  팝송  pabsong  pop song
+5385  팩스  paegseu  fax
+5386  국내선  gugnaeseon  domestic flight
+5387  떡국  tteoggug  tteokguk
+5388  복습  bogseub  review
+5389  삼십  samsib  thirty
+5390  성함  seongham  name
+5391  세탁소  setagso  laundry
+5392  시외버스  sioebeoseu  intercity bus
+5393  야구장  yagujang  Baseball Stadium
+5394  오십  osib  fifty
+5395  운동복  undongbog  Sportswear
+5396  작은아들  jag-eun-adeul  little son
+5397  잠자리  jamjali  dragonfly
+5398  주차하다  juchahada  park
+5399  중국어  jung-gug-eo  Chinese
+5400  청소기  cheongsogi  vacuum cleaner
+5401  칠십  chilsib  seventy
+5402  필통  piltong  pencilcase
+5403  학생증  hagsaengjeung  Student ID
+5404  형수  hyeongsu  Sister-in-law
+5405  공항버스  gonghangbeoseu  airport bus
+5406  관광버스  gwangwangbeoseu  tour bus
+5407  그저께  geujeokke  Day before yesterday
+5408  냉방  naengbang  cooling
+5409  눈병  nunbyeong  snow disease
+5410  다섯째  daseosjjae  fifth
+5411  배추김치  baechugimchi  Kimchi
+5412  사탕  satang  candy
+5413  색연필  saeg-yeonpil  color pencil
+5414  소아과  soagwa  Pediatrics
+5415  양력  yanglyeog  lift
+5416  예순  yesun  sixty
+5417  오  o  Five
+5418  작은어머니  jag-eun-eomeoni  little mother
+5419  축구장  chuggujang  soccer field
+5420  한글날  hangeulnal  Hangul Day
+5421  한식  hansig  Korean
+5422  넉  neog  four
+5423  메일  meil  Mail
+5424  복사기  bogsagi  copy machine
+5425  빗  bis  comb
+5426  설렁탕  seolleongtang  Sullungtang
+5427  아드님  adeunim  son
+5428  천  cheon  cloth
+5429  결석하다  cheon  be absent
+5430  기념일  ginyeom-il  Anniversary
+5431  까만색  kkamansaeg  black
+5432  내후년  naehunyeon  next year
+5433  따님  ttanim  daughter
+5434  쉰  swin  hoarse
+5435  시아버지  siabeoji  Father in law
+5436  식품점  sigpumjeom  grocery store
+5437  약혼녀  yaghonnyeo  fiancee
+5438  어저께  eojeokke  yesterday
+5439  영상  yeongsang  video
+5440  예매하다  yemaehada  Reserve
+5441  예습  yeseub  Preview
+5442  예습하다  yeseubhada  study
+5443  육십  yugsib  sixty
+5444  출석하다  chulseoghada  attend
+5445  큰어머니  keun-eomeoni  great mother
+5446  팔십  palsib  eighty
+5447  멍멍  meongmeong  Woof woof
+5448  분필  bunpil  chalk
+5449  약혼자  yaghonja  fiance
+5450  양식  yangsig  form
+5451  억  eog  100 million
+5452  여덟  yeodeolb  eight
+5453  외과  oegwa  surgery
+5454  제과점  jegwajeom  bakery
+5455  중식  jungsig  Chinese food
+5456  케첩  kecheob  ketchup
+5457  편의점  pyeon-uijeom  convenience store
+5458  갈비탕  galbitang  Galbitang
+5459  검정색  geomjeongsaeg  black
+5460  미용실  miyongsil  Salon
+5461  아흔  aheun  ninety
+5462  이십  isib  Twenty
+5463  일식  ilsig  Solar eclipse
+5464  작은딸  jag-eunttal  little daughter
+5465  저곳  jeogos  over there
+5466  초등학생  chodeunghagsaeng  Elementary student
+5467  하얀색  hayansaeg  White

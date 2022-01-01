@@ -1,6 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
+import time
 
 chrome_driver_path = "C:\development\chromedriver.exe"
 ser = Service(chrome_driver_path)
@@ -11,14 +12,20 @@ driver.get("https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Korean_580
 parent = driver.title
 words = driver.find_elements(by=By.CSS_SELECTOR, value=".Kore a")
 driver.execute_script("window.open('about:blank','secondtab');")
+driver.switch_to.window("secondtab")
+driver.get(f'https://www.google.com/search?q=korean+to+english')
+driver.switch_to.window(driver.window_handles[0])
 number = 1
+
 for word in words:
     word = word.text
-
     driver.switch_to.window("secondtab")
-    driver.get(f'https://www.google.com/search?q=korean+to+english+{word}')
 
+    search = driver.find_element(by=By.CSS_SELECTOR, value="#tw-source-text-ta")
+    search.send_keys(word)
+    time.sleep(1)
     pronunciation = driver.find_element(by=By.CSS_SELECTOR, value="#tw-source-rmn-container span").text
+
     translation = driver.find_element(by=By.CSS_SELECTOR, value="#kAz1tf span.Y2IQFc").text
 
     print(number, word, pronunciation, translation)
