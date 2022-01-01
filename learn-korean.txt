@@ -1,0 +1,54 @@
+﻿1  것  geos  thing
+2  하다  hada  do
+3  있다  issda  have
+4  되다  doeda  to be
+5  나  na  me
+6  없다  eobsda  none
+7  사람  salam  Person
+8  우리  uli  Us
+9  아니다  anida  no
+10  같다  gatda  same
+11  대하다  daehada  treat
+12  년  nyeon  year
+13  때문  ttaemun  because
+14  말하다  malhada  say
+15  위하다  wihada  for
+16  그러나  geuleona  However
+17  알다  alda  to know
+18  그렇다  geuleohda  Yes
+19  또  tto  In addition
+20  사회  sahoe  Social
+21  많다  manhda  many
+22  좋다  johda  good
+23  더  deo  more
+24  받다  badda  Receive
+25  그것  geugeos  that
+26  집  jib  Home
+27  나오다  naoda  come out
+28  그리고  geuligo  and
+29  문제  munje  Problem
+30  그런  geuleon  that
+31  살다  salda  live
+32  생각하다  saeng-gaghada  Think
+33  모르다  moleuda  do not know
+34  속  sog  inside
+35  만들다  mandeulda  to make
+36  데  de  place
+37  두  du  two
+38  앞  ap  front
+39  경우  gyeong-u  case
+40  중  jung  middle
+41  어떤  eotteon  which
+42  잘  jal  well
+43  그녀  geunyeo  she
+44  오다  oda  come
+45  문화  munhwa  culture
+46  생각  saeng-gag  thought
+47  어떻다  eotteohda  how
+48  명  myeong  number of people
+49  통하다  tonghada  pass
+50  그러다  geuleoda  Then
+51  소리  soli  sound
+52  다시  dasi  again
+53  다른  daleun  Different
+54  이런  ileon  this
